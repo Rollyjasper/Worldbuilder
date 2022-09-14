@@ -1,0 +1,33 @@
+{
+    "Primary": {
+        " Turret Projectile Laser Cannon": [
+            10,
+            "External"
+        ],
+        "Heavy Photon Bolt Cannon Miscellaneous": [
+            4,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " EMP Cannon": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

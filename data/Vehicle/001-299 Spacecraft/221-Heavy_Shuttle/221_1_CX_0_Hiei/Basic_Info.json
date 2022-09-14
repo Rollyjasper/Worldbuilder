@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Hiei",
+        "Class Type": "221",
+        "Class Type Name": "Heavy_Shuttle",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "CX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

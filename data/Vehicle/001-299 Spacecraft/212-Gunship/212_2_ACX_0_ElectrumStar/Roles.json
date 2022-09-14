@@ -1,0 +1,16 @@
+{
+    "Primary": {
+        "Roles": [
+            "Infantry Support",
+            "Station Assault",
+            "Station Defence"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Rescue",
+            "Anti-Fighter",
+            "Landing Craft"
+        ]
+    }
+}

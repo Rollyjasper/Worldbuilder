@@ -1,0 +1,35 @@
+{
+    "Characteristics": {
+        "Length": [
+            2500,
+            "m"
+        ],
+        "Width": [
+            400,
+            "m"
+        ],
+        "Decks": [
+            103
+        ],
+        "Height": [
+            412,
+            "m"
+        ],
+        "Pylon Length": [
+            1750,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The Fame around the gold star class ships has made the the figure-head of the Avingarde.",
+        "1": "These ship destinct shape and large size make them standout on most battlefields."
+    }
+}

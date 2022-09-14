@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Dragon",
+        "Class Type": "126",
+        "Class Type Name": "Missile_Corvette",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "25",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

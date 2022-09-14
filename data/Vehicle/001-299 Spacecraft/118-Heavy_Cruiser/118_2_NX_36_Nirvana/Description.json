@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            1664,
+            "m"
+        ],
+        "Saucer Width": [
+            430,
+            "m"
+        ],
+        "Main Hull Width": [
+            675,
+            "m"
+        ],
+        "Decks": [
+            75
+        ],
+        "Height": [
+            300,
+            "m"
+        ],
+        "Nacelle Count": [
+            1
+        ]
+    },
+    "Description": {
+        "0": "The 'saucer' hull takes the shape of a long, thin, squished elipisoid.",
+        "1": "The nacelle takes the form of a ring around aft of the 'saucer' hull about halfway down the front and rear tapers.",
+        "2": "The secondary hull sits in the middle of the main hull as a simmilar flat ovoid that is perpendicular the the semi-major axis."
+    }
+}

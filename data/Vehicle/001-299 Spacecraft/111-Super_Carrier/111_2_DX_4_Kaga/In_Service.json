@@ -1,0 +1,16 @@
+{
+    "List": {
+        "111-2-DX-401": "Kaga",
+        "111-2-DX-402": "Canberra",
+        "111-2-DX-403": "Mephistophelian",
+        "111-2-DX-404": "Faythe",
+        "111-2-DX-405": "Arcadia",
+        "111-2-DX-406": "Kuwa"
+    },
+    "Totals": {
+        "Commissioned": 6,
+        "Active": 6,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

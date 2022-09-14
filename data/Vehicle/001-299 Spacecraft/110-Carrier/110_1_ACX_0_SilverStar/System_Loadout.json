@@ -1,0 +1,51 @@
+{
+    "Power Core": {
+        "Primary_Type": "Lightning",
+        "Primary_Version": 4,
+        "Primary_Style": "Enhanced Grav Arc",
+        "Primary_Variation": null,
+        "Secondary_Type": "Fusion",
+        "Secondary_Version": 19,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light Drive": "Dampened Gravitaional",
+        "Sub-Light Count": 9,
+        "Sub-Light Mod": null,
+        "FTL Drive": "Dimentional Accelerant",
+        "FTL Count": 1,
+        "FTL Mod": null,
+        "Atmospheric Drive": null,
+        "Atmospheric Count": 0,
+        "Atmospheric Mod": null,
+        "Aquatic Drive": null,
+        "Aquatic Count": 0,
+        "Aquatic Mod": null,
+        "Terrestrial Drive": null,
+        "Terrestrial Count": 0,
+        "Terrestrial Mod": null,
+        "Temporal Drive": null,
+        "Temporal Count": 0,
+        "Temporal Mod": null
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 32,
+        "AI": "Ascendancy",
+        "A.S.T.R": "Type-1,Origin"
+    },
+    "Other": {
+        "Probe Launcher": 40,
+        "Personnel Transporter": 12,
+        "Cargo Transporter": 15,
+        "Sensor Relay and Enhancement Module": 12,
+        "Dimentional Cloak": 1,
+        "Sensor Cloak": 1,
+        "Command Relay Module": 120
+    }
+}

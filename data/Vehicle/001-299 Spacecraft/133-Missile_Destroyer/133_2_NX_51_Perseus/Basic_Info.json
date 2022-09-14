@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Perseus",
+        "Class Type": "133",
+        "Class Type Name": "Missile_Destroyer",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "51",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

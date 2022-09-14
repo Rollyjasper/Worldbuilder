@@ -1,0 +1,398 @@
+{
+    "001":{
+        "Size":"Giga Drone Bay",
+        "Num":100
+    },
+    "002":{
+        "Size":"Giga Drone Bay",
+        "Num":10
+    },
+    "003":{
+        "Size":"Giga Drone Bay",
+        "Num":500
+    },
+    "004":{
+        "Size":"Mega Drone Bay",
+        "Num":1
+    },
+    "110":{
+        "Size":"Large Drone Bay",
+        "Num":1
+    },
+    "111":{
+        "Size":"Mega Drone Bay",
+        "Num":1
+    },
+    "112":{
+        "Size":"Large Drone Bay",
+        "Num":6
+    },
+    "113":{
+        "Size":"Large Drone Bay",
+        "Num":4
+    },
+    "114":{
+        "Size":"Large Drone Bay",
+        "Num":4
+    },
+    "115":{
+        "Size":"Large Drone Bay",
+        "Num":2
+    },
+    "116":{
+        "Size":"Mega Drone Bay",
+        "Num":4
+    },
+    "117":{
+        "Size":"Large Drone Bay",
+        "Num":2
+    },
+    "118":{
+        "Size":"Drone Bay",
+        "Num":2
+    },
+    "119":{
+        "Size":"Drone Bay",
+        "Num":1
+    },
+    "120":{
+        "Size":"Drone Bay",
+        "Num":1
+    },
+    "121":{
+        "Size":"Drone Bay",
+        "Num":3
+    },
+    "122":{
+        "Size":"Drone Bay",
+        "Num":1
+    },
+    "123":{
+        "Size":"Tiny Drone Bay",
+        "Num":2
+    },
+    "124":{
+        "Size":"Tiny Drone Bay",
+        "Num":1
+    },
+    "125":{
+        "Size":"Tiny Drone Bay",
+        "Num":4
+    },
+    "126":{
+        "Size":"Tiny Drone Bay",
+        "Num":2
+    },
+    "127":{
+        "Size":"Tiny Drone Bay",
+        "Num":3
+    },
+    "128":{
+        "Size":"Small Drone Bay",
+        "Num":2
+    },
+    "129":{
+        "Size":"Small Drone Bay",
+        "Num":3
+    },
+    "130":{
+        "Size":"Small Drone Bay",
+        "Num":2
+    },
+    "131":{
+        "Size":"Small Drone Bay",
+        "Num":3
+    },
+    "132":{
+        "Size":"Small Drone Bay",
+        "Num":4
+    },
+    "133":{
+        "Size":"Small Drone Bay",
+        "Num":2
+    },
+    "134":{
+        "Size":"Small Drone Bay",
+        "Num":1
+    },
+    "210":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "211":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "212":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "213":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "214":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "215":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "216":{
+        "Size":"Micro Drone Bay",
+        "Num":4
+    },
+    "217":{
+        "Size":"Micro Drone Bay",
+        "Num":4
+    },
+    "218":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "219":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "220":{
+        "Size":"Micro Drone Bay",
+        "Num":4
+    },
+    "221":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "222":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "223":{
+        "Size":"Micro Drone Bay",
+        "Num":4
+    },
+    "290":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "291":{
+        "Size":"Nano Drone Bay",
+        "Num":2
+    },
+    "292":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "293":{
+        "Size":"Nano Drone Bay",
+        "Num":3
+    },
+    "301":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "302":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "303":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "304":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "305":{
+        "Size":"Micro Drone Bay",
+        "Num":6
+    },
+    "306":{
+        "Size":"Small Drone Bay",
+        "Num":1
+    },
+    "307":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "308":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "309":{
+        "Size":"Nano Drone Bay",
+        "Num":2
+    },
+    "310":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "311":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "312":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "313":{
+        "Size":"Nano Drone Bay",
+        "Num":2
+    },
+    "314":{
+        "Size":"Nano Drone Bay",
+        "Num":4
+    },
+    "315":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "316":{
+        "Size":"Nano Drone Bay",
+        "Num":10
+    },
+    "401":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "402":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "403":{
+        "Size":"Nano Drone Bay",
+        "Num":2
+    },
+    "404":{
+        "Size":"Nano Drone Bay",
+        "Num":2
+    },
+    "405":{
+        "Size":"Nano Drone Bay",
+        "Num":1
+    },
+    "406":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "501":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "502":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "503":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "504":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "505":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "506":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "507":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "508":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "509":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "510":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "511":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "512":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "513":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "514":{
+        "Size":"Small Drone Bay",
+        "Num":1
+    },
+    "515":{
+        "Size":"Small Drone Bay",
+        "Num":1
+    },
+    "516":{
+        "Size":"Small Drone Bay",
+        "Num":2
+    },
+    "517":{
+        "Size":"Small Drone Bay",
+        "Num":4
+    },
+    "601":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "602":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "603":{
+        "Size":"Micro Drone Bay",
+        "Num":3
+    },
+    "604":{
+        "Size":"Small Drone Bay",
+        "Num":1
+    },
+    "605":{
+        "Size":"Small Drone Bay",
+        "Num":2
+    },
+    "606":{
+        "Size":"Drone Bay",
+        "Num":4
+    },
+    "607":{
+        "Size":"Micro Drone Bay",
+        "Num":1
+    },
+    "608":{
+        "Size":"Micro Drone Bay",
+        "Num":2
+    },
+    "701":{
+        "Size":"Large Drone Bay",
+        "Num":2
+    },
+    "702":{
+        "Size":"Large Drone Bay",
+        "Num":2
+    },
+    "703":{
+        "Size":"Large Drone Bay",
+        "Num":4
+    },
+    "704":{
+        "Size":"Large Drone Bay",
+        "Num":5
+    },
+    "705":{
+        "Size":"Large Drone Bay",
+        "Num":5
+    }
+}

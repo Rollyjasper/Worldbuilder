@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "EclipseStar",
+        "Class Type": "111",
+        "Class Type Name": "Super_Carrier",
+        "Class Sub-Type": "Intel",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            950.0,
+            "MPc"
+        ]
+    }
+}

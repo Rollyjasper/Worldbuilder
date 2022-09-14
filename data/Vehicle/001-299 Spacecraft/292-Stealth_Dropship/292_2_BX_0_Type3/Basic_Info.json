@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Type3",
+        "Class Type": "292",
+        "Class Type Name": "Stealth_Dropship",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "BX",
+        "Order": "0",
+        "Range": [
+            0,
+            "MPc"
+        ]
+    }
+}

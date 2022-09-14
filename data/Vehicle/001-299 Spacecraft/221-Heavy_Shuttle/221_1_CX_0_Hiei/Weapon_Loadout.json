@@ -1,0 +1,23 @@
+{
+    "Primary": {
+        "Mono Band Multi Frequency White Phaser Cannons": [
+            2,
+            "External"
+        ],
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {},
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

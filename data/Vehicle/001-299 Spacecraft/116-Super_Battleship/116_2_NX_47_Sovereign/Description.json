@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            15,
+            "Km"
+        ],
+        "Saucer Width": [
+            "2.25",
+            "Km"
+        ],
+        "Main Hull Width": [
+            "1.125",
+            "Km"
+        ],
+        "Decks": [
+            320
+        ],
+        "Height": [
+            1280,
+            "m"
+        ],
+        "Nacelle Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "Single hull peice and nacelles mounted above and below the saucer.",
+        "1": "Taking the arrow head shape from the Royal Class, Sovereign Class ships took the design to the extreeme.",
+        "2": "Being incredibly long and thin the only part of the design that doesn't look fast standing still was the nacelles, mounted just above the hull of the saucer section with perpendicular struts."
+    }
+}

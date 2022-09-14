@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "GoldStar",
+        "Class Type": "115",
+        "Class Type Name": "Battlecruiser",
+        "Class Sub-Type": "Flight-Deck",
+        "Generation": "1",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

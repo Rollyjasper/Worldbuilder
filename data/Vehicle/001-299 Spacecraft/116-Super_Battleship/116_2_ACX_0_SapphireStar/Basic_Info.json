@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "SapphireStar",
+        "Class Type": "116",
+        "Class Type Name": "Super_Battleship",
+        "Class Sub-Type": "Carrier Hybrid",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            950.0,
+            "MPc"
+        ]
+    }
+}

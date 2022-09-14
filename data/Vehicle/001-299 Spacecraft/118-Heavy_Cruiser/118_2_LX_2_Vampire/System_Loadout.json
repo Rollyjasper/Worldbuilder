@@ -1,0 +1,74 @@
+{
+    "Power Core": {
+        "Primary_Type": "Solar",
+        "Primary_Version": 2,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 4,
+        "Secondary_Style": "Cold Star Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Warp",
+        "Tertiary_Version": 8,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Experimental",
+                3,
+                "Steller"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Photon Based"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 25,
+        "AI": "Zennith",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 8,
+        "Command Relay Module": 8,
+        "Personnel Transporter": 3,
+        "Cargo Transporter": 4,
+        "Stellar Matter Collecter": 8
+    },
+    "Notes": {}
+}

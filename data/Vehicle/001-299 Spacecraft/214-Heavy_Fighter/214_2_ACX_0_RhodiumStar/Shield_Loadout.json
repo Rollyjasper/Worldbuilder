@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 8
+    },
+    "Secondary": {
+        "Type": "Defence",
+        "Sub-Type": "Shuttle",
+        "Version": 3
+    },
+    "Tertiary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "N",
+        "Bay Count": 2
+    },
+    "Navigational": {
+        "Mount": "Intergrated",
+        "Version": "HF"
+    },
+    "Hull": {
+        "Type": "Star Type"
+    },
+    "Notes": {}
+}

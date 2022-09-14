@@ -1,0 +1,36 @@
+{
+    "Primary": {
+        " Photonic Warhead Bomb": [
+            4,
+            "Bay"
+        ],
+        " Thermal Warhead Bomb": [
+            1,
+            "Bay"
+        ],
+        " Cocytus Warhead Bomb": [
+            1,
+            "Bay"
+        ]
+    },
+    "Secondary": {
+        " Turret Projectile Laser Cannon": [
+            1,
+            "Fore"
+        ],
+        "Dual Turret Projectile Laser Cannon": [
+            1,
+            "Aft"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Nano Drone Bay": [
+            2,
+            "Dorsal"
+        ]
+    },
+    "Notes": {}
+}

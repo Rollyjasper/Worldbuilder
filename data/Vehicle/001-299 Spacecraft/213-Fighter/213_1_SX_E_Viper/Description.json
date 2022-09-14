@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            12,
+            "m"
+        ],
+        "Width": [
+            "1.24",
+            "m"
+        ],
+        "Height": [
+            2,
+            "m"
+        ],
+        "Wingspan": [
+            4,
+            "m"
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Weapon"
+        ]
+    },
+    "Description": {
+        "0": "A reliable fighter designed for space combat.",
+        "1": "Advanced RCS and Inertial Dampening systems enable high-G turns with no risk to the pilot.",
+        "2": "All personnel have basic combat training with these ships."
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Primary": {
+        "Mono Band Multi Frequency Blue Phaser Atmospheric": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Shocking Firebird Railgun": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            2,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

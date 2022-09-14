@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 10
+    },
+    "Secondary": {
+        "Type": "Blackout",
+        "Sub-Type": "Standard",
+        "Version": 10
+    },
+    "Tertiary": {
+        "Type": "Defence",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "M",
+        "Bay Count": 1
+    },
+    "Navigational": {
+        "Mount": "Deflector",
+        "Version": 13
+    },
+    "Hull": {
+        "Type": "Composite"
+    },
+    "Notes": {}
+}

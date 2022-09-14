@@ -1,0 +1,84 @@
+{
+    "Power Core": {
+        "Primary_Type": "Warp",
+        "Primary_Version": 1,
+        "Primary_Style": "Chronoton Enhanced",
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 3,
+        "Secondary_Style": "Chronoton Enhanced Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 19,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": "Heavy"
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Impulse",
+                8,
+                "Heavy"
+            ]
+        ],
+        "FTL": [
+            [
+                "Other",
+                4,
+                "Turbine Spatial Hyperdrives"
+            ],
+            [
+                "Other",
+                1,
+                "Tactical Spatial Jump Drive"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "Accelerant",
+                1,
+                "Spatial-Temporal"
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 32,
+        "AI": "Benevolence",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 4,
+        "Dimentional Probe Launcher": 2,
+        "Cargo Transporter": 2,
+        "Personnel Transporter": 2,
+        "Command Relay Module": 8,
+        "Temporal Relay Module": 32,
+        "Sensor Drone": 16,
+        "Sensor Cloak": 1,
+        "Optical Cloak": 1,
+        "Drone Foundry": 1
+    },
+    "Notes": {}
+}

@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Kerrera",
+        "Class Type": "119",
+        "Class Type Name": "Light_Cruiser",
+        "Class Sub-Type": "Patrol",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "44",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Black Phaser Strip": [
+            18,
+            "External"
+        ],
+        "Quad Band Multi Frequency Blue Phaser Split-Beam": [
+            30,
+            "External"
+        ],
+        "Quad Band Multi Frequency Green Phaser Cannons": [
+            4,
+            "External"
+        ],
+        "Fore Tri-Shot Quantum Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "Aft Tri-Shot Quantum Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "VLS Cocytus Warhead Missile": [
+            5,
+            "Internal"
+        ],
+        "VLS Thermal Warhead Missile": [
+            5,
+            "Internal"
+        ],
+        "Fore Bi-Shot Gravaton Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Penta-Shot Triple Volly Photonic Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Mono Band Dual Frequency Red Phaser Battleship Turret": [
+            6,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            34,
+            "External"
+        ],
+        " Freezing Firebird Railgun": [
+            14,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            325,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            6,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

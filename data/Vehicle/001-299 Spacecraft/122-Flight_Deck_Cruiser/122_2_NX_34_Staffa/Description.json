@@ -1,0 +1,35 @@
+{
+    "Characteristics": {
+        "Length": [
+            955,
+            "m"
+        ],
+        "Saucer Width": [
+            350,
+            "m"
+        ],
+        "Saucer Length": [
+            375,
+            "m"
+        ],
+        "Main Hull Width": [
+            110,
+            "m"
+        ],
+        "Decks": [
+            25
+        ],
+        "Height": [
+            100,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "These ships look like a smaller version of their sucsessor, the Kerrera Class, at first glance.",
+        "1": "These ships are however, feature several launchbays in the edge of the saucer.",
+        "2": "these ships also lack their sucsessor's combustion rockets and spliting nacelles."
+    }
+}

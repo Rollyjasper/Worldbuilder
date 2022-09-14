@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            2100,
+            "m"
+        ],
+        "Width": [
+            800,
+            "m"
+        ],
+        "Pylon Length": [
+            1500,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            6,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "A large cruiser that provides the bulk of support roles for modern star class fleets.",
+        "1": "They are powerful ships without their fighters and with their minesweepers are considered very valuable to any fleet captain."
+    }
+}

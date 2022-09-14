@@ -1,0 +1,11 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 5,
+        "211_1_ACX_0_PlatniumStar": 3,
+        "212_2_ACX_0_ElectrumStar": 3
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "210-ACX-11 are armed with addional Phaser and PHAS strips as well as Photonic Torpedos and Missiles."
+    }
+}

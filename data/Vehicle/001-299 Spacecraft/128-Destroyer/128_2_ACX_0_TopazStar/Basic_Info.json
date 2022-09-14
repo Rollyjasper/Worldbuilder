@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "TopazStar",
+        "Class Type": "128",
+        "Class Type Name": "Destroyer",
+        "Class Sub-Type": "Flag",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            800.0,
+            "MPc"
+        ]
+    }
+}

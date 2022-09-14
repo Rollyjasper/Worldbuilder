@@ -1,0 +1,41 @@
+{
+    "Characteristics": {
+        "Length": [
+            6120,
+            "m"
+        ],
+        "Width": [
+            3519,
+            "m"
+        ],
+        "Width with Pod": [
+            3600,
+            "m"
+        ],
+        "Pod Count": [
+            1
+        ],
+        "Pod Type": [
+            "Sensor"
+        ],
+        "Pylon Length": [
+            21,
+            "m"
+        ],
+        "Wingspan": [
+            3800,
+            "m"
+        ],
+        "Decks": [
+            264
+        ],
+        "Height": [
+            1056,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The Largest dreadnought of her time these ships dominated all battles they took part in.",
+        "1": "Considered under crewed for her size, these ships made up for it by often using their strength the defend evacuating worlds."
+    }
+}

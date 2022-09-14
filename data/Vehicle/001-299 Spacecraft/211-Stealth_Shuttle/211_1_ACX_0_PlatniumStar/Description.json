@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            25,
+            "m"
+        ],
+        "Width": [
+            "3.3",
+            "m"
+        ],
+        "Height": [
+            "4.5",
+            "m"
+        ],
+        "Pylon Length": [
+            4,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            6,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "A modified version of the Platnium Star Class shuttle that improves its stealth capability.",
+        "1": "Now sports a black hull colour and cloaking devices"
+    }
+}

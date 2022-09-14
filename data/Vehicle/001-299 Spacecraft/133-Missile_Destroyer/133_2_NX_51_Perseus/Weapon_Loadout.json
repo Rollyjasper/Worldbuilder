@@ -1,0 +1,45 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Violet Phaser Strip": [
+            3,
+            "External"
+        ],
+        "Tri Band Multi Frequency Blue Phaser Coil Turret": [
+            6,
+            "External"
+        ],
+        "VLS Thermal Warhead Missile": [
+            4,
+            "Internal"
+        ],
+        "HLS Photonic Warhead Missile": [
+            6,
+            "Internal"
+        ],
+        "VLS Cocytus Warhead Missile": [
+            4,
+            "Internal"
+        ]
+    },
+    "Secondary": {},
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Refractive Flac": [
+            16,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Small Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

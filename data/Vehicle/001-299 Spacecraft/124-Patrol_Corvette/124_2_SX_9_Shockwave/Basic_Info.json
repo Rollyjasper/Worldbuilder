@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Shockwave",
+        "Class Type": "124",
+        "Class Type Name": "Patrol_Corvette",
+        "Class Sub-Type": "Guardian",
+        "Generation": "2",
+        "Core Type": "SX",
+        "Order": "9",
+        "Range": [
+            720.0,
+            "MPc"
+        ]
+    }
+}

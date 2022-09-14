@@ -1,0 +1,22 @@
+{
+    "Dimentions": [
+        "Length",
+        "Width",
+        "Width with Pod",
+        "Head Width",
+        "Neck Width",
+        "Main Hull Width",
+        "Saucer Width",
+        "Pylon Length",
+        "Pylon Count",
+        "Pylon Breakdown",
+        "Pod Count",
+        "Pod Type",
+        "Hanger Count",
+        "Height",
+        "Decks",
+        "Wingspan",
+        "Nacelle Count",
+        "Saucer Length"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 50,
+        "212_2_ACX_0_ElectrumStar": 30,
+        "217_2_ACX_0_IridiumStar": 50,
+        "211_1_ACX_0_PlatniumStar": 5,
+        "213_1_ACX_0_PlatniumStar": 75
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "This ship's hanger is large enough to support several dropships."
+    }
+}

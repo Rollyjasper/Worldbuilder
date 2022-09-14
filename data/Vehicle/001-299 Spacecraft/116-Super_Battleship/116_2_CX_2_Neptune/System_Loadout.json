@@ -1,0 +1,81 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPE",
+        "Primary_Version": 4,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": "Heavy",
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Mag Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 18,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Grav",
+                8,
+                "Large Heavy"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Armoured Grav Based"
+            ],
+            [
+                "Other",
+                1,
+                "Tactical Spatial Jump Drive"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 16,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Limited),Vaster"
+    },
+    "Other": {
+        "Probe Launcher": 24,
+        "Cargo Transporter": 12,
+        "Personnel Transporter": 8,
+        "Comm Relay Module": 4,
+        "Command Relay Module": 10,
+        "Drone Foundry": 6,
+        "Ever-Shield Pylon Foundry": 3
+    },
+    "Notes": {}
+}

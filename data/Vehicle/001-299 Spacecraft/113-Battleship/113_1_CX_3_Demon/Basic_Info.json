@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Demon",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Exploration",
+        "Generation": "1",
+        "Core Type": "CX",
+        "Order": "3",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

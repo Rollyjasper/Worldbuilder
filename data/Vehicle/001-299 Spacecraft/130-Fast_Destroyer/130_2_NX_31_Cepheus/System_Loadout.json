@@ -1,0 +1,80 @@
+{
+    "Power Core": {
+        "Primary_Type": "Warp",
+        "Primary_Version": 7,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 17,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Impulse",
+                2,
+                "Armoured Hyper Accelerant"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Photon Based"
+            ],
+            [
+                "Other",
+                1,
+                "Tactical Spatial Jump Drive"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 17,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Partial),Disaster"
+    },
+    "Other": {
+        "Probe Launcher": 10,
+        "Cargo Transporter": 3,
+        "Personnel Transporter": 6,
+        "Escape Pod Reclaim Module": 2,
+        "Impulse After Burner": 2,
+        "Ship-to-Ship Teather": 6
+    },
+    "Notes": {}
+}

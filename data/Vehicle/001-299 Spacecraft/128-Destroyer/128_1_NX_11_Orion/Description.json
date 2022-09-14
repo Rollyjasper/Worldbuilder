@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            778,
+            "m"
+        ],
+        "Saucer Width": [
+            312,
+            "m"
+        ],
+        "Main Hull Width": [
+            78,
+            "m"
+        ],
+        "Decks": [
+            41
+        ],
+        "Height": [
+            164,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "16 decks in saucer, 5 in neck and 20 in secondary hull.",
+        "1": "Nacelles mounted below the saucer.",
+        "2": "The Orion Class was one of the most numerus ships before the second generation.",
+        "3": "A simple destroyer with a secondary hull attached above the main saucer.",
+        "4": "Due to their reliablity and moderate power, many captains and admirals use them as the backbone of many a battlegroup."
+    }
+}

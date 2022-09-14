@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Neptune",
+        "Class Type": "116",
+        "Class Type Name": "Super_Battleship",
+        "Class Sub-Type": "Super Heavy",
+        "Generation": "2",
+        "Core Type": "CX",
+        "Order": "2",
+        "Range": [
+            950.0,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "Module":[
+        "Aerial Support",
+        "Atmoshperic Support",
+        "Atmoshperic Stabilization",
+        "Comm Amp",
+        "Comm Relay",
+        "Command Relay",
+        "Defence Screen",
+        "Edda Support",
+        "Electronic Warfare",
+        "Escape Pod Reclaim",
+        "Fighter Command Relay",
+        "Gravity Nulification",
+        "High Gain Comm Relay",
+        "Missile Targeting",
+        "PDF Targeting",
+        "Projected Armour",
+        "Sensor Relay and Enhancement",
+        "Supercarrier Assault",
+        "Supercarrier Defence",
+        "Supercarrier Flag",
+        "Swarm Combat",
+        "Temporal Relay",
+        "Thrust Reclimation",
+        "Yggdrasil Defence"
+    ],
+    "Cloak":[
+        "Dimentional",
+        "Optical",
+        "Sensor",
+        "Starfield Generator"
+    ],
+    "Launcher":[
+        "Dimentional Probe",
+        "Long Range Probe",
+        "Probe"
+    ],
+    "After Burner":[
+        "Grav Drive",
+        "Impulse",
+        "Ion"
+    ],
+    "Transporter":[
+        "Cargo",
+        "Long-Range Cargo",
+        "Personnel",
+        "Long-Range Personnel"
+    ],
+    "Launch Tube":[
+        "Electrum Star",
+        "Platnium Star Fighter",
+        "Swiftlet",
+        "Viper",
+        "MECU",
+        "Mixed",
+        "Per Side",
+        "Per Pod"
+    ],
+    "System":[
+        "RCS Support",
+        "Reload Assist",
+        "Targeting Assist"
+    ],
+    "Foundry":[
+        "Drone",
+        "Ever-Shield Pylon",
+        "Ship"
+    ],
+    "Drone":[
+        "Sensor",
+        "Targeting"
+    ],
+    "Pod":[
+        "Breaching"
+    ],
+    "Other":[
+        "Transporter Interceptor",
+        "Multi-use Labs",
+        "Phantom Gate Projector",
+        "Rapid Shield Recharge Unit",
+        "Ship-to-Ship Teather",
+        "Spot Type Mine Disabler",
+        "Stellar Gate",
+        "Stellar Matter Collecter",
+        "Sub-Light Accelerater Unit",
+        "Tractor Beam Projector"
+    ]
+}

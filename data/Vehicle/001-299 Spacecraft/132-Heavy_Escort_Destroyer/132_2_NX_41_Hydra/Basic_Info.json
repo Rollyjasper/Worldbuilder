@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Hydra",
+        "Class Type": "132",
+        "Class Type Name": "Heavy_Escort_Destroyer",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "41",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

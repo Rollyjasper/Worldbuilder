@@ -1,0 +1,32 @@
+{
+    "Primary": {
+        " Fixed Projectile Laser Cannon": [
+            2,
+            "In-Wing"
+        ],
+        " Photon Bolt Cannon": [
+            1,
+            "In-Nose"
+        ]
+    },
+    "Secondary": {
+        "Pod Photonic Warhead Missile": [
+            2,
+            "Wing"
+        ],
+        " Photonic Warhead Bomb": [
+            1,
+            "Verteral"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Nano Drone Bay": [
+            1,
+            "Dorsal"
+        ]
+    },
+    "Notes": {}
+}

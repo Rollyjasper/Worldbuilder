@@ -1,0 +1,79 @@
+{
+    "Warhead": {
+        "Photonic": {
+            "Style": [
+                "Mono-Shot",
+                "Mono-Shot Super Heavy",
+                "Bi-Shot",
+                "Tri-Shot",
+                "Quad-Shot",
+                "Penta-shot Rapid Reload",
+                "Penta-Shot Triple Volly",
+                "Septa-Shot",
+                "Deca-Shot"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Used in smaller explosives. The blast radius of these is small but they have a rather high yeild.\nThe explosion also leaves a dense radiation cloud behind, dispite the fact that the radiation is harmless, it still blinds most sensor systems."
+        },
+        "Fission": {
+            "Style": [
+                "Mono-Shot",
+                "Bi-Shot",
+                "Tri-Shot",
+                "Quad-Shot",
+                "Penta-shot",
+                "Septa-Shot",
+                "Deca-Shot"
+            ],
+            "Limits": [
+                "S1"
+            ],
+            "Desc": "Upon impact, a runnerway fission reaction starts. These torpedos have a small payload and thus the nucluar explosion is small. The radiation can disrupt shields but the force can be resisted by most types of shielding."
+        },
+        "Fusion": {
+            "Style": [
+                "Mono-Shot",
+                "Bi-Shot",
+                "Tri-Shot",
+                "Quad-Shot",
+                "Penta-shot",
+                "Septa-Shot",
+                "Deca-Shot"
+            ],
+            "Limits": [
+                "S1"
+            ],
+            "Desc": "Upon impact, an uncontroled fusion reaction starts, this energizes the weapons casing causing a micro-nova. The radiation disrupst shields and the force can overload weaker shield grids."
+        },
+        "Quantum": {
+            "Style": [
+                "Mono-Shot",
+                "Bi-Shot",
+                "Tri-Shot",
+                "Quad-Shot",
+                "Penta-shot Rapid Reload",
+                "Septa-Shot",
+                "Heavy Mono-Shot"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Uses zero point engery to create a very powerful plasma. Upon impact, this plasma as well as the ZPR explode causing massive damage to the ships hull. Ineffective on most types of shield."
+        },
+        "Gravaton": {
+            "Style": [
+                "Mono-Shot",
+                "Mono-Shot Super Heavy",
+                "Bi-Shot",
+                "Tri-Shot",
+                "Quad-Shot"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Contains a shielded minature blackhole that, upon inpact, is detonated creating a massave gravatational shock wave that dissrups shields and structual feilds as well as both sub-light and FTL drives."
+        }
+    }
+}

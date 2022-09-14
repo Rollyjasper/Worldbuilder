@@ -1,0 +1,86 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPE",
+        "Primary_Version": 5,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": "Heavy",
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 3,
+        "Secondary_Style": "Plasma Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 19,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": "Heavy"
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Grav",
+                8,
+                "Large Heavy"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Accelerant",
+                1,
+                "Accelerated"
+            ],
+            [
+                "Other",
+                1,
+                "Tactical Spatial Jump Drive"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 24,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 250,
+        "Personnel Transporter": 80,
+        "Cargo Transporter": 60,
+        "Yggdrasil Defence Module": 2,
+        "Edda Support Module": 8,
+        "Comm Relay Module": 40,
+        "Escape Pod Reclaim Module": 150,
+        "Phantom Gate Projector": 1,
+        "Tractor Beam Projector": 400,
+        "Ship-to-Ship Teather": 150,
+        "RCS Support System": 800,
+        "Transporter Interceptor": 450
+    },
+    "Notes": {}
+}

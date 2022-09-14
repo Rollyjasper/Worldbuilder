@@ -1,0 +1,15 @@
+{
+    "List": {
+        "116-2-ACX-001": "Sapphire",
+        "116-2-ACX-002": "Arminath",
+        "116-2-ACX-003": "Silver Sol",
+        "116-2-ACX-004": "Golden Lune",
+        "116-2-ACX-005": "Ark Royal"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

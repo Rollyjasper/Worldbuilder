@@ -1,0 +1,74 @@
+{
+    "Power Core": {
+        "Primary_Type": "Decay",
+        "Primary_Version": 1,
+        "Primary_Style": "Void-72",
+        "Primary_Variation": "Miniture",
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Ion Accelerant",
+                1,
+                "Light"
+            ]
+        ],
+        "FTL": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "Ion",
+                2,
+                "LE20"
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 25,
+        "AI": "Xanadu",
+        "A.S.T.R": "None"
+    },
+    "Other": {
+        "Ion After Burner": 3,
+        "Missile Targeting Module": 1,
+        "RCS Support System": 10,
+        "Gravity Nulification Module": 1,
+        "Atmoshperic Support Module": 6
+    },
+    "Notes": {}
+}

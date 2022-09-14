@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Mobius",
+        "Class Type": "123",
+        "Class Type Name": "Corvette",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "15",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

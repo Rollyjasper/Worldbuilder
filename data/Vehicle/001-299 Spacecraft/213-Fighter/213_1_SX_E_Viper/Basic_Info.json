@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Viper",
+        "Class Type": "213",
+        "Class Type Name": "Fighter",
+        "Class Sub-Type": "Exo-Atmospheric",
+        "Generation": "1",
+        "Core Type": "SX",
+        "Order": "E",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

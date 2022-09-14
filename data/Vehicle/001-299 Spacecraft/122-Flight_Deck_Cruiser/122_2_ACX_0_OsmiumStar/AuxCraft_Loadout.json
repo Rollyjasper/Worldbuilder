@@ -1,0 +1,12 @@
+{
+    "Main": {
+        "213_1_ACX_0_PlatniumStar": 100,
+        "214_2_ACX_0_RhodiumStar": 150,
+        "217_2_ACX_0_IridiumStar": 50,
+        "212_2_ACX_0_ElectrumStar": 10,
+        "210_1_ACX_0_PlatniumStar": 15,
+        "222_2_ACX_0_RheniumStar": 5
+    },
+    "Dropships": {},
+    "Notes": {}
+}

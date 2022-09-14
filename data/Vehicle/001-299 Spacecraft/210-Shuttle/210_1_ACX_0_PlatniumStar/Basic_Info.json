@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "PlatniumStar",
+        "Class Type": "210",
+        "Class Type Name": "Shuttle",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

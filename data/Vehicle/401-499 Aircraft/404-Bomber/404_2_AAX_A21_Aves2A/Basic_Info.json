@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Aves2A",
+        "Class Type": "404",
+        "Class Type Name": "Bomber",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "AAX",
+        "Order": "A21",
+        "Range": [
+            33750.0,
+            "Km"
+        ]
+    }
+}

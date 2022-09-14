@@ -1,0 +1,9 @@
+{
+    "Warhead":{
+        "Photonic":{
+        "Style":[],
+        "Limits":["S1"],
+        "Desc":"A variable yeild photonic explosive."
+        }
+    }
+}

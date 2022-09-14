@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "RheniumStar",
+        "Class Type": "222",
+        "Class Type Name": "Minesweeper",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            750.0,
+            "MPc"
+        ]
+    }
+}

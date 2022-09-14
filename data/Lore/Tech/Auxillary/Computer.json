@@ -1,0 +1,29 @@
+{
+    "ASTR":[
+        "Type-1,Origin",
+        "Type-2(Restricted),Caster",
+        "Type-2(Partial),Disaster",
+        "Type-2(Limited),Vaster",
+        "Type-2(Open),Aster",
+        "Type-2(Isolated),Reaster",
+        "Type-3,Overlord",
+        "None"
+    ],
+    "AI":[
+        "Ascendancy",
+        "Zennith 2",
+        "Zennith",
+        "Benevolence",
+        "Cessation",
+        "Supremacy",
+        "Predomination",
+        "Dominance",
+        "Magnanimity",
+        "Xanadu",
+        "Low Level AI"
+    ],
+    "Core":[
+        "Quantum Computer",
+        "Quantum Super-Computer"
+    ]
+}

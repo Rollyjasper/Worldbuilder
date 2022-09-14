@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Spirit",
+        "Class Type": "112",
+        "Class Type Name": "Dreadnought",
+        "Class Sub-Type": "Exploration",
+        "Generation": "2",
+        "Core Type": "CX",
+        "Order": "3",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

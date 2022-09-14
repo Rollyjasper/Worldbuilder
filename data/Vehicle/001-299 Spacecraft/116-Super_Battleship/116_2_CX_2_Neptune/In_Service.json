@@ -1,0 +1,14 @@
+{
+    "List": {
+        "116-2-CX-201": "Neptune",
+        "116-2-CX-202": "Mothership 2",
+        "116-2-CX-203": "Juno",
+        "116-2-CX-204": "Io"
+    },
+    "Totals": {
+        "Commissioned": 4,
+        "Active": 4,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

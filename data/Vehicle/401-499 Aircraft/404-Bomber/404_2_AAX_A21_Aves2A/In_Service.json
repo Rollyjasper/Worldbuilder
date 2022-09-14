@@ -1,0 +1,20 @@
+{
+    "List": {
+        "404-2-AAX-A2101": "Aves2A-1",
+        "404-2-AAX-A2102": "Aves2A-2",
+        "404-2-AAX-A2103": "Aves2A-3",
+        "404-2-AAX-A2104": "Aves2A-4",
+        "404-2-AAX-A2105": "Aves2A-5",
+        "404-2-AAX-A2106": "Aves2A-6",
+        "404-2-AAX-A2107": "Aves2A-7",
+        "404-2-AAX-A2108": "Aves2A-8",
+        "404-2-AAX-A2109": "Aves2A-9",
+        "404-2-AAX-A2110": "Aves2A-10"
+    },
+    "Totals": {
+        "Commissioned": 10,
+        "Active": 10,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

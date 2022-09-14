@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            3328,
+            "m"
+        ],
+        "Saucer Width": [
+            1,
+            "Km"
+        ],
+        "Main Hull Width": [
+            352,
+            "m"
+        ],
+        "Decks": [
+            62
+        ],
+        "Height": [
+            248,
+            "m"
+        ],
+        "Nacelle Count": [
+            6
+        ]
+    },
+    "Description": {
+        "0": "62 decks in the Saucer, 24 in the main hull.",
+        "1": "These ships feature a simmiler body shape to the Eternity Class however they now have are more angular saucer section.",
+        "2": "The nacelles are in the same configeration as before with the addional nacelles mounted below the edge of the saucer.",
+        "3": "Mass Drives mounted on nacelles."
+    }
+}

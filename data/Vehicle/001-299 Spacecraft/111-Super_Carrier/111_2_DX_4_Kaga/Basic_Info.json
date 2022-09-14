@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Kaga",
+        "Class Type": "111",
+        "Class Type Name": "Super_Carrier",
+        "Class Sub-Type": "Heavy",
+        "Generation": "2",
+        "Core Type": "DX",
+        "Order": "4",
+        "Range": [
+            950.0,
+            "MPc"
+        ]
+    }
+}

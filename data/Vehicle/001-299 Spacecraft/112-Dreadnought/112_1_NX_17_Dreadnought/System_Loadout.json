@@ -1,0 +1,81 @@
+{
+    "Power Core": {
+        "Primary_Type": "Warp",
+        "Primary_Version": 7,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Impulse",
+                6,
+                "Armoured Heavy"
+            ],
+            [
+                "Impulse",
+                3,
+                "Armoured Hyper Accelerant"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Photon Based"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 14,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Limited),Vaster"
+    },
+    "Other": {
+        "Probe Launcher": 16,
+        "Cargo Transporter": 12,
+        "Personnel Transporter": 10,
+        "Command Relay Module": 5,
+        "Reload Assist System": 194
+    },
+    "Notes": {
+        "0": "Reload Assist: PDF,Thunderbolt,Fore Quantum"
+    }
+}

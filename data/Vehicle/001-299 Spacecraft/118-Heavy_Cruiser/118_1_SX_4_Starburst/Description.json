@@ -1,0 +1,38 @@
+{
+    "Characteristics": {
+        "Length": [
+            1886,
+            "m"
+        ],
+        "Width": [
+            1165,
+            "m"
+        ],
+        "Width with Pod": [
+            1767,
+            "m"
+        ],
+        "Pylon Length": [
+            51,
+            "m"
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Hanger"
+        ],
+        "Decks": [
+            122
+        ],
+        "Height": [
+            488,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A large and powerful pocket battleship.",
+        "1": "Its sensor cloak enable these ships to slip into enemy teritory undetected.",
+        "2": "The versitility of these ships is vast and their robust systems and surdy design reflect that."
+    }
+}

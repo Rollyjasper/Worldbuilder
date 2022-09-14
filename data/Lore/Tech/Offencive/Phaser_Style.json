@@ -1,0 +1,32 @@
+{
+    "Band":[
+        "Mono",
+        "Bi",
+        "Tri",
+        "Quad",
+        "Penta",
+        "Hexa",
+        "Septa",
+        "Octa",
+        "Nono",
+        "Deca"
+    ],
+    "Frequency":[
+        "Multi",
+        "Phased",
+        "Dual"
+    ],
+    "Colour":[
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Cyan",
+        "Blue",
+        "Magenta",
+        "Violet",
+        "Ultra-Violet",
+        "Black",
+        "White"
+    ]
+}

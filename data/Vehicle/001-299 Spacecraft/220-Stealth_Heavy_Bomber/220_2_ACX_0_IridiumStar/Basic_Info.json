@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "IridiumStar",
+        "Class Type": "220",
+        "Class Type Name": "Stealth_Heavy_Bomber",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            800.0,
+            "MPc"
+        ]
+    }
+}

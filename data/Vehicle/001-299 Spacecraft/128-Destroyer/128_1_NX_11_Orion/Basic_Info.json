@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Orion",
+        "Class Type": "128",
+        "Class Type Name": "Destroyer",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "11",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

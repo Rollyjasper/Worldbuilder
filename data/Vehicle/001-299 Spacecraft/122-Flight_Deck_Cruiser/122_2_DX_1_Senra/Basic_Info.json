@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Senra",
+        "Class Type": "122",
+        "Class Type Name": "Flight_Deck_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "DX",
+        "Order": "1",
+        "Range": [
+            850.0,
+            "MPc"
+        ]
+    }
+}

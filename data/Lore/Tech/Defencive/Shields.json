@@ -1,0 +1,263 @@
+{
+    "Standard": {
+        "Anti-Chronoton": {
+            "Standard": [
+                2
+            ]
+        },
+        "Assault": {
+            "Standard": [
+                1
+            ],
+            "Corvette": [
+                1,
+                2
+            ]
+        },
+        "Assist": {
+            "Standard": [
+                1
+            ],
+            "Border": [
+                1
+            ]
+        },
+        "Blackout": {
+            "Standard": [
+                2,
+                3,
+                5,
+                9,
+                10,
+                11,
+                12,
+                13
+            ],
+            "Total": [
+                1
+            ]
+        },
+        "Combat": {
+            "Standard": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "Adaptive": [
+                11,
+                14
+            ],
+            "Enhanced": [
+                12
+            ],
+            "Reflective": [
+                6,
+                9,
+                11,
+                12
+            ],
+            "Planetry": [
+                3
+            ],
+            "Atmospheric": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "Kestral": [
+                1
+            ],
+            "Atmospheric Kestral": [
+                1
+            ],
+            "Viper": [
+                2,
+                3
+            ],
+            "Atmospheric Viper": [
+                1,
+                2
+            ],
+            "Shuttle": [
+                4,
+                5
+            ]
+        },
+        "Guardian": {
+            "Standard": [
+                1,
+                2,
+                3
+            ]
+        },
+        "Mask": {
+            "Standard": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "Negative": {
+            "Standard": [
+                1
+            ],
+            "Absobitive": [
+                1,
+                3,
+                4
+            ]
+        },
+        "Sentinal": {
+            "Standard": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "Adaptive": [
+                10,
+                14
+            ],
+            "Atmospheric":[
+                1,
+                2
+            ]
+        },
+        "Defence": {
+            "Standard": [
+                1
+            ],
+            "Shuttle": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "Solar": {
+            "Standard": [
+                1,
+                2
+            ]
+        },
+        "Velocity": {
+            "Standard": [
+                1,
+                2,
+                3
+            ],
+            "Atmospheric":[
+                1,
+                2
+            ]
+        },
+        "Skin":{
+            "Standard":[
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "Combat":[
+                1,
+                2,
+                3,
+                4
+            ],
+            "Sentinal":[
+                1,
+                2,
+                3,
+                4
+            ],
+            "Blackout":[
+                1,
+                2,
+                3
+            ]
+        },
+        "Dome":{
+            "Standard":[
+                1,
+                2,
+                3
+            ],
+            "Combat":[
+                1,
+                2
+            ]
+        }
+    },
+    "Ever-Shield": {
+        "Generation": [
+            1,
+            2,
+            3,
+            "3a",
+            "3b",
+            "3c",
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "Bay Size": [
+            "N",
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "C",
+            "G"
+        ]
+    },
+    "Navigational": {
+        "Mount": [
+            "Array",
+            "Deflector",
+            "Intergrated",
+            "Internal",
+            "Hull",
+            "Planetry",
+            "Armoured",
+            "Aerodynamic",
+            "Tower"
+        ],
+        "Version": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            "S",
+            "F",
+            "HF",
+            "SF",
+            "B",
+            "HB",
+            "HBS",
+            "Surf"
+        ]
+    }
+}

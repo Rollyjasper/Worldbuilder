@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Sovereign",
+        "Class Type": "116",
+        "Class Type Name": "Super_Battleship",
+        "Class Sub-Type": "Flag",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "47",
+        "Range": [
+            878.75,
+            "MPc"
+        ]
+    }
+}

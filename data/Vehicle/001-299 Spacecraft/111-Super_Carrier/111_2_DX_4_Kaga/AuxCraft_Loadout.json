@@ -1,0 +1,55 @@
+{
+    "Main": {
+        "213_1_ACX_0_PlatniumStar": 7000,
+        "213_1_SX_T_Viper": 5000,
+        "217_2_DX_0_Egress": 2500,
+        "212_1_DX_0_Gate": 4000
+    },
+    "Dropships": {
+        "Aquaus": [
+            [
+                "Destroyer",
+                30
+            ]
+        ],
+        "Terraus": [
+            [
+                "Personel Transport",
+                40
+            ]
+        ],
+        "Caelius": [
+            [
+                "Interceptor",
+                30
+            ]
+        ],
+        "Aquaet": [
+            [
+                "Deapsea",
+                4
+            ]
+        ],
+        "Aquain": [
+            [
+                "Yard",
+                2
+            ]
+        ],
+        "Caeliet": [
+            [
+                "Runway",
+                1
+            ]
+        ],
+        "Terraet": [
+            [
+                "Barracks",
+                3
+            ]
+        ]
+    },
+    "Notes": {
+        "0": "Can also carry 4 Hope Class Cruisers."
+    }
+}

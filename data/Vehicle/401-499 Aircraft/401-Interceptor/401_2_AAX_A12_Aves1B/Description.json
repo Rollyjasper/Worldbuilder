@@ -1,0 +1,22 @@
+{
+    "Characteristics": {
+        "Length": [
+            22,
+            "m"
+        ],
+        "Wingspan": [
+            "14.65",
+            "m"
+        ],
+        "Height": [
+            "5.5",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The main air superiority fighter of the Avingarde Airforce.",
+        "1": "These aircraft are tailored towards dog-fights and ground support.",
+        "2": "Often deployed with Aves 1 As.",
+        "3": "Named: \"Newt\""
+    }
+}

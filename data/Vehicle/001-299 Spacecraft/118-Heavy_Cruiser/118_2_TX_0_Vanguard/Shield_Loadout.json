@@ -1,0 +1,32 @@
+{
+    "Primary": {
+        "Type": "Anti-Chronoton",
+        "Sub-Type": "Standard",
+        "Version": 2
+    },
+    "Secondary": {
+        "Type": "Combat",
+        "Sub-Type": "Adaptive",
+        "Version": 11
+    },
+    "Tertiary": {
+        "Type": "Blackout",
+        "Sub-Type": "Total",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "M",
+        "Bay Count": 2
+    },
+    "Navigational": {
+        "Mount": "Hull",
+        "Version": 13
+    },
+    "Hull": {
+        "Type": "Composite"
+    },
+    "Notes": {
+        "0": "Hull is modified with a chronoton conductive metal that shields the interior from temporal energies."
+    }
+}

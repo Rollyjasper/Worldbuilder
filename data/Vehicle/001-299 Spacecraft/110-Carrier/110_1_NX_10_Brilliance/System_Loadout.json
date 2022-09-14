@@ -1,0 +1,48 @@
+{
+    "Power Core": {
+        "Primary_Type": "Warp",
+        "Primary_Version": 7,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 16,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light Drive": "Impulse",
+        "Sub-Light Count": 6,
+        "Sub-Light Mod": null,
+        "FTL Drive": "Spatial Displacment",
+        "FTL Count": 1,
+        "FTL Mod": "Photon Based",
+        "Atmospheric Drive": null,
+        "Atmospheric Count": 0,
+        "Atmospheric Mod": null,
+        "Aquatic Drive": null,
+        "Aquatic Count": 0,
+        "Aquatic Mod": null,
+        "Terrestrial Drive": null,
+        "Terrestrial Count": 0,
+        "Terrestrial Mod": null,
+        "Temporal Drive": null,
+        "Temporal Count": 0,
+        "Temporal Mod": null
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 14,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Restricted),Caster"
+    },
+    "Other": {
+        "Probe": 12,
+        "Cargo": 8,
+        "Personnel": 3,
+        "Command Relay": 4
+    }
+}

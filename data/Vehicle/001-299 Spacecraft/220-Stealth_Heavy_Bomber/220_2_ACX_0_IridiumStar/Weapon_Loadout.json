@@ -1,0 +1,58 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": [
+            4,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            3,
+            "External"
+        ],
+        "Rack Photonic Warhead Bomb": [
+            30,
+            "Internal"
+        ],
+        "Pod Photonic Warhead Missile": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Photonic Warhead Mine": [
+            5,
+            "Internal"
+        ],
+        "Fore Mono-Shot Super Heavy Gravaton Warhead Torpedo": [
+            2,
+            "External"
+        ],
+        " Shocking Firebird Railgun": [
+            2,
+            "Retractable"
+        ],
+        "Bi Band Multi Frequency Blue Phaser Strip": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            2,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

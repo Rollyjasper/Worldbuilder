@@ -1,0 +1,33 @@
+{
+    "List": {
+        "128-1-NX-1101": "Orion",
+        "128-1-NX-1102": "Dranae",
+        "128-1-NX-1103": "Dauntless",
+        "128-1-NX-1104": "Defender",
+        "128-1-NX-1105": "Echo",
+        "128-1-NX-1106": "Eden",
+        "128-1-NX-1107": "Edinburgh",
+        "128-1-NX-1108": "Ephraim",
+        "128-1-NX-1109": "Fawn",
+        "128-1-NX-1110": "Firefly",
+        "128-1-NX-1111": "Fleur de la Mer",
+        "128-1-NX-1112": "Forfar",
+        "128-1-NX-1113": "Undine",
+        "128-1-NX-1114": "Valhalla",
+        "128-1-NX-1115": "Vesta",
+        "128-1-NX-1116": "Vicroy",
+        "128-1-NX-1117": "Abhosen",
+        "128-1-NX-1118": "Windsor",
+        "128-1-NX-1119": "Wolsey",
+        "128-1-NX-1120": "Yarra",
+        "128-1-NX-1121": "Zenith",
+        "128-1-NX-1122": "Stargazer",
+        "128-1-NX-1123": "Leo"
+    },
+    "Totals": {
+        "Commissioned": 23,
+        "Active": 23,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

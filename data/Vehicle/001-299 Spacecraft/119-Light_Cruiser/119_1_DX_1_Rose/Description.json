@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            800,
+            "m"
+        ],
+        "Neck Width": [
+            200,
+            "m"
+        ],
+        "Main Hull Width": [
+            600,
+            "m"
+        ],
+        "Decks": [
+            18
+        ],
+        "Height": [
+            72,
+            "m"
+        ],
+        "Hanger Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "A wide and boxy ship with two large hangars.",
+        "1": "Renowned for its capability to be effective in atmo without the use of atmospheric engines."
+    }
+}

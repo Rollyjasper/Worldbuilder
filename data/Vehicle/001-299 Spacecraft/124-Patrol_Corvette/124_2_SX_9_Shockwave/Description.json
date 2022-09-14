@@ -1,0 +1,39 @@
+{
+    "Characteristics": {
+        "Length": [
+            567,
+            "m"
+        ],
+        "Width": [
+            550,
+            "m"
+        ],
+        "Width with Pod": [
+            560,
+            "m"
+        ],
+        "Pylon Length": [
+            2,
+            "m"
+        ],
+        "Decks": [
+            4
+        ],
+        "Height": [
+            16,
+            "m"
+        ],
+        "Pod Count": [
+            4
+        ],
+        "Pod Type": [
+            "Weapon"
+        ]
+    },
+    "Description": {
+        "0": "These ships are built a round a 'Flying Saucer' main hull with a large forward 'head' section.",
+        "1": "these ships feature 4 deployable weapon pods, two mounted below the forward head section and two on the edge of the saucer section.",
+        "2": "the rear of the ship is squared off inorder to house the four main engines.",
+        "3": "Think juptier 2 from the modern lost in space."
+    }
+}

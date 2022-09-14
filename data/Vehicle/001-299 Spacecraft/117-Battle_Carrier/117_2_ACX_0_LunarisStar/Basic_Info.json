@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "LunarisStar",
+        "Class Type": "117",
+        "Class Type Name": "Battle_Carrier",
+        "Class Sub-Type": "Light",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

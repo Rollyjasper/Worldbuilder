@@ -1,0 +1,14 @@
+{
+    "Primary": {
+        "Roles": [
+            "Anti-Fighter",
+            "Interceptor"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Bomber",
+            "Infantry Support"
+        ]
+    }
+}

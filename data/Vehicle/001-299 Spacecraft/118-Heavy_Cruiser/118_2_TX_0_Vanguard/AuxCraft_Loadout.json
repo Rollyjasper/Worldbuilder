@@ -1,0 +1,17 @@
+{
+    "Main": {
+        "213_1_SX_T_Viper": 35,
+        "216_2_SX_T_Kestrel": 15,
+        "210_1_ACX_0_PlatniumStar": 25,
+        "212_1_DX_0_Gate": 75
+    },
+    "Dropships": {
+        "Umbra'la": [
+            [
+                "Recon Scout",
+                2
+            ]
+        ]
+    },
+    "Notes": {}
+}

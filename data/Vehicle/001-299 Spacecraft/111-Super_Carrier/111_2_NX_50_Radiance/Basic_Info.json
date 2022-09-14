@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Radiance",
+        "Class Type": "111",
+        "Class Type Name": "Super_Carrier",
+        "Class Sub-Type": "Heavy",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "50",
+        "Range": [
+            878.75,
+            "MPc"
+        ]
+    }
+}

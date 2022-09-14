@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Eternity",
+        "Class Type": "114",
+        "Class Type Name": "Fast_Battleship",
+        "Class Sub-Type": "Armoured",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "16",
+        "Range": [
+            832.5,
+            "MPc"
+        ]
+    }
+}

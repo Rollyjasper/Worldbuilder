@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Bellis",
+        "Class Type": "115",
+        "Class Type Name": "Battlecruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "23",
+        "Range": [
+            832.5,
+            "MPc"
+        ]
+    }
+}

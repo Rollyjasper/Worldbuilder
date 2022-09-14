@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            6120,
+            "Km"
+        ],
+        "Neck Width": [
+            630,
+            "Km"
+        ],
+        "Wingspan": [
+            2030,
+            "Km"
+        ],
+        "Decks": [
+            125000
+        ],
+        "Height": [
+            500,
+            "Km"
+        ]
+    },
+    "Description": {
+        "0": "The Largest Non-World shipo ever constructed.",
+        "1": "These huge ships bore many simmerlarities to the Demon and Spirit Class ships.",
+        "2": "When one of these ships appears above your world, pray that it is on your side."
+    }
+}

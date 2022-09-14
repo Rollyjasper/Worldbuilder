@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            1125,
+            "m"
+        ],
+        "Width": [
+            448,
+            "m"
+        ],
+        "Pylon Length": [
+            532,
+            "m"
+        ],
+        "Pod Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            6,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The ship was designed in conjunction with the Osmium Star Class as a compact and powerful heavy cruiser.",
+        "1": "Intended for escort roles these ships were faster and smaller than most other heavy cruisers and even their design contempries.",
+        "2": "The first of the class wasn't launched until the third generation where this type of ship became needed.",
+        "3": "It is the second most commen star class ship ever."
+    }
+}

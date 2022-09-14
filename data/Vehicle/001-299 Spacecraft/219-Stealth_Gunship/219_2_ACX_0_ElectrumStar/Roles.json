@@ -1,0 +1,16 @@
+{
+    "Primary": {
+        "Roles": [
+            "Intel",
+            "Transport",
+            "Landing Craft"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Infantry Support",
+            "Interceptor",
+            "Rescue"
+        ]
+    }
+}

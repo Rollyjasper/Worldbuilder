@@ -1,0 +1,42 @@
+{
+    "Primary": {
+        "Dual Turret Projectile Laser Cannon": [
+            2,
+            "External"
+        ],
+        "Tri Band Multi Frequency Cyan Phaser Coil Turret": [
+            8,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Firebird Railgun": [
+            2,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {
+        " Fixed Particle Cannon": [
+            2,
+            "Retractable"
+        ],
+        "HLS Photonic Warhead Missile": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Point Defence Grid": {},
+    "Drone": {
+        "Tiny Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

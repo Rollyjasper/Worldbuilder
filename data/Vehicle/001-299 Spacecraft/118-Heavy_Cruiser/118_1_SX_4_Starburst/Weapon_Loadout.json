@@ -1,0 +1,47 @@
+{
+    "Primary": {
+        "Quad Heavy Deckgun Projectile Laser Cannon": [
+            16,
+            "External"
+        ],
+        "HLS Photonic Warhead Missile": [
+            8,
+            "Internal"
+        ],
+        "VLS Fission Warhead Missile": [
+            6,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Nose Mounted Hardlight Cannon": [
+            3,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {
+        "Refractive Flac": [
+            30,
+            "External"
+        ]
+    },
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            60,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            "10m"
+        ],
+        "Width": [
+            1,
+            "m"
+        ],
+        "Height": [
+            "2.25",
+            "m"
+        ],
+        "Pylon Length": [
+            "2.5",
+            "m"
+        ],
+        "Pod Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            6,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The smaller fighter variant of the platnium star class.",
+        "1": "Although a variant design, these ships had a unique spaceframe and were very different from the shuttle.",
+        "2": "Due to their versatility and power, they are the mainstay fighter until the Rhodium Star's use on later ships."
+    }
+}

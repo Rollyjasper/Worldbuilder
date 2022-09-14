@@ -1,0 +1,35 @@
+{
+    "Characteristics": {
+        "Dimention": [
+            15,
+            "km"
+        ],
+        "Width": [
+            "9.2",
+            "km"
+        ],
+        "Width with Pod": [
+            18,
+            "km"
+        ],
+        "Pylon Length": [
+            16,
+            "km"
+        ],
+        "Decks": [
+            208
+        ],
+        "Pod Count": [
+            4
+        ],
+        "Pod Type": [
+            "Hanger"
+        ]
+    },
+    "Description": {
+        "0": "Built apon an up-scaled Endevour class spaceframe.",
+        "1": "The design history of the venture was an interesting one.",
+        "2": "Initialy planned as a refit of the Endevour, these ships used design enchancments that came from the Enterprise class's development.",
+        "3": "These ships became stand-a-lone class when a refit was deemed impractical as it would require extensive modification to the spaceframe."
+    }
+}

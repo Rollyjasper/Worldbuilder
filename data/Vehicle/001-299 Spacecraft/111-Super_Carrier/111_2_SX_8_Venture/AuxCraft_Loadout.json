@@ -1,0 +1,50 @@
+{
+    "Main": {
+        "213_1_SX_T_Viper": 2660,
+        "213_1_ACX_0_PlatniumStar": 4000,
+        "212_1_DX_0_Gate": 300,
+        "217_2_ACX_0_IridiumStar": 250,
+        "223_2_ACX_0_IridiumStar": 400
+    },
+    "Dropships": {
+        "Aquaus": [
+            [
+                "Submarine",
+                85
+            ],
+            [
+                "Crusier",
+                45
+            ]
+        ],
+        "Terraus": [
+            [
+                "Tank",
+                85
+            ],
+            [
+                "Artillary",
+                45
+            ]
+        ],
+        "Aquaet": [
+            [
+                "Deapsea",
+                8
+            ]
+        ],
+        "Terraet": [
+            [
+                "Barracks",
+                4
+            ]
+        ]
+    },
+    "Notes": {
+        "0": "These ships can also carry upto 12 Bellis Class Fast Battlecruisers should the mission dictate.",
+        "1": "Or any ship less than 3Km long, 700m wide and 300m tall.",
+        "2": "",
+        "3": "",
+        "4": ""
+    }
+}

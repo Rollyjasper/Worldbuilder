@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 9
+    },
+    "Secondary": {
+        "Type": "Sentinal",
+        "Sub-Type": "Standard",
+        "Version": 8
+    },
+    "Tertiary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "L",
+        "Bay Count": 4
+    },
+    "Navigational": {
+        "Mount": "Deflector",
+        "Version": 10
+    },
+    "Hull": {
+        "Type": "Composite"
+    },
+    "Notes": {}
+}

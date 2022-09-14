@@ -1,0 +1,26 @@
+{
+    "Characteristics": {
+        "Length": [
+            3942,
+            "m"
+        ],
+        "Neck Width": [
+            400,
+            "m"
+        ],
+        "Wingspan": [
+            1321,
+            "m"
+        ],
+        "Decks": [
+            40
+        ],
+        "Height": [
+            160,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A very capable exploration ship, capable of running with no crew should the need arise."
+    }
+}

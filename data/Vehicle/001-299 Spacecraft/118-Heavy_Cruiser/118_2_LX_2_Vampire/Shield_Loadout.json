@@ -1,0 +1,32 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 11
+    },
+    "Secondary": {
+        "Type": "Solar",
+        "Sub-Type": "Standard",
+        "Version": 2
+    },
+    "Tertiary": {
+        "Type": "Assault",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "M",
+        "Bay Count": 2
+    },
+    "Navigational": {
+        "Mount": "Internal",
+        "Version": 12
+    },
+    "Hull": {
+        "Type": "Solar"
+    },
+    "Notes": {
+        "0": ""
+    }
+}

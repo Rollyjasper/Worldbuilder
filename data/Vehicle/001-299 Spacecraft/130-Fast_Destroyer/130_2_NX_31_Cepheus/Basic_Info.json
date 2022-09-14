@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Cepheus",
+        "Class Type": "130",
+        "Class Type Name": "Fast_Destroyer",
+        "Class Sub-Type": "Heavy",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "31",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

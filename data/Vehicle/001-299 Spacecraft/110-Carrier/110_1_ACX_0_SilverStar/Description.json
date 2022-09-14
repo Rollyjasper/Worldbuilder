@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            5000,
+            "m"
+        ],
+        "Width": [
+            800,
+            "m"
+        ],
+        "Pylon Length": [
+            3500,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The largest carrier for its time and the second largest standard ship, the Silver Star Classes true powerhouses.",
+        "1": "Four were built however one was destroyed, a rare thing for the Avingarde."
+    }
+}

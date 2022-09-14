@@ -1,0 +1,21 @@
+{
+    "Characteristics": {
+        "Length": [
+            "13.5",
+            "m"
+        ],
+        "Width": [
+            "0.75",
+            "m"
+        ],
+        "Height": [
+            "1.5",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A long slender frame that makes these ships resemble a dart.",
+        "1": "Their powerful engines and short-range FTL drive make them perfect intercepor and evasion fighters.",
+        "2": "The FTL drives of these ships can make jumps to locations metres away."
+    }
+}

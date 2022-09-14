@@ -1,0 +1,57 @@
+{
+    "Primary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            40,
+            "External"
+        ],
+        " Broadside Projectile Laser Cannon": [
+            18,
+            "Internal"
+        ],
+        " Turret Projectile Laser Cannon": [
+            48,
+            "External"
+        ]
+    },
+    "Secondary": {
+        "VLS Photonic Warhead Missile": [
+            7,
+            "Internal"
+        ],
+        "VLS Thermal Warhead Missile": [
+            3,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            10,
+            "External"
+        ],
+        " Icebolt Railgun": [
+            10,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Pylon Config": [
+            1,
+            "Retractable"
+        ],
+        "Micro Lightning Cannon Turret": [
+            1,
+            "Retractable"
+        ],
+        " Icechild Railgun": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Large Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

@@ -1,0 +1,27 @@
+{
+    "Characteristics": {
+        "Length": [
+            4227,
+            "m"
+        ],
+        "Neck Width": [
+            429,
+            "m"
+        ],
+        "Wingspan": [
+            1416,
+            "m"
+        ],
+        "Decks": [
+            132
+        ],
+        "Height": [
+            528,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A reworking of the Demon Class, ships of the Spirit Class fitted the same role.",
+        "1": "Their larger size affored them yet more capablity and even greater range."
+    }
+}

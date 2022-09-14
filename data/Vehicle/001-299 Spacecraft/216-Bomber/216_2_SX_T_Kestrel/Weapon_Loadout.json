@@ -1,0 +1,45 @@
+{
+    "Primary": {
+        " Photonic Warhead Mine": [
+            1,
+            "Internal"
+        ],
+        "Rack Photonic Warhead Bomb": [
+            18,
+            "Internal"
+        ],
+        "Fore Deca-Shot Photonic Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        " Gravaton Warhead Torpedo": [
+            1,
+            "Internal"
+        ],
+        "Mono Band Multi Frequency Green Phaser Strip": [
+            2,
+            "External"
+        ],
+        "Mono Band Multi Frequency Cyan PHAS Strip": [
+            2,
+            "External"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {
+        "Composite Photonic Warhead Missile": [
+            4,
+            "Internal"
+        ]
+    },
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

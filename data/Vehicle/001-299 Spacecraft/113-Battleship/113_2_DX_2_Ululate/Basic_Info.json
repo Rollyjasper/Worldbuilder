@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Ululate",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Heavy",
+        "Generation": "2",
+        "Core Type": "DX",
+        "Order": "2",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

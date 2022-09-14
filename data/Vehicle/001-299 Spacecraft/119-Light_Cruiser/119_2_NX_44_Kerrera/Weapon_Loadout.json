@@ -1,0 +1,54 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Magenta Phaser Strip": [
+            6,
+            "External"
+        ],
+        "Tri Band Multi Frequency Magenta Phaser Coil Turret": [
+            12,
+            "External"
+        ],
+        "Composite Photonic Warhead Missile": [
+            10,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Tri-Shot Quantum Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Aft Tri-Shot Quantum Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            2,
+            "External"
+        ],
+        "Mono Band Phased Frequency Yellow Phaser Cruiser Turret": [
+            2,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 3 Grid": [
+            34,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

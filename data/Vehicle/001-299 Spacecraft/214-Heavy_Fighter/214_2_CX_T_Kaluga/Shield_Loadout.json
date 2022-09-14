@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 7
+    },
+    "Secondary": {
+        "Type": "Combat",
+        "Sub-Type": "Atmospheric",
+        "Version": 2
+    },
+    "Tertiary": {
+        "Type": "Defence",
+        "Sub-Type": "Shuttle",
+        "Version": 3
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "N",
+        "Bay Count": 2
+    },
+    "Navigational": {
+        "Mount": "Array",
+        "Version": "HF"
+    },
+    "Hull": {
+        "Type": "Hybrid"
+    },
+    "Notes": {}
+}

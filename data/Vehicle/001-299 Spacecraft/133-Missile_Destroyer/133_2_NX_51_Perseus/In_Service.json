@@ -1,0 +1,15 @@
+{
+    "List": {
+        "133-2-NX-5101": "Perseus",
+        "133-2-NX-5102": "Prometheus",
+        "133-2-NX-5103": "Yatrasis",
+        "133-2-NX-5104": "Goteus",
+        "133-2-NX-5105": "Hellfire"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

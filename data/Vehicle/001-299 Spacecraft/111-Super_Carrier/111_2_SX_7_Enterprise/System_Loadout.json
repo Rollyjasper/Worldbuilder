@@ -1,0 +1,84 @@
+{
+    "Power Core": {
+        "Primary_Type": "Decay",
+        "Primary_Version": 5,
+        "Primary_Style": "Void-72",
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 3,
+        "Secondary_Style": "Plasma Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Arc-Void",
+        "Tertiary_Version": 1,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Ion Accelerant",
+                4,
+                "Huge"
+            ],
+            [
+                "Impulse",
+                10,
+                "Heavy Cluster-150"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Heavy Long-range Neutreno Based"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 16,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Isolated),Reaster"
+    },
+    "Other": {
+        "Probe Launcher": 300,
+        "Cargo Transporter": 210,
+        "Personnel Transporter": 140,
+        "Command Relay Module": 70,
+        "Electronic Warfare Module": 200,
+        "Platnium Star Fighter Launch Tube": 400,
+        "Viper Launch Tube": 280,
+        "Supercarrier Assault Module": 10,
+        "Supercarrier Defence Module": 10,
+        "Supercarrier Flag Module": 5
+    },
+    "Notes": {}
+}

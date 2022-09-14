@@ -1,0 +1,45 @@
+{
+    "Primary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            16,
+            "External"
+        ],
+        "Mono Band Dual Frequency Green Phaser Cruiser Turret": [
+            6,
+            "External"
+        ],
+        "Fore Bi-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Bi-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        " Thunderbolt Railgun": [
+            6,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Icechild Railgun": [
+            18,
+            "Retractable"
+        ],
+        "Cryo Based Lightning Cannon Lance Config": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

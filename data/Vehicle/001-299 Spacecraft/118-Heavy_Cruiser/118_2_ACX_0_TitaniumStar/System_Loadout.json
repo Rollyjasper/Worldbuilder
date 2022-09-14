@@ -1,0 +1,81 @@
+{
+    "Power Core": {
+        "Primary_Type": "Lightning",
+        "Primary_Version": 4,
+        "Primary_Style": "Enhanced Grav Arc",
+        "Primary_Variation": null,
+        "Secondary_Type": "Fusion",
+        "Secondary_Version": 18,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Dampened Gravitational",
+                10,
+                "Armoured"
+            ]
+        ],
+        "FTL": [
+            [
+                "Dimentional Accelerant",
+                1,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 25,
+        "AI": "Zennith",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 20,
+        "Cargo Transporter": 8,
+        "Personnel Transporter": 9,
+        "Escape Pod Reclaim Module": 2,
+        "Dimentional Cloak": 1,
+        "Sensor Cloak": 1,
+        "Fighter Command Relay Module": 5,
+        "Command Relay Module": 8
+    },
+    "Notes": {
+        "0": "when Launched, the  lightning core was replaced with a type 5 and the ship gained a starfield cloak.",
+        "1": "",
+        "2": ""
+    }
+}

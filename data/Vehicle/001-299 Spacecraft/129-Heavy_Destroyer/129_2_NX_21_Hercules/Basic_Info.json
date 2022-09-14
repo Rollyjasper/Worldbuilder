@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Hercules",
+        "Class Type": "129",
+        "Class Type Name": "Heavy_Destroyer",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "21",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

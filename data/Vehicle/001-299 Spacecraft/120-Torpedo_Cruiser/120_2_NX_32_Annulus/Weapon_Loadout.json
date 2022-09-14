@@ -1,0 +1,66 @@
+{
+    "Primary": {
+        "Quad Band Multi Frequency Violet Phaser Strip": [
+            6,
+            "External"
+        ],
+        "Quad Band Multi Frequency Blue Phaser Coil Turret": [
+            12,
+            "External"
+        ],
+        "Fore Mono-Shot Super Heavy Photonic Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "Fore Tri-Shot Gravaton Warhead Torpedo": [
+            6,
+            "Internal"
+        ],
+        "Fore Penta-shot Rapid Reload Quantum Warhead Torpedo": [
+            25,
+            "Internal"
+        ],
+        "Aft Penta-shot Rapid Reload Quantum Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Deca-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Deca-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Mono Band Phased Frequency Orange Phaser Cruiser Turret": [
+            2,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            2,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            25,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

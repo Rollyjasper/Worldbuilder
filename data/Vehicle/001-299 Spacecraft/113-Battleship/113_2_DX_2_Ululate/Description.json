@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            3000,
+            "m"
+        ],
+        "Neck Width": [
+            420,
+            "m"
+        ],
+        "Main Hull Width": [
+            2200,
+            "m"
+        ],
+        "Hanger Count": [
+            4
+        ],
+        "Decks": [
+            97
+        ],
+        "Height": [
+            388,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Hangers are paired with 2 on each side, stacked so the bay floors are connected.",
+        "1": "Large and powerful, these ships were much like the Lament class that they succeeded.",
+        "2": "These ships had a commanding presence and could challange many foes both on their own and with a support fleet."
+    }
+}

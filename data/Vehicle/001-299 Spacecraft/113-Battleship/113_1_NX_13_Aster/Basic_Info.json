@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Aster",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Light",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "13",
+        "Range": [
+            832.5,
+            "MPc"
+        ]
+    }
+}

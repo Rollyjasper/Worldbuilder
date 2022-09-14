@@ -1,0 +1,77 @@
+{
+    "Primary": {
+        "Bi Band Dual Frequency Yellow Phaser Cruiser Turret": [
+            6,
+            "External"
+        ],
+        "Fore Mono-Shot Super Heavy Photonic Warhead Torpedo": [
+            10,
+            "Internal"
+        ],
+        "Fore Bi-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Bi-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Fore Penta-shot Rapid Reload Quantum Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Aft Penta-shot Rapid Reload Quantum Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Fore Tri-Shot Gravaton Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Aft Tri-Shot Gravaton Warhead Torpedo": [
+            3,
+            "Internal"
+        ],
+        "Fore Deca-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Deca-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            10,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            6,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Heavy Helical Massdriver": [
+            1,
+            "External"
+        ],
+        "Icechild Railgun": [
+            10,
+            "Retractable"
+        ],
+        "Solar Based Lightning Cannon Drone Config": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

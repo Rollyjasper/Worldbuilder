@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "RubyStar",
+        "Class Type": "125",
+        "Class Type Name": "Assault_Corvette",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            800.0,
+            "MPc"
+        ]
+    }
+}

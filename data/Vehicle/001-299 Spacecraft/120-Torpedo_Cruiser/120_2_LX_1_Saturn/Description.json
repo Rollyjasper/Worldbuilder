@@ -1,0 +1,38 @@
+{
+    "Characteristics": {
+        "Length": [
+            1363,
+            "m"
+        ],
+        "Width": [
+            445,
+            "m"
+        ],
+        "Decks": [
+            118
+        ],
+        "Height": [
+            472,
+            "m"
+        ],
+        "Width with Pod": [
+            545,
+            "m"
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Drone"
+        ],
+        "Wingspan": [
+            485,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "These ships are built around a long hexagonal prisim main hull that housed the expeimental Solar Core.",
+        "1": "Mounted on the side of the main hull were two pods that contained the solar lightning cannon's drones and eversheild pylons.",
+        "2": "the main engine is inline with the main hull, the wings house the impulse engines."
+    }
+}

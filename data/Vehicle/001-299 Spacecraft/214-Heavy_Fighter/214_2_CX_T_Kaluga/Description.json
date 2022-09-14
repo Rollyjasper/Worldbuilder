@@ -1,0 +1,25 @@
+{
+    "Characteristics": {
+        "Length": [
+            28,
+            "m"
+        ],
+        "Width": [
+            "4.9",
+            "m"
+        ],
+        "Height": [
+            "3.2",
+            "m"
+        ],
+        "Wingspan": [
+            16,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Imposing Heavy fighters with a wide arched wing (think romulan Valdore).",
+        "1": "Rather snub-nosed ship with many simmerlarities to the older Hiei class shuttle.",
+        "2": ""
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "Primary": {
+        "Quad Heavy Deckgun Projectile Laser Cannon": [
+            1800,
+            "External"
+        ],
+        "VLS Photonic Warhead Missile": [
+            500,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "VLS Fission Warhead Missile": [
+            250,
+            "Internal"
+        ],
+        "Heavy Nose Mounted Hardlight Cannon": [
+            40,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Internal"
+        ],
+        "Micro Lightning Cannon Turret Lightning Cannon": [
+            4,
+            "Retractable"
+        ]
+    },
+    "Pod": {
+        "Dual Heavy Deckgun Projectile Laser Cannon": [
+            500,
+            "External"
+        ],
+        " Quad-Bar Railgun": [
+            350,
+            "External"
+        ],
+        "Refractive Flac": [
+            7500,
+            "Retractable"
+        ]
+    },
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            15000,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Mega Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

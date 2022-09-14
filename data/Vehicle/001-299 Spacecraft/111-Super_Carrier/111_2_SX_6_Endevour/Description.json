@@ -1,0 +1,34 @@
+{
+    "Characteristics": {
+        "Length": [
+            "12.5",
+            "Km"
+        ],
+        "Width": [
+            "7.7",
+            "Km"
+        ],
+        "Width with Pod": [
+            9,
+            "Km"
+        ],
+        "Pylon Length": [
+            "1.3",
+            "Km"
+        ],
+        "Decks": [
+            1500
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Hanger"
+        ]
+    },
+    "Description": {
+        "0": "One of the smaller supercarriers, being only longer than the Eclipse Star Class",
+        "1": "These ships were less powerful than their contemparies.",
+        "2": "This smaller size didn't hinder these ships however, as they were still very formiable vessels that used their lighter frame to engage in closer range combat."
+    }
+}

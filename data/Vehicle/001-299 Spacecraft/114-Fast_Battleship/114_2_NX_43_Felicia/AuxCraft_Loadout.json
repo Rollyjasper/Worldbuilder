@@ -1,0 +1,13 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 20,
+        "214_2_ACX_0_RhodiumStar": 50,
+        "217_2_ACX_0_IridiumStar": 50,
+        "223_2_ACX_0_IridiumStar": 10,
+        "134_2_NX_18_Azalea": 1
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "Azalea mounted in lower hull."
+    }
+}

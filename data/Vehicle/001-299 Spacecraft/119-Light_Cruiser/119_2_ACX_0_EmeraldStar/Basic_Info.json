@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "EmeraldStar",
+        "Class Type": "119",
+        "Class Type Name": "Light_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            850.0,
+            "MPc"
+        ]
+    }
+}

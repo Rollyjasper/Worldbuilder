@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Horizon",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "Super Heavy",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "22",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "None": {
+        "Desc": "No sub-type, the baseline for the class."
+    },
+    "Light": {
+        "Desc": "Lighter armour and armourment give these ships more maneuverability and speed."
+    },
+    "Assault": {
+        "Desc": "Assault sub-classes are adapted to engage stations and stuctures."
+    },
+    "Armoured": {
+        "Desc": "Additional armour allows these ships to soak up more damage without system failure."
+    },
+    "Heavy": {
+        "Desc": "Heavy ships are often larger than other members of the class and carry a larger armourment and armour."
+    },
+    "Super Heavy": {
+        "Desc": "Super heavy ships are larger and more powerful than the heavy sub-class. Although they are more offensively orientated."
+    },
+    "Support": {
+        "Desc": "These ships are designed to support the actions taken by a fleet or battlegroup. Often a large proportion of the ship is dedicated to the storage and acquisition of supplies."
+    },
+    "Defence": {
+        "Desc": "These ships are adapted to help defend other ships, locations or structures."
+    },
+    "Point Defence": {
+        "Desc": "These ships are designed to counter fighters, small-craft and munitions."
+    },
+    "Guardian": {
+        "Desc": "These ships take defence to an extreme. These ships are able to defend an entire station solo."
+    },
+    "World Defender": {
+        "Desc": "The ultimate defender, these ships are able to defend entire planets solo. Often much larger than any other class."
+    },
+    "Flight-Deck": {
+        "Desc": "Ships of this sub-type have a larger hanger bay and support a larger compliment of aux-craft."
+    },
+    "Carrier Hybrid": {
+        "Desc": "These ships bring many properties of carriers to the ship."
+    },
+    "VTOL":{
+        "Desc": "These vehicles are designed to land and launch virtically. Only used on aircraft."
+    },
+    "Escort": {
+        "Desc": "These ships are designed to escort other ships."
+    },
+    "Scout": {
+        "Desc": "These ships are often smaller and have some low-level stealth systems."
+    },
+    "Intel": {
+        "Desc": "These ships are oriented towards the gathering and distribution of intelligence. These ships often have a hull colour that blends in with the surrounding space and a large array of stealth and sensor systems."
+    },
+    "Exploration": {
+        "Desc": "These are larger ships that have a smaller than normal crew compliment that are designed for long, exploratory voyages with limited contact."
+    },
+    "Long-Range": {
+        "Desc": "These ships have larger stores, allowing longer deployments."
+    },
+    "Patrol": {
+        "Desc": "Specially designed for operation in small groups. Able to intercept and over-power larger ships. Although capable of long deployments, they are ment to operate within range of a border stations."
+    },
+    "Lander": {
+        "Desc": "These ships are capable of atmospheric flight and are designed to land on a bodies surface and deploy vehicles and/or persons."
+    },
+    "Flag": {
+        "Desc": "These ships are often the larger members of their class. These ships are often deployed as command ships."
+    },
+    "Next Gen": {
+        "Desc": "These ships add skme form of innovation or improvement to the class. One of the most advanced for their generation."
+    },
+    "Solar": {
+        "Desc": "A unique sub-type attributed to ships designed to enter stars and remain for extended periods of time."
+    },
+    "Temporal": {
+        "Desc": "These ships are designed for time travel."
+    },
+    "Interceptor": {
+        "Desc": "The these ships are designed to intercept any hostiles."
+    },
+    "Fighter": {
+        "Desc": "A type of vehicle that is configured to engage similar sized vehicles in dogfights."
+    },
+    "Exo-Atmospheric": {
+        "Desc": "A ship only able to operate outside of an atmosphere."
+    },
+    "Inter-Atmospheric": {
+        "Desc": "A ship that can only operate in an atmosphere."
+    },
+    "Trans-Atmospheric": {
+        "Desc": "A ship that can operate in both atmospheric and non-atmospheric conditions."
+    },
+    "Post-Dreadnought": {
+        "Desc": "A battleship that has been improved with modifications from the dreadnought type ships."
+    },
+    "Border": {
+        "Desc": "A ship designed to defend the border of a territory. Often more agile than others in their class."
+    }
+}

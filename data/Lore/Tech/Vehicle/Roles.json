@@ -1,0 +1,29 @@
+{
+    "Roles": [
+        "Fleet Command",
+        "Fleet Support",
+        "Fleet Escort",
+        "Fleet Defence",
+        "Fleet Assault",
+        "Intel",
+        "Warship",
+        "Exploration",
+        "Science",
+        "Rescue",
+        "World Defender",
+        "Temporal Assault",
+        "Temporal Defence",
+        "Landing Craft",
+        "Infantry Support",
+        "Anti-Fighter",
+        "System Defence",
+        "System Assault",
+        "Station Defence",
+        "Station Assault",
+        "Interceptor",
+        "Bomber",
+        "Transport",
+        "Ship Support",
+        "Anti-Capital"
+    ]
+}

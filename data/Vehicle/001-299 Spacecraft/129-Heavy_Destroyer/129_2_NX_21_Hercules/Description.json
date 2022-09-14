@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            689,
+            "m"
+        ],
+        "Saucer Width": [
+            600,
+            "m"
+        ],
+        "Main Hull Width": [
+            90,
+            "m"
+        ],
+        "Decks": [
+            15
+        ],
+        "Height": [
+            60,
+            "m"
+        ],
+        "Nacelle Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "The ship features a large primary saucer with the secondary hull inline with the ships centure.",
+        "1": "The ships four nacelles are mounted on the secondary hull and are projected froward so they end before the arformentioned hull."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Characteristics": {
+        "Length": [
+            891,
+            "m"
+        ],
+        "Width": [
+            100,
+            "m"
+        ],
+        "Wingspan": [
+            210,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The Vanguard class of ships are the first temporal ship built by the Avingarde.",
+        "1": "The ship is long and thin with the propultion systems attached to a large wing at the end of the main hull.",
+        "2": "The forward section of the main hull flares and the type 001 super weapon is attached below this flare."
+    }
+}

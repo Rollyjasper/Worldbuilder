@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Butterfly",
+        "Class Type": "127",
+        "Class Type Name": "Blockade_Runner_Corvette",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "35",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Atmospheric Kestral",
+        "Version": 1
+    },
+    "Secondary": {
+        "Type": "Combat",
+        "Sub-Type": "Atmospheric Viper",
+        "Version": 2
+    },
+    "Tertiary": {
+        "Type": "Defence",
+        "Sub-Type": "Shuttle",
+        "Version": 4
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "XXS",
+        "Bay Count": 4
+    },
+    "Navigational": {
+        "Mount": "Internal",
+        "Version": "B"
+    },
+    "Hull": {
+        "Type": "Hybrid"
+    },
+    "Notes": {}
+}

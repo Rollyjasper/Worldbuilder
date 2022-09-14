@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Saturn",
+        "Class Type": "120",
+        "Class Type Name": "Torpedo_Cruiser",
+        "Class Sub-Type": "Solar",
+        "Generation": "2",
+        "Core Type": "LX",
+        "Order": "1",
+        "Range": [
+            0,
+            "MPc"
+        ]
+    }
+}

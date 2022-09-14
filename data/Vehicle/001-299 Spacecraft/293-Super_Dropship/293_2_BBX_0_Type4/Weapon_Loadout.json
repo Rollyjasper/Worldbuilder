@@ -1,0 +1,19 @@
+{
+    "Primary": {
+        " Shocking Firebird Railgun": [
+            4,
+            "External"
+        ]
+    },
+    "Secondary": {},
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Nano Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

@@ -1,0 +1,29 @@
+{
+    "Primary": {
+        " Shocking Firebird Railgun": [
+            8,
+            "Retractable"
+        ]
+    },
+    "Secondary": {
+        "HLS Photonic Warhead Missile": [
+            2,
+            "Internal"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

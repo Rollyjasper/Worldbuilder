@@ -1,0 +1,71 @@
+{
+    "Power Core": {
+        "Primary_Type": "Lightning",
+        "Primary_Version": 5,
+        "Primary_Style": "Enhanced Grav Arc",
+        "Primary_Variation": "Miniture",
+        "Secondary_Type": "Fusion",
+        "Secondary_Version": 16,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Dampened Gravitational",
+                6,
+                null
+            ]
+        ],
+        "FTL": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 100,
+        "AI": "Magnanimity",
+        "A.S.T.R": "None"
+    },
+    "Other": {
+        "Sensor Cloak": 1,
+        "Targeting Assist System": 1
+    },
+    "Notes": {}
+}

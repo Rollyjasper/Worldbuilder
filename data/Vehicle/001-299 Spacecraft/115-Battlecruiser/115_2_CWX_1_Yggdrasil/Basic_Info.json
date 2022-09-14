@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Yggdrasil",
+        "Class Type": "115",
+        "Class Type Name": "Battlecruiser",
+        "Class Sub-Type": "World Defender",
+        "Generation": "2",
+        "Core Type": "CWX",
+        "Order": "1",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

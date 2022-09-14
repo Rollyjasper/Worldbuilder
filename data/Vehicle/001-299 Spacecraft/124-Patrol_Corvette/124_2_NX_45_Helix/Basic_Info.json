@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Helix",
+        "Class Type": "124",
+        "Class Type Name": "Patrol_Corvette",
+        "Class Sub-Type": "Border",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "45",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

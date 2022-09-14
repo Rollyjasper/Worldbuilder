@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Annulus",
+        "Class Type": "120",
+        "Class Type Name": "Torpedo_Cruiser",
+        "Class Sub-Type": "Assault",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "32",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

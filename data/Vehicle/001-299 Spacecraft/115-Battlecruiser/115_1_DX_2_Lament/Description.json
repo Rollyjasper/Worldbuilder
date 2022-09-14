@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            1600,
+            "m"
+        ],
+        "Neck Width": [
+            300,
+            "m"
+        ],
+        "Main Hull Width": [
+            1200,
+            "m"
+        ],
+        "Decks": [
+            45
+        ],
+        "Height": [
+            180,
+            "m"
+        ],
+        "Hanger Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "A large and powerful battlecuiser designed to support and bolster fleets.",
+        "1": "The Lament herself was outfited with a Proto-jump drive after the founding of arminath, this was then replaced with a tactical jump drive during the second generation."
+    }
+}

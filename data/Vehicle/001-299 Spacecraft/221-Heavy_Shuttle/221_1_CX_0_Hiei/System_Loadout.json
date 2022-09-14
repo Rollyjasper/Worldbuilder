@@ -1,0 +1,73 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPE",
+        "Primary_Version": 3,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": "Fusion",
+        "Secondary_Version": 17,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Grav",
+                4,
+                "Armoured Heavy"
+            ]
+        ],
+        "FTL": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "Grav",
+                2,
+                "LE25"
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 150,
+        "AI": "Xanadu",
+        "A.S.T.R": "None"
+    },
+    "Other": {
+        "Sensor Cloak": 1,
+        "Probe Launcher": 2,
+        "Personnel Transporter": 1,
+        "Targeting Assist System": 1
+    },
+    "Notes": {}
+}

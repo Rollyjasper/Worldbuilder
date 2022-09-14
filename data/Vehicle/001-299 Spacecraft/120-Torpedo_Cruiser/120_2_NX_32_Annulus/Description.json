@@ -1,0 +1,29 @@
+{
+    "Characteristics": {
+        "Length": [
+            1567,
+            "m"
+        ],
+        "Saucer Width": [
+            1500,
+            "m"
+        ],
+        "Main Hull Width": [
+            50,
+            "m"
+        ],
+        "Decks": [
+            30
+        ],
+        "Height": [
+            120,
+            "m"
+        ],
+        "Nacelle Count": [
+            1
+        ]
+    },
+    "Description": {
+        "0": "Looks like a kitbash of the freedom class with an akira torpedo pod"
+    }
+}

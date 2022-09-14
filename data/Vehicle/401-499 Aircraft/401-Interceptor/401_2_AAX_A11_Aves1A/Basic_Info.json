@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Aves1A",
+        "Class Type": "401",
+        "Class Type Name": "Interceptor",
+        "Class Sub-Type": "Interceptor",
+        "Generation": "2",
+        "Core Type": "AAX",
+        "Order": "A11",
+        "Range": [
+            32625.0,
+            "Km"
+        ]
+    }
+}

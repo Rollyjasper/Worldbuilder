@@ -1,0 +1,20 @@
+{
+    "Characteristics": {
+        "Length": [
+            30,
+            "m"
+        ],
+        "Width": [
+            "5.125",
+            "m"
+        ],
+        "Height": [
+            "5.125",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Puddle jumper from stargate.",
+        "1": "Replace flight pods with manned turrets."
+    }
+}

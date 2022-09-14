@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Viper",
+        "Version": 2
+    },
+    "Secondary": {
+        "Type": "Mask",
+        "Sub-Type": "Standard",
+        "Version": 2
+    },
+    "Tertiary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "N",
+        "Bay Count": 1
+    },
+    "Navigational": {
+        "Mount": "Internal",
+        "Version": "SF"
+    },
+    "Hull": {
+        "Type": "Star Type"
+    },
+    "Notes": {}
+}

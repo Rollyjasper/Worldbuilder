@@ -1,0 +1,36 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Violet Phaser Atmospheric": [
+            5,
+            "External"
+        ],
+        "Quad Band Multi Frequency Ultra-Violet Phaser Atmospheric": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Thunderbird Railgun": [
+            1,
+            "External"
+        ],
+        "Fore Bi-Shot Photonic Warhead Torpedo": [
+            1,
+            "Internal"
+        ],
+        "Aft Bi-Shot Photonic Warhead Torpedo": [
+            1,
+            "Internal"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Small Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

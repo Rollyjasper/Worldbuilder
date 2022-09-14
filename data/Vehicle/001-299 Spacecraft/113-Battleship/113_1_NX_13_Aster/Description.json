@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            1924,
+            "m"
+        ],
+        "Saucer Width": [
+            769,
+            "m"
+        ],
+        "Main Hull Width": [
+            192,
+            "m"
+        ],
+        "Decks": [
+            40
+        ],
+        "Height": [
+            160,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "25 decks in the Saucer, 5 in the neck, 10 in the main hull.",
+        "1": "The large saucer houses most ship systems with the main hull only hosing the deflector.",
+        "2": "The nacelles are mounted about half way up the saucer and are angled down so the nacelle itself is parallel with the saucer edge.",
+        "3": "From above the secondary hull cannot be seen."
+    }
+}

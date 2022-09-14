@@ -1,0 +1,50 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": [
+            5,
+            "External"
+        ],
+        "Bi Band Multi Frequency Violet Phaser Strip": [
+            10,
+            "External"
+        ],
+        "Fore Bi-Shot Quantum Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Bi-Shot Quantum Warhead Torpedo": [
+            1,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Bi-Shot Fusion Warhead Torpedo": [
+            1,
+            "Internal"
+        ],
+        " Firebird Railgun": [
+            2,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            10,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Small Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

@@ -1,0 +1,19 @@
+{
+    "Primary": {
+        "Mono Band Multi Frequency Red Phaser Cannons": [
+            3,
+            "External"
+        ]
+    },
+    "Secondary": {},
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

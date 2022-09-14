@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Gate",
+        "Class Type": "212",
+        "Class Type Name": "Gunship",
+        "Class Sub-Type": "Heavy",
+        "Generation": "1",
+        "Core Type": "DX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

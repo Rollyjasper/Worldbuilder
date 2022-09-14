@@ -1,0 +1,62 @@
+{
+    "Primary": {
+        " Tri-Bar Railgun": [
+            1500,
+            "External"
+        ],
+        " Quad-Bar Railgun": [
+            300,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            2250,
+            "External"
+        ],
+        "VLS Photonic Warhead Missile": [
+            300,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "HLS Photonic Warhead Missile": [
+            100,
+            "Internal"
+        ],
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            400,
+            "External"
+        ],
+        " Hardlight Cannon": [
+            100,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Neutreno Based Lightning Cannon Hull Mount": [
+            1,
+            "Retractable"
+        ],
+        "Helical Massdriver": [
+            4,
+            "External"
+        ],
+        "Micro Lightning Cannon Turret": [
+            6,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 6 Grid": [
+            4500,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Mega Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

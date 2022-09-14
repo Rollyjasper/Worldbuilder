@@ -1,0 +1,15 @@
+{
+    "List": {
+        "112-1-NX-1701": "Dreadnought",
+        "112-1-NX-1702": "Onslaught",
+        "112-1-NX-1703": "Olympus",
+        "112-1-NX-1704": "Polaris",
+        "112-1-NX-1705": "Phoenix"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

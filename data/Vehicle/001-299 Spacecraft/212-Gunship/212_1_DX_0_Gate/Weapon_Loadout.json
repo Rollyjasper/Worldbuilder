@@ -1,0 +1,33 @@
+{
+    "Primary": {
+        "Mono Band Multi Frequency Blue Phaser Atmospheric": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Shocking Firebird Railgun": [
+            1,
+            "Retractable"
+        ],
+        " ML-33 Mounted Semi-Hardlight Beam Weapon": [
+            2,
+            "Internal"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            4,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

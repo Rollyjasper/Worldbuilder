@@ -1,0 +1,50 @@
+{
+    "Primary": {
+        "Dual Turret Projectile Laser Cannon": [
+            10,
+            "External"
+        ],
+        "Tri Band Multi Frequency Orange Phaser Split-Beam": [
+            10,
+            "External"
+        ],
+        "VLS Photonic Warhead Missile": [
+            4,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Dual Heavy Deckgun Projectile Laser Cannon": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Internal"
+        ],
+        "Light Helical Massdriver": [
+            4,
+            "External"
+        ]
+    },
+    "Pod": {
+        "Helical Massdriver": [
+            1,
+            "External"
+        ],
+        " Broadside Projectile Laser Cannon": [
+            4,
+            "Internal"
+        ]
+    },
+    "Point Defence Grid": {},
+    "Drone": {
+        "Large Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

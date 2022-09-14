@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            25,
+            "Km"
+        ],
+        "Main Hull Width": [
+            "9.8",
+            "Km"
+        ],
+        "Pylon Length": [
+            17,
+            "Km"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            3,
+            3,
+            0
+        ]
+    },
+    "Description": {
+        "0": "10 SAGE, 25 ACP and 15 ECU per Breaching Pod.",
+        "1": "The Second largest standard ship in service and the largest star class ever produced as of the second generation.",
+        "2": "Unlike the other gem type star classes, the Sapphire Star was a rare, this was mainly due to crew requierments and their status as a fragship.",
+        "3": "Only five of these ships where built but, like all Avingarde ships of this scale, only one was needed to win wars."
+    }
+}

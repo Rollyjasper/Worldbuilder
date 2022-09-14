@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            2111,
+            "m"
+        ],
+        "Saucer Width": [
+            425,
+            "m"
+        ],
+        "Main Hull Width": [
+            25,
+            "m"
+        ],
+        "Decks": [
+            55
+        ],
+        "Height": [
+            220,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Same shaped saucer as the Aster and Bellis Classes only now is more teardrop shaped with its aft tapering.",
+        "1": "There is no secondary hull, insted it and the main deflector are merged into the front of the ship.",
+        "2": "The nacelles mounted to bace of the hull giving the ship a sled look.",
+        "3": "The nacelle structure is reinforced inorder for them to serve as landing gear."
+    }
+}

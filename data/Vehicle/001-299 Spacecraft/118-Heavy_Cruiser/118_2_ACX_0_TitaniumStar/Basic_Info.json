@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "TitaniumStar",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            850.0,
+            "MPc"
+        ]
+    }
+}

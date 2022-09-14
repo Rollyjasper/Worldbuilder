@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "ElectrumStar",
+        "Class Type": "212",
+        "Class Type Name": "Gunship",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Main": {
+        "213_1_ACX_0_PlatniumStar": 800,
+        "210_1_ACX_0_PlatniumStar": 80,
+        "608_1_ACN_0_AquaticPlatniumStar": 16,
+        "510_1_ACN_0_AquaticGoldStar": 1
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "Although no dropships are carried by standard, these ships were deployed with them on a by mission basis."
+    }
+}

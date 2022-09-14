@@ -1,0 +1,174 @@
+{
+    "Sub-Light": {
+        "Impulse": [
+            null,
+            "Accelerant",
+            "Hyper Accelerant",
+            "Armoured Hyper Accelerant",
+            "Heavy Hyper Accelerant",
+            "Light Hyper Accelerant",
+            "Light",
+            "Armoured",
+            "Heavy",
+            "Huge Heavy",
+            "Armoured Heavy",
+            "Huge Armoured Heavy",
+            "Cluster-50",
+            "Cluster-150",
+            "Heavy Cluster-50",
+            "Heavy Cluster-150",
+            "Atmospheric",
+            "Heavy Atmospheric"
+        ],
+        "Dampened Gravitational": [
+            null,
+            "Accelerated",
+            "Light",
+            "Armoured",
+            "Heavy",
+            "Armoured Heavy"
+        ],
+        "Grav": [
+            null,
+            "Light",
+            "Armoured",
+            "Heavy",
+            "Huge",
+            "Large",
+            "Medium",
+            "Small",
+            "Armoured Heavy",
+            "Large Heavy",
+            "Medium Heavy",
+            "Large Armoured Heavy",
+            "Heavy",
+            "Small Citadel Type",
+            "Citadel Type",
+            "Large Citadel Type"
+        ],
+        "Ion Accelerant": [
+            null,
+            "Light",
+            "Armoured",
+            "Heavy",
+            "Huge"
+        ],
+        "Combustaion": [
+            null,
+            "Compact"
+        ],
+        "Experimental": [
+            null,
+            "Steller"
+        ]
+    },
+    "FTL": {
+        "Spatial Accelerant": [
+            null,
+            "Short-range",
+            "Long-range",
+            "Accelerated",
+            "Short-range Accelerated",
+            "Long-range Accelerated"
+        ],
+        "Spatial Displacment": [
+            null,
+            "Short-range Photon Based",
+            "Short-range Neutreno Based",
+            "Short-range Grav Based",
+            "Photon Based",
+            "Neutreno Based",
+            "Grav Based",
+            "Armoured Photon Based",
+            "Armoured Neutreno Based",
+            "Armoured Grav Based",
+            "Long-range Photon Based",
+            "Long-range Neutreno Based",
+            "Long-range Grav Based",
+            "Heavy Long-range Photon Based",
+            "Heavy Long-range Neutreno Based",
+            "Heavy Long-range Grav Based"
+        ],
+        "Dimentional Accelerant": [
+            null,
+            "Short-range",
+            "Long-range"
+        ],
+        "Dimentional Displacment": [
+            null,
+            "Short-range",
+            "Long-range"
+        ],
+        "Other": [
+            "Turbine Spatial Hyperdrives",
+            "Tactical Spatial Jump Drive"
+        ]
+    },
+    "Atmospheric": {
+        "Ion": [
+            "LE20",
+            "LE30",
+            "LE40",
+            "LE50"
+        ],
+        "Grav": [
+            "LE25",
+            "LE35",
+            "LE45"
+        ],
+        "Nucler": [
+            "LX10",
+            "LX20"
+        ],
+        "Pulse": [
+            "LX15"
+        ]
+    },
+    "Aquatic": {
+        "Hydroform Impulse": [
+            null,
+            "Masked",
+            "High-Pressure",
+            "Masked High-Pressure",
+            "Prototype"
+        ],
+        "Turbine Impulse": [
+            null,
+            "Prototype"
+        ]
+    },
+    "Terrestrial": {
+        "Tracked": [
+            "6 Wheeled",
+            "8 Wheeled",
+            "10 Wheeled",
+            "12 Wheeled",
+            "16 Wheeled",
+            "24 Wheeled"
+        ],
+        "Wheeled": [
+            "Single",
+            "Double",
+            "Triple",
+            "Airless Single",
+            "Airless Double",
+            "Airless Triple",
+            "Armoured Single",
+            "Armoured Double"
+        ],
+        "Hover": [
+            "LE10",
+            "LE15"
+        ],
+        "Leg": [
+            null,
+            "Armoured"
+        ]
+    },
+    "Temporal": {
+        "Accelerant": [
+            "Spatial-Temporal",
+            "Spatial"
+        ]
+    }
+}

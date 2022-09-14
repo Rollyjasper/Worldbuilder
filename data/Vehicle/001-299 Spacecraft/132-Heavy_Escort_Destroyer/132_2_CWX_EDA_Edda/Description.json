@@ -1,0 +1,29 @@
+{
+    "Characteristics": {
+        "Length": [
+            "11.5",
+            "Km"
+        ],
+        "Neck Width": [
+            4,
+            "Km"
+        ],
+        "Wingspan": [
+            "6.755",
+            "Km"
+        ],
+        "Decks": [
+            125
+        ],
+        "Height": [
+            500,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The Edda class is the massive escort ship to the even more massive yggdrasil class.",
+        "1": "These ships are designed to protect and augment the yggdrasil class helping to expand the roles of these massive ships.",
+        "2": "only one was ever put into service indipendant from the yggdrasil class, that being the Edda herself.",
+        "3": "The Edda is used to defend the yggdrasil when they're in dock."
+    }
+}

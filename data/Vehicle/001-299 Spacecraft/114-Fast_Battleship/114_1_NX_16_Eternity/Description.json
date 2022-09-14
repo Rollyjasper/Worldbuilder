@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            2631,
+            "m"
+        ],
+        "Saucer Width": [
+            944,
+            "m"
+        ],
+        "Main Hull Width": [
+            236,
+            "m"
+        ],
+        "Decks": [
+            73
+        ],
+        "Height": [
+            292,
+            "m"
+        ],
+        "Nacelle Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "The square secondary hull is mounted at the aft of a tall saucer section.",
+        "1": "The nacelles are mounted near the aft of the secondary hull and are arranged in an 'X' formation.",
+        "2": "Mass drivers mounted on the upper nacelles."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "List": {
+        "134-2-NX-1801": "Azalea",
+        "134-2-NX-1802": "Begonia",
+        "134-2-NX-1803": "Camellia",
+        "134-2-NX-1804": "Carnation",
+        "134-2-NX-1805": "Clematis",
+        "134-2-NX-1806": "Heliotrope",
+        "134-2-NX-1807": "Jessamine",
+        "134-2-NX-1808": "Myrtle",
+        "134-2-NX-1809": "Narcissus",
+        "134-2-NX-1810": "Peony"
+    },
+    "Totals": {
+        "Commissioned": 10,
+        "Active": 10,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

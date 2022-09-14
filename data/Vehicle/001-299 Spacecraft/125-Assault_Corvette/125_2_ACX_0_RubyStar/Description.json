@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            773,
+            "m"
+        ],
+        "Main Hull Width": [
+            310,
+            "m"
+        ],
+        "Pylon Length": [
+            525,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            3,
+            3,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The smallest star class ship that isn't an auxillary craft.",
+        "1": "Large for a corvette, these ships were intended to serve in smaller groups when compaired to their contemparies."
+    }
+}

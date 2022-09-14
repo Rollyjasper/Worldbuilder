@@ -1,0 +1,31 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 10,
+        "218_2_MX_0_Swiftlet": 100,
+        "213_1_SX_E_Viper": 10,
+        "213_1_SX_I_Viper": 10
+    },
+    "Dropships": {
+        "Terraus": [
+            [
+                "Infantry",
+                3
+            ],
+            [
+                "Tank",
+                3
+            ],
+            [
+                "Artillary",
+                2
+            ]
+        ],
+        "Aquaus": [
+            [
+                "Corvette",
+                6
+            ]
+        ]
+    },
+    "Notes": {}
+}

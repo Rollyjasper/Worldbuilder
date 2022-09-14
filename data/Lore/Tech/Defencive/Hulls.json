@@ -1,0 +1,51 @@
+{
+    "Reflective":{
+        "Desc":"These hulls are able to reflect any incident energy.\nWhilst they are not wholly effective against projectiles, they only suffer from repeted impacts in the same location from them.",
+        "Polerize":true
+    },
+    "Absorbitive":{
+        "Desc":"These hull panels are able to absorb almost all energy imparted on them.\nThis includes the kinetic energy of projectiles like missiles, torpedos and railgun rounds.",
+        "Polerize":true
+    },
+    "Reactive":{
+        "Desc":"These hull panels are designed to react to whatever inpacted them.\nThis reaction takes many forms depending on what impacted, how hard and if it penertrated.",
+        "Polerize":true
+    },
+    "Ablative":{
+        "Desc":"These hull panels are designed to ablate when struck.\nThis makes them thicker than most others and increases maintainance but it does provide protecion from thermal phenomina like plasma.",
+        "Polerize":false
+    },
+    "Conductive":{
+        "Desc":"These hull panels are made of a matirial that is able to conduct shields.",
+        "Polerize":true
+    },
+    "Thermal":{
+        "Desc":"Hull panels with powerful heat sinks that aid to mask a ships thermal signiture.",
+        "Polerize":true
+    },
+    "Solar":{
+        "Desc":"Advanced heat reflecting panels that give allow a ship to survive in stars without shields.",
+        "Polerize":true
+    },
+    "Composite":{
+        "Desc":"A hybrid hull panel that combines Reflective, Conductive and Absorbitive hull types.",
+        "Polerize":true
+    },
+    "Hybrid":{
+        "Desc":"A hybrid hull panel that combines Reactive, Ablative and Conductive hull types.",
+        "Polerize":true
+    },
+    "Star Type":{
+        "Desc":"Only used by Star Class ships.\nCombines most hull types to get a powerful and veristile hull panel.",
+        "Polerize":true
+    },
+    "Stealth":{
+        "Desc":"A hybrid hull panel that combines thermal hull panels with composite hull panels for improved stealth with no loss of defence."
+    },
+    "Aerodynamic":{
+        "Desc":"Bringing together elements of stealth hulls with absorbative and reflective hulls to produce a lightweight and hard to detect hull panel."
+    },
+    "Hydrodynamic":{
+        "Desc":"A modification of the composite hull that adds hydrophobic elements to improve the durability when spending prolonged periods in water."
+    }
+}

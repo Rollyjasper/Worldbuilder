@@ -1,0 +1,74 @@
+{
+    "Standard":{
+        "Avingarde":[
+            "Border Station"
+        ],
+        "Intel":[],
+        "Air Force":[
+            "Interceptor",
+            "Bomber"
+        ],
+        "Army":[
+            "Tank",
+            "Heavy Tank",
+            "Artillary",
+            "Infantry",
+            "Mobile Command",
+            "Personel Transport"
+        ],
+        "Navy":[
+            "Corvette",
+            "Destroyer",
+            "Crusier",
+            "Submarine"
+        ],
+        "Science":[],
+        "Admiralty":[]
+    },
+    "Heavy":{
+        "Avingarde":[],
+        "Intel":[
+            "Shade"
+        ],
+        "Air Force":[
+            "Carrier",
+            "Runway"
+        ],
+        "Army":[
+            "Barracks"
+        ],
+        "Navy":[
+            "Battleship",
+            "Carrier",
+            "Deapsea"
+        ],
+        "Science":[],
+        "Admiralty":[]
+    },
+    "Stealth":{
+        "Avingarde":[],
+        "Intel":[
+            "Light Scout",
+            "Recon Scout"
+        ],
+        "Air Force":[],
+        "Army":[],
+        "Navy":[],
+        "Science":[],
+        "Admiralty":[]
+    },
+    "Super":{
+        "Avingarde":[],
+        "Intel":[
+            "Pre-Fab",
+            "Mobile Base"
+        ],
+        "Air Force":[],
+        "Army":[],
+        "Navy":[
+            "Yard"
+        ],
+        "Science":[],
+        "Admiralty":[]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            2446,
+            "m"
+        ],
+        "Saucer Width": [
+            1150,
+            "m"
+        ],
+        "Main Hull Width": [
+            277,
+            "m"
+        ],
+        "Decks": [
+            48
+        ],
+        "Height": [
+            192,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "These ships are an upscale on the saucer of the Aster with a bulb on the ventral side where the Azalea Class is housed.",
+        "1": "The ships nacelles are mounted on the edge of the saucer and hang below the saucer.",
+        "2": "The 'main hull' is the bulb for the Azalea."
+    }
+}

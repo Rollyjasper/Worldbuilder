@@ -1,0 +1,19 @@
+{
+    "Warhead":{
+        "Photonic":{
+        "Style":["Rack",null],
+        "Limits":["A1","S5"],
+        "Desc":"A variable yeild photonic explosive capable of being dropped by aircraft."
+        },
+        "Thermal":{
+        "Style":[],
+        "Limits":["A1"],
+        "Desc":"A powerful explosive device that can be dropped by aircraft, it releases huge amounts of heat upon detontion."
+        },
+        "Cocytus":{
+        "Style":[],
+        "Limits":["A1"],
+        "Desc":"A powerful explosive that is able to extract the theremal energy from the area, freezing it solid."
+        }
+    }
+}

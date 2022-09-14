@@ -1,0 +1,38 @@
+{
+    "Primary": {
+        "Rack Photonic Warhead Bomb": [
+            20,
+            "Internal"
+        ],
+        " Photonic Warhead Mine": [
+            6,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        " MR-33 Mounted Railgun": [
+            2,
+            "Internal"
+        ]
+    },
+    "Heavy": {
+        "Massdriver": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            4,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

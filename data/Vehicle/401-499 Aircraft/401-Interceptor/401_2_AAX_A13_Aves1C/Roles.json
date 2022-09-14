@@ -1,0 +1,13 @@
+{
+    "Primary": {
+        "Roles": [
+            "Exploration",
+            "Intel"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Rescue"
+        ]
+    }
+}

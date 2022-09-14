@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "RhodiumStar",
+        "Class Type": "214",
+        "Class Type Name": "Heavy_Fighter",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            750.0,
+            "MPc"
+        ]
+    }
+}

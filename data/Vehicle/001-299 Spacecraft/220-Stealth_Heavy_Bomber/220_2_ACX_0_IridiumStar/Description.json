@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            56,
+            "m"
+        ],
+        "Width": [
+            8,
+            "m"
+        ],
+        "Height": [
+            "5.55",
+            "m"
+        ],
+        "Pylon Length": [
+            13,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The most powerful bomber used by the Avingarde.",
+        "1": "A modified version that has cloaking abilites."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Dawn",
+        "Class Type": "112",
+        "Class Type Name": "Dreadnought",
+        "Class Sub-Type": "Heavy",
+        "Generation": "2",
+        "Core Type": "CX",
+        "Order": "1",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

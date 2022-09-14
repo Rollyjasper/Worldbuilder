@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            1602,
+            "m"
+        ],
+        "Saucer Width": [
+            431,
+            "m"
+        ],
+        "Main Hull Width": [
+            150,
+            "m"
+        ],
+        "Decks": [
+            60
+        ],
+        "Height": [
+            240,
+            "m"
+        ],
+        "Nacelle Count": [
+            3
+        ]
+    },
+    "Description": {
+        "0": "These ships feature a squished spheroid as their primary hull.",
+        "1": "The secondary hull connects to the top ten decks.",
+        "2": "Nacelles are mounted on the secondary hull with perpendicular pylons, two are flat and in the same plain as the secondary hull with the third perpendicular."
+    }
+}

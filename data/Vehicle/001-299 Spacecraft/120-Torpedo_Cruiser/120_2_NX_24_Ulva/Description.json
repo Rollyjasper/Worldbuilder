@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            1422,
+            "m"
+        ],
+        "Saucer Width": [
+            210,
+            "m"
+        ],
+        "Saucer Length": [
+            500,
+            "m"
+        ],
+        "Main Hull Width": [
+            110,
+            "m"
+        ],
+        "Decks": [
+            40
+        ],
+        "Height": [
+            160,
+            "m"
+        ],
+        "Nacelle Count": [
+            6
+        ]
+    },
+    "Description": {
+        "0": "Almost identical to the Iona Class however, the addional four nacelles are arranged in an 'X' formation with the nacelles themselves all being parallel."
+    }
+}

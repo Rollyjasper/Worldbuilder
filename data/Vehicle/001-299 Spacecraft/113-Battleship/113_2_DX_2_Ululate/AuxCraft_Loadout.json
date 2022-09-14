@@ -1,0 +1,28 @@
+{
+    "Main": {
+        "213_1_ACX_0_PlatniumStar": 48,
+        "215_2_SX_E_UmbraViper": 48,
+        "212_1_DX_0_Gate": 24,
+        "210_1_ACX_0_PlatniumStar": 18,
+        "217_2_DX_0_Egress": 20
+    },
+    "Dropships": {
+        "Terraus": [
+            [
+                "Infantry",
+                6
+            ],
+            [
+                "Heavy Tank",
+                4
+            ]
+        ],
+        "Aquaus": [
+            [
+                "Corvette",
+                10
+            ]
+        ]
+    },
+    "Notes": {}
+}

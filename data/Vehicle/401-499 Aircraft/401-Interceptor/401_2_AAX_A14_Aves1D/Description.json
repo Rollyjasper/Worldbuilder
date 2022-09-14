@@ -1,0 +1,21 @@
+{
+    "Characteristics": {
+        "Length": [
+            15,
+            "m"
+        ],
+        "Wingspan": [
+            10,
+            "m"
+        ],
+        "Height": [
+            4,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Wings can be folded for storage, reducing the width to 5m.",
+        "1": "These aircraft were often assigned to carriers and locations where a fighter wing was needed but lacked space.",
+        "2": "Named: \"Humming Bird\""
+    }
+}

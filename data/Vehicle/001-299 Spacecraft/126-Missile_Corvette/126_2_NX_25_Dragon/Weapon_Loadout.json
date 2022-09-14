@@ -1,0 +1,46 @@
+{
+    "Primary": {
+        "HLS Thermal Warhead Missile": [
+            2,
+            "Internal"
+        ],
+        "Composite Photonic Warhead Missile": [
+            4,
+            "Internal"
+        ],
+        "VLS Fission Warhead Missile": [
+            4,
+            "Internal"
+        ],
+        "HLS Cocytus Warhead Missile": [
+            2,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            4,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Tiny Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

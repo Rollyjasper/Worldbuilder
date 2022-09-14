@@ -1,0 +1,25 @@
+{
+    "List": {
+        "128-2-ACX-001": "Topaz",
+        "128-2-ACX-002": "Alaunus",
+        "128-2-ACX-003": "Aegis",
+        "128-2-ACX-004": "Asahi Maru",
+        "128-2-ACX-005": "Atago",
+        "128-2-ACX-006": "Natsu",
+        "128-2-ACX-007": "Fubuki",
+        "128-2-ACX-008": "Ambrosiae",
+        "128-2-ACX-009": "Celestial Horizon",
+        "128-2-ACX-010": "Nue",
+        "128-2-ACX-011": "Inferna",
+        "128-2-ACX-012": "Fragment Of Requiem",
+        "128-2-ACX-013": "Fragment Of Resilience",
+        "128-2-ACX-014": "Fragment Of Resistance",
+        "128-2-ACX-015": "Fragment Of Respect"
+    },
+    "Totals": {
+        "Commissioned": 15,
+        "Active": 15,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

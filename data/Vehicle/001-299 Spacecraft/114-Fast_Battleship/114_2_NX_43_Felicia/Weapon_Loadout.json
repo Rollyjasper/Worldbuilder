@@ -1,0 +1,50 @@
+{
+    "Primary": {
+        "Quad Band Multi Frequency Violet Phaser Strip": [
+            20,
+            "External"
+        ],
+        "Penta Band Multi Frequency Blue Phaser Strip": [
+            33,
+            "External"
+        ],
+        "Fore Quad-Shot Fission Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "Aft Quad-Shot Fission Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        " Thunderbolt Railgun": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ],
+        "Helical Massdriver": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            45,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

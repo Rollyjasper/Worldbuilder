@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            1452,
+            "m"
+        ],
+        "Saucer Width": [
+            580,
+            "m"
+        ],
+        "Main Hull Width": [
+            145,
+            "m"
+        ],
+        "Decks": [
+            42
+        ],
+        "Height": [
+            168,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "These ships feature a small eliptical saucer section that is mounted above a large secondary hull.",
+        "1": "The nacelles are mounted above the saucer and project forward."
+    }
+}

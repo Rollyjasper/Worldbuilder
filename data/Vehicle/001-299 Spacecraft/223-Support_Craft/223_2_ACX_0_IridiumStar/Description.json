@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            56,
+            "m"
+        ],
+        "Width": [
+            8,
+            "m"
+        ],
+        "Height": [
+            "5.5",
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ],
+        "Pylon Length": [
+            "15.5",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A refit of the Iridium that removed its bombing ability and moved to to a support role.",
+        "1": "The size of these ships was impressive and the various refits enabled them to be used for many differnt missions and kept the spaceframe alive long after the class itself was repaced."
+    }
+}

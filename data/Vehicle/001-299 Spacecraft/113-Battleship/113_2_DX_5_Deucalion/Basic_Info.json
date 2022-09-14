@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Deucalion",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Escort",
+        "Generation": "2",
+        "Core Type": "DX",
+        "Order": "5",
+        "Range": [
+            900.0,
+            "MPc"
+        ]
+    }
+}

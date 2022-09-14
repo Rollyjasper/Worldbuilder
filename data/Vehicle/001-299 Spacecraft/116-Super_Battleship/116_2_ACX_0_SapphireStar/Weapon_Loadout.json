@@ -1,0 +1,82 @@
+{
+    "Primary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            350,
+            "External"
+        ],
+        "Heavy Broadside Projectile Laser Cannon": [
+            100,
+            "External"
+        ],
+        "Dual Heavy Turret Projectile Laser Cannon": [
+            250,
+            "External"
+        ],
+        "HLS Cocytus Warhead Missile": [
+            40,
+            "Internal"
+        ],
+        "Fore Quad-Shot Gravaton Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "HLS Thermal Warhead Missile": [
+            10,
+            "Internal"
+        ],
+        "Fore Deca-Shot Photonic Warhead Torpedo": [
+            15,
+            "Internal"
+        ],
+        "Aft Deca-Shot Photonic Warhead Torpedo": [
+            15,
+            "Internal"
+        ],
+        "VLS Fission Warhead Missile": [
+            60,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            200,
+            "External"
+        ],
+        " Freezing Thunderbolt Railgun": [
+            76,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Micro Lightning Cannon Turret": [
+            20,
+            "Retractable"
+        ],
+        "Energy Based Lightning Cannon Heavy Pylon Config": [
+            1,
+            "External"
+        ],
+        "Energy Based Lightning Cannon Long-Range Heavy Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 7 Grid": [
+            3000,
+            "External"
+        ],
+        "Refractive Flac": [
+            1000,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Mega Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

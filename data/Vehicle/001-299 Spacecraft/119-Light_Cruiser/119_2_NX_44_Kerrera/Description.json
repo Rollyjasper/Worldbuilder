@@ -1,0 +1,36 @@
+{
+    "Characteristics": {
+        "Length": [
+            1604,
+            "m"
+        ],
+        "Saucer Width": [
+            515,
+            "m"
+        ],
+        "Saucer Length": [
+            525,
+            "m"
+        ],
+        "Main Hull Width": [
+            225,
+            "m"
+        ],
+        "Decks": [
+            35
+        ],
+        "Height": [
+            140,
+            "m"
+        ],
+        "Nacelle Count": [
+            "2/4"
+        ]
+    },
+    "Description": {
+        "0": "The ship features a round saucer that has tapered hull blok at the rear.",
+        "1": "These ships secondry hull is mounted in much the same way as all her sister classes.",
+        "2": "The ship has a varing nacelle count, mounted at a 45deg angle at the rear of the secondry hull when using the FTL systems the nacelles combine, normaly they are parallel to each other but seperated by about 12m.",
+        "3": "These two combustion rockets are mounted below the saucer where the two hull sections meet."
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Power Core": {
+        "Primary_Type": "Decay",
+        "Primary_Version": 4,
+        "Primary_Style": "Void-72",
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 3,
+        "Secondary_Style": "Plasma Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 18,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Ion Accelerant",
+                6,
+                "Huge"
+            ],
+            [
+                "Impulse",
+                8,
+                "Heavy Cluster-50"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Heavy Long-range Neutreno Based"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 16,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Isolated),Reaster"
+    },
+    "Other": {
+        "Probe Launcher": 120,
+        "Cargo Transporter": 100,
+        "Personnel Transporter": 50,
+        "Command Relay Module": 40,
+        "Electronic Warfare Module": 80,
+        "Platnium Star Fighter Launch Tube": 160,
+        "Viper Launch Tube": 140,
+        "Supercarrier Assault Module": 7,
+        "Supercarrier Defence Module": 3
+    },
+    "Notes": {}
+}

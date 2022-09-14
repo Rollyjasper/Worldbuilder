@@ -1,0 +1,25 @@
+{
+    "Breakdown": {
+        "Officers": 4,
+        "General": 86,
+        "Security": 40,
+        "Pilots": 10,
+        "Co-Pilot": 0,
+        "Gunner": 0,
+        "Bombardier": 0,
+        "Radio Operator": 0,
+        "ACP": 0,
+        "SAGE": 5,
+        "ECU": 15,
+        "MECU": 0,
+        "ArS": 0,
+        "ArS NOVA": 0,
+        "Mine Defusier": 0,
+        "Spotters": 0
+    },
+    "Totals": {
+        "Total std": 160,
+        "Min Crew": 0,
+        "Max Crew": 344
+    }
+}

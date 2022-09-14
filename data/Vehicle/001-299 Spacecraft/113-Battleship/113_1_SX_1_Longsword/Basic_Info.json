@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Longsword",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Light",
+        "Generation": "1",
+        "Core Type": "SX",
+        "Order": "1",
+        "Range": [
+            810.0,
+            "MPc"
+        ]
+    }
+}

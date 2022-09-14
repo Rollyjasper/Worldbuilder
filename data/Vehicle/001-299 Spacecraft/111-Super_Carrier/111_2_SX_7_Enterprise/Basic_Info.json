@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Enterprise",
+        "Class Type": "111",
+        "Class Type Name": "Super_Carrier",
+        "Class Sub-Type": "Flag",
+        "Generation": "2",
+        "Core Type": "SX",
+        "Order": "7",
+        "Range": [
+            855.0,
+            "MPc"
+        ]
+    }
+}

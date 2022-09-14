@@ -1,0 +1,15 @@
+{
+    "List": {
+        "111-2-SX-701": "Enterprise",
+        "111-2-SX-702": "Requiem",
+        "111-2-SX-703": "Sagami",
+        "111-2-SX-704": "Sandalphon",
+        "111-2-SX-705": "Sojourner"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

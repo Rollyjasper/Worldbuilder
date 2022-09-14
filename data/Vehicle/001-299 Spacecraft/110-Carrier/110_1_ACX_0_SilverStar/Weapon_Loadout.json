@@ -1,0 +1,20 @@
+{
+    "Primary": {
+        "Projectile Laser Cannon Turret": 60,
+        "Projectile Laser Broadside Cannon": 64,
+        "Ocilating Type Semi-Hardlight Beam Weapon": 120
+    },
+    "Secondary": {
+        "Thunderbolt Railgun": 40
+    },
+    "Heavy": {
+        "Super Heavy Pylon Lightning Cannon": 1
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 5": 480
+    },
+    "Drone": {
+        "Large Drone Bay": 1
+    }
+}

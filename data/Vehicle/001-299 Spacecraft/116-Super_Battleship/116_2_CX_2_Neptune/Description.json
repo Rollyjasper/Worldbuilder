@@ -1,0 +1,35 @@
+{
+    "Characteristics": {
+        "Length": [
+            6562,
+            "m"
+        ],
+        "Width": [
+            3772,
+            "m"
+        ],
+        "Width with Pod": [
+            3869,
+            "m"
+        ],
+        "Pylon Length": [
+            7,
+            "m"
+        ],
+        "Pod Count": [
+            1
+        ],
+        "Pod Type": [
+            "Sensor"
+        ],
+        "Wingspan": [
+            4831,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "One of the First 2nd generation ships launched.",
+        "1": "Used as a test bed for a new massive mass driver cannon, these ships were longer than anyother upon launch.",
+        "2": "These ships later became part of border as their small size made them a suitable heavy enforcment ship in the outer asteroid belt."
+    }
+}

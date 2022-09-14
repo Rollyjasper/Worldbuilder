@@ -1,0 +1,11 @@
+{
+    "Primary": {
+        "Roles": [
+            "Transport",
+            "Landing Craft"
+        ]
+    },
+    "Secondary": {
+        "Roles": []
+    }
+}

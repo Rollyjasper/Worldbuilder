@@ -1,0 +1,14 @@
+{
+    "Primary": {
+        "Roles": [
+            "Fleet Command",
+            "Fleet Support"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Warship",
+            "Exploration"
+        ]
+    }
+}

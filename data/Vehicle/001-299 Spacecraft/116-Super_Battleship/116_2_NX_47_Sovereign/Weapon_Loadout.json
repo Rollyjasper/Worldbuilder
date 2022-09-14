@@ -1,0 +1,86 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Black Phaser Strip": [
+            50,
+            "External"
+        ],
+        "Quad Band Multi Frequency Violet Phaser Split-Beam": [
+            160,
+            "External"
+        ],
+        "Mono Band Multi Frequency Green Phaser Cannons": [
+            8,
+            "External"
+        ],
+        "Fore Penta-Shot Triple Volly Photonic Warhead Torpedo": [
+            20,
+            "Internal"
+        ],
+        "Aft Penta-Shot Triple Volly Photonic Warhead Torpedo": [
+            20,
+            "Internal"
+        ],
+        "Fore Quad-Shot Quantum Warhead Torpedo": [
+            20,
+            "Internal"
+        ],
+        "Aft Quad-Shot Quantum Warhead Torpedo": [
+            20,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Tri-Shot Gravaton Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "Aft Tri-Shot Gravaton Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "VLS Cocytus Warhead Missile": [
+            25,
+            "Internal"
+        ],
+        "VLS Thermal Warhead Missile": [
+            15,
+            "Internal"
+        ],
+        "Bi Band Phased Frequency Yellow Phaser Battleship Turret": [
+            16,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            68,
+            "External"
+        ],
+        " Freezing Firebird Railgun": [
+            28,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Micro Lightning Cannon Turret": [
+            2,
+            "Retractable"
+        ],
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            1000,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Mega Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

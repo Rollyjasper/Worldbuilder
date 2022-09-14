@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Kaluga",
+        "Class Type": "214",
+        "Class Type Name": "Heavy_Fighter",
+        "Class Sub-Type": "Trans-Atmospheric",
+        "Generation": "2",
+        "Core Type": "CX",
+        "Order": "T",
+        "Range": [
+            750.0,
+            "MPc"
+        ]
+    }
+}

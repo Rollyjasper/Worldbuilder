@@ -1,0 +1,24 @@
+{
+    "Warhead":{
+        "Thermal":{
+        "Style":["VLS","HLS","Composite"],
+        "Limits":["U1"],
+        "Desc":"Uses a powerful exothermic reaction to incinerate and melt the target."
+        },
+        "Photonic":{
+        "Style":["VLS","HLS","Composite","Pod"],
+        "Limits":["U1"],
+        "Desc":"Uses a small Photonic explosive in standared missile casing, often used as interceptor and anti-aircraft missiles."
+        },
+        "Fission":{
+        "Style":["VLS","HLS"],
+        "Limits":["U1"],
+        "Desc":"Creates a runnerway fission reaction 30m above the target location. Due to the larger payloads of missiles, the yeild is much larger than their torpedo counterparts."
+        },
+        "Cocytus":{
+        "Style":["VLS","HLS","Composite"],
+        "Limits":["U1"],
+        "Desc":"Using cooled liquids that trigger a runnerway Endothermic reaction when exposed to a kenetic impact, freezing almost any matirial to absolute zero instetaniously, primaraly damaging hull, crew and power systems."
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Characteristics": {
+        "Length": [
+            344,
+            "m"
+        ],
+        "Saucer Width": [
+            150,
+            "m"
+        ],
+        "Main Hull Width": [
+            50,
+            "m"
+        ],
+        "Decks": [
+            5
+        ],
+        "Height": [
+            20,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Harliquinn Class Sketch"
+    }
+}

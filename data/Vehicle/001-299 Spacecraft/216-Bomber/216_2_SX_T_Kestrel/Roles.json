@@ -1,0 +1,16 @@
+{
+    "Primary": {
+        "Roles": [
+            "Bomber",
+            "Infantry Support"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Transport",
+            "Station Assault",
+            "Exploration",
+            "Intel"
+        ]
+    }
+}

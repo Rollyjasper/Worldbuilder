@@ -1,0 +1,75 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPM",
+        "Primary_Version": 56,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "FTL": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "Ion",
+                2,
+                "LE40"
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 8,
+        "AI": "Magnanimity",
+        "A.S.T.R": "None"
+    },
+    "Other": {
+        "Targeting Assist System": 2,
+        "Aerial Support Module": 1,
+        "Ion After Burner": 2,
+        "Targeting Drone": 1
+    },
+    "Notes": {
+        "0": "Range can be tripled with the addition of additional ZPMs held in a pod below the body."
+    }
+}

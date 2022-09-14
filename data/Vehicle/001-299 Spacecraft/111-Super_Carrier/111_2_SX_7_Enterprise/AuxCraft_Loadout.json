@@ -1,0 +1,47 @@
+{
+    "Main": {
+        "213_1_SX_T_Viper": 5320,
+        "213_1_ACX_0_PlatniumStar": 8000,
+        "212_1_DX_0_Gate": 650,
+        "223_2_ACX_0_IridiumStar": 825,
+        "217_2_ACX_0_IridiumStar": 450
+    },
+    "Dropships": {
+        "Aquaus": [
+            [
+                "Destroyer",
+                90
+            ],
+            [
+                "Submarine",
+                90
+            ]
+        ],
+        "Terraus": [
+            [
+                "Tank",
+                90
+            ],
+            [
+                "Infantry",
+                90
+            ]
+        ],
+        "Aquaet": [
+            [
+                "Battleship",
+                10
+            ]
+        ],
+        "Terraet": [
+            [
+                "Barracks",
+                10
+            ]
+        ]
+    },
+    "Notes": {
+        "0": "Can carry 2 Galactica Class Carriers and upto 4 Royal Class Dreadnoughts should the mission dictate.",
+        "1": "Or any ship less than 5Km long, 2Km wide and 700m tall."
+    }
+}

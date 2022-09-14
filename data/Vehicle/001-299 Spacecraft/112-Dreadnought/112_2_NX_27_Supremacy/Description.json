@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            "2.44",
+            "Km"
+        ],
+        "Saucer Width": [
+            500,
+            "m"
+        ],
+        "Main Hull Width": [
+            1200,
+            "m"
+        ],
+        "Decks": [
+            38
+        ],
+        "Height": [
+            152,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "All decks in main hull.",
+        "1": "Nacelles merged with hull.",
+        "2": "These ships consist of a single flat hull section that tappers to about half length where the engines are mounted.",
+        "3": "The FTL engines are merged with the side of the ships hull and the saucer section has a long, blunted eliptiod shape that protrudes from the front of the ship.",
+        "4": "simmiler to DS9's Defiant."
+    }
+}

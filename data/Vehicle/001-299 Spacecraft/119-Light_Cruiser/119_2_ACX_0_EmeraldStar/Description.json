@@ -1,0 +1,27 @@
+{
+    "Characteristics": {
+        "Length": [
+            2398,
+            "m"
+        ],
+        "Main Hull Width": [
+            450,
+            "m"
+        ],
+        "Pylon Length": [
+            1628,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            3,
+            3,
+            0
+        ]
+    },
+    "Description": {
+        "0": "Simmiler in size to the older Gold Star Class ships however the Gem Type ships are proportinaly larger meaning that these ships are clearly larger than the gold star class."
+    }
+}

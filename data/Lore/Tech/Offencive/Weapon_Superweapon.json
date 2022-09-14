@@ -1,0 +1,19 @@
+{
+    "Miscellaneous":{
+        "Type-001":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"The first true super weapon built by the Avingarde.\nThe weapon uses five energy focusers to absorb incoming energy based attacks.\nThis stored energy can then be slowly relesed into the ships systems or fired from the weapon in a exponetaly more potent beam of power."
+        },
+        "USRC":{
+        "Style":[],
+        "Limits":["S4"],
+        "Desc":"The Ultrasonic Resonance Cannon fires an ultrasonic pressure wave through the air/water/other that is calibrated to resonate with the shields/hull of the target ship.\nThe weapon is not flawless however, as it can hit allies and will render the firing ship breifly vunrable."
+        },
+        "Vulcan Lance":{
+        "Style":[],
+        "Limits":["A1"],
+        "Desc":"An exprimental type of phaser weapon that was designed for atmospheric use.\nAlthough proving to be unsuitable for use on smaller craft, its power however, was not lacking."
+        }
+    }
+}

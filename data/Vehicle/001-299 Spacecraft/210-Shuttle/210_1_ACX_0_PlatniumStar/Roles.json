@@ -1,0 +1,13 @@
+{
+    "Primary": {
+        "Roles": [
+            "Landing Craft"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Infantry Support",
+            "Anti-Fighter"
+        ]
+    }
+}

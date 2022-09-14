@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            487,
+            "m"
+        ],
+        "Saucer Width": [
+            189,
+            "m"
+        ],
+        "Main Hull Width": [
+            100,
+            "m"
+        ],
+        "Decks": [
+            3
+        ],
+        "Height": [
+            12,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Looks like the steamrunner class from star trek.",
+        "1": "These ships were the first to have more than 100 produced."
+    }
+}

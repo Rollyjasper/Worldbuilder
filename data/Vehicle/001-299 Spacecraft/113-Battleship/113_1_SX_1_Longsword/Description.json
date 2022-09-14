@@ -1,0 +1,37 @@
+{
+    "Characteristics": {
+        "Length": [
+            2382,
+            "m"
+        ],
+        "Width": [
+            812,
+            "m"
+        ],
+        "Width with Pod": [
+            862,
+            "m"
+        ],
+        "Pylon Length": [
+            5,
+            "m"
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Weapon"
+        ],
+        "Decks": [
+            51
+        ],
+        "Height": [
+            204,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A long and T=thin ship with far less internal volume when compared to ships of its size.",
+        "1": "This smaller profile gave these ship unprecidented maneuvourability."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            1308,
+            "m"
+        ],
+        "Saucer Width": [
+            523,
+            "m"
+        ],
+        "Saucer Length": [
+            958,
+            "m"
+        ],
+        "Main Hull Width": [
+            130,
+            "m"
+        ],
+        "Decks": [
+            37
+        ],
+        "Height": [
+            148,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "The Iona Class has a continuious hull. Simmiler to Voyger."
+    }
+}

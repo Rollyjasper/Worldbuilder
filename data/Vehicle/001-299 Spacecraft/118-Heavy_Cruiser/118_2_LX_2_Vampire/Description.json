@@ -1,0 +1,24 @@
+{
+    "Characteristics": {
+        "Length": [
+            1225,
+            "m"
+        ],
+        "Width": [
+            435,
+            "m"
+        ],
+        "Wingspan": [
+            870,
+            "m"
+        ],
+        "Head Width": [
+            470,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A Long thin ship with a slight hammerhead and a wide aft wing that houses the ships 3 main engines.",
+        "1": "These ships were the second design with the solar variant of the lightning core however unlike the Saturn class these ships carry the cryo lightning cannon rather than the solar lightning cannon."
+    }
+}

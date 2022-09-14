@@ -1,0 +1,25 @@
+{
+    "Characteristics": {
+        "Length": [
+            20,
+            "Km"
+        ],
+        "Saucer Width": [
+            5,
+            "Km"
+        ],
+        "Decks": [
+            791
+        ],
+        "Nacelle Count": [
+            6
+        ]
+    },
+    "Description": {
+        "0": "Nacelles Clustered at the ship's aft.",
+        "1": "The third largest supercarrier and the last ship built in the second generation.",
+        "2": "The ship featured a single large hangar space in the center of the ship.",
+        "3": "This space has multipule smaller launch and retreval bays that are connected by various ship lifts.",
+        "4": "The ships launch tubes(running along the saucer's rim) connect to the centeral hangar space."
+    }
+}

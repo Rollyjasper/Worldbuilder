@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Egress",
+        "Class Type": "217",
+        "Class Type Name": "Heavy_Bomber",
+        "Class Sub-Type": "Scout",
+        "Generation": "2",
+        "Core Type": "DX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

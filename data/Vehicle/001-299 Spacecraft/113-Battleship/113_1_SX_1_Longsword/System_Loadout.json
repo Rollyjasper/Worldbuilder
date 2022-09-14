@@ -1,0 +1,79 @@
+{
+    "Power Core": {
+        "Primary_Type": "Decay",
+        "Primary_Version": 1,
+        "Primary_Style": "Void-72",
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Plasma Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 17,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Ion Accelerant",
+                3,
+                "Heavy"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Neutreno Based"
+            ],
+            [
+                "Other",
+                1,
+                "Tactical Spatial Jump Drive"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 14,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Isolated),Reaster"
+    },
+    "Other": {
+        "Probe Launcher": 10,
+        "Cargo Transporter": 2,
+        "Personnel Transporter": 2,
+        "Command Relay Module": 4,
+        "Electronic Warfare Module": 2
+    },
+    "Notes": {}
+}

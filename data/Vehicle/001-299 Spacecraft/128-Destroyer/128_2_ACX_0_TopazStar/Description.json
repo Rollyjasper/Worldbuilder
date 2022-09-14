@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            1450,
+            "m"
+        ],
+        "Main Hull Width": [
+            390,
+            "m"
+        ],
+        "Pylon Length": [
+            985,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            3,
+            3,
+            0
+        ]
+    },
+    "Description": {
+        "0": "One of the smallest of the new type of star class ships.",
+        "1": "The topaz was incredibly powerful when compared to its contempary destroyers.",
+        "2": "The ship featured the unique long range lightning cannon that was exclucive to the new star classes.",
+        "3": "Due to their power, many of these ships served solo roles in defence and exploration.",
+        "4": "As such they could tangle with battleships of the younger empires with ease."
+    }
+}

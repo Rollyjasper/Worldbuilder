@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Ulva",
+        "Class Type": "120",
+        "Class Type Name": "Torpedo_Cruiser",
+        "Class Sub-Type": "Long-Range",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "24",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Primary": {
+        " Thunderbolt Railgun": [
+            8,
+            "External"
+        ],
+        " Fixed Projectile Laser Cannon": [
+            4,
+            "External"
+        ],
+        "Mono Band Multi Frequency Blue Phaser Cannons": [
+            4,
+            "External"
+        ],
+        "Composite Photonic Warhead Missile": [
+            2,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Tri Band Multi Frequency Magenta Phaser Strip": [
+            2,
+            "External"
+        ],
+        " Thermal Warhead Missile": [
+            1,
+            "Internal"
+        ],
+        "Heavy Quad-Bar Railgun": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

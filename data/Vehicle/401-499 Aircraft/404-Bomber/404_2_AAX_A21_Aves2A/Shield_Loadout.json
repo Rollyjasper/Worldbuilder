@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Sentinal",
+        "Sub-Type": "Atmospheric",
+        "Version": 1
+    },
+    "Secondary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Tertiary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Ever-Shield": {
+        "Generation": 0,
+        "Bay Size": null,
+        "Bay Count": 0
+    },
+    "Navigational": {
+        "Mount": "Aerodynamic",
+        "Version": "B"
+    },
+    "Hull": {
+        "Type": "Aerodynamic"
+    },
+    "Notes": {}
+}

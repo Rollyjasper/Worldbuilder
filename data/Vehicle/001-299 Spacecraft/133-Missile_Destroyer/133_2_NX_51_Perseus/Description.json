@@ -1,0 +1,26 @@
+{
+    "Characteristics": {
+        "Length": [
+            762,
+            "m"
+        ],
+        "Main Hull Width": [
+            150,
+            "m"
+        ],
+        "Decks": [
+            15
+        ],
+        "Height": [
+            60,
+            "m"
+        ],
+        "Nacelle Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "The ship has a circular saucer with a cilindrical secondary hull extending away from the centure.",
+        "1": "the nacelles are mounted to a squared off section towards the rear of the secondary hull, in an 'X' pattern."
+    }
+}

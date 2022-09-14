@@ -1,0 +1,87 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPE",
+        "Primary_Version": 1,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": "Planetry",
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 7,
+        "Secondary_Style": "Enhanced Plasma Arc",
+        "Secondary_Variation": "Planetry",
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 19,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": "Planetry"
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Grav",
+                50,
+                "Small Citadel Type"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Accelerant",
+                1,
+                "Long-range Accelerated"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 64,
+        "AI": "Ascendancy",
+        "A.S.T.R": "Type-3,Overlord"
+    },
+    "Other": {
+        "Probe Launcher": 10000,
+        "Personnel Transporter": 7000,
+        "Cargo Transporter": 8000,
+        "Command Relay Module": 4000,
+        "Comm Relay Module": 4000,
+        "High Gain Comm Relay Module": 1500,
+        "Gravity Nulification Module": 6000,
+        "Ship Foundry": 300,
+        "Drone Foundry": 500,
+        "Ever-Shield Pylon Foundry": 600,
+        "Phantom Gate Projector": 10,
+        "Stellar Gate": 2,
+        "Yggdrasil Defence Module": 6,
+        "Dimentional Cloak": 1,
+        "Mixed Launch Tube": 5000
+    },
+    "Notes": {
+        "0": "Launch Tube ratio: 5:3:3:2:2:2:1:1:1",
+        "1": "Fighter:corvette:Destroyer:Cruiser:battlecruiser:Battleship:carrier:Super Carrier/Battleship"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Miscellaneous":{
+        "A-Type":{
+        "Style":[],
+        "Limits":["L2"],
+        "Desc":"Simple Weapons that are often carried as side arms for ACP,SAGE and ECU."
+        },
+        "M-Type":{
+        "Style":[],
+        "Limits":["L2"],
+        "Desc":"Large weapons often used as side arms for MECU, smaller versions can be used by SAGE, ECU and Nova units."
+        },
+        "N-Type":{
+        "Style":[],
+        "Limits":["L2"],
+        "Desc":"Unique weapons that are used as secondary weapons by Nova Units, some Nova units use them as primary weapons."
+        }
+    }
+}

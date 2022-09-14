@@ -1,0 +1,15 @@
+{
+    "List": {
+        "117-2-ACX-001": "Ankea",
+        "117-2-ACX-002": "Alnitak",
+        "117-2-ACX-003": "Lunaris",
+        "117-2-ACX-004": "Paulina",
+        "117-2-ACX-005": "Yamagumo"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

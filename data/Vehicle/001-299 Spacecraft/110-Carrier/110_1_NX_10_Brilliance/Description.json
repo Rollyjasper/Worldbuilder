@@ -1,0 +1,27 @@
+{
+    "Characteristics": {
+        "Length": [
+            2000,
+            "m"
+        ],
+        "Saucer Width": [
+            800,
+            "m"
+        ],
+        "Main Hull Width": [
+            200,
+            "m"
+        ],
+        "Decks": [
+            50
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "The brilliance class was a awkledly tall ship",
+        "1": "Its secondary hull towered above nearly all other ships.",
+        "2": "Despite is garish appearence, The sight of a brilliance class has become a symbol of hope among the people of arminath and a symbol of fear to their foes."
+    }
+}

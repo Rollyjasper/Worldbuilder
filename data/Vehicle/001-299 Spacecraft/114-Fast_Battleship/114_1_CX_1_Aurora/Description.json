@@ -1,0 +1,34 @@
+{
+    "Characteristics": {
+        "Length": [
+            "1.2",
+            "Km"
+        ],
+        "Width": [
+            590,
+            "m"
+        ],
+        "Width with Pod": [
+            602,
+            "m"
+        ],
+        "Pylon Length": [
+            2,
+            "m"
+        ],
+        "Wingspan": [
+            730,
+            "m"
+        ],
+        "Pod Count": [
+            1
+        ],
+        "Pod Type": [
+            "Sensor"
+        ]
+    },
+    "Description": {
+        "0": "On the smaller size of battleships, these ships are powerful and imposing despite the smaller size.",
+        "1": "Capable brawlers that can go toe-to-toe with many capital ships even those that are questionably more powerful."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Primary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            27,
+            "External"
+        ],
+        " Broadside Projectile Laser Cannon": [
+            8,
+            "Internal"
+        ],
+        " Turret Projectile Laser Cannon": [
+            12,
+            "External"
+        ],
+        "Fore Tri-Shot Quantum Warhead Torpedo": [
+            6,
+            "Internal"
+        ],
+        "Aft Tri-Shot Quantum Warhead Torpedo": [
+            4,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "HLS Photonic Warhead Missile": [
+            4,
+            "Internal"
+        ],
+        " Photonic Warhead Mine": [
+            3,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            6,
+            "Retractable"
+        ],
+        " Thunderbird Railgun": [
+            6,
+            "Retractable"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Pylon Config": [
+            1,
+            "External"
+        ],
+        "Energy Based Lightning Cannon Long-Range Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 6 Grid": [
+            128,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Small Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

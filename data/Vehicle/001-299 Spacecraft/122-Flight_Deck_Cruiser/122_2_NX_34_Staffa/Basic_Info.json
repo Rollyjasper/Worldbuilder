@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Staffa",
+        "Class Type": "122",
+        "Class Type Name": "Flight_Deck_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "34",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

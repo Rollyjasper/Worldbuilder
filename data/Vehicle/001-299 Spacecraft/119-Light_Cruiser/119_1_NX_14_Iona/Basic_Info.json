@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Iona",
+        "Class Type": "119",
+        "Class Type Name": "Light_Cruiser",
+        "Class Sub-Type": "Assault",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "14",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

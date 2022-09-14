@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "IridiumStar",
+        "Class Type": "223",
+        "Class Type Name": "Support Craft",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            725.0,
+            "MPc"
+        ]
+    }
+}

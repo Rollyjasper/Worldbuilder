@@ -1,0 +1,20 @@
+{
+    "Characteristics": {
+        "Length": [
+            "23.5",
+            "m"
+        ],
+        "Wingspan": [
+            10,
+            "m"
+        ],
+        "Height": [
+            5,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The primary recon aircraft used by the Avingardde Airforce.",
+        "1": "Named: \"Fireball\""
+    }
+}

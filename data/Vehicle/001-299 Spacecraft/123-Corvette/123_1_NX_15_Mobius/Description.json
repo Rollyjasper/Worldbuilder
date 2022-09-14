@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            284,
+            "m"
+        ],
+        "Saucer Width": [
+            113,
+            "m"
+        ],
+        "Main Hull Width": [
+            28,
+            "m"
+        ],
+        "Decks": [
+            7
+        ],
+        "Height": [
+            28,
+            "m"
+        ],
+        "Wingspan": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Single hull section.",
+        "1": "The ship features a semi-circular forward section that tapers into the rectangular aft section.",
+        "2": "The nacelles are mounted towards the aft of the rear section and run almost the length of the ship."
+    }
+}

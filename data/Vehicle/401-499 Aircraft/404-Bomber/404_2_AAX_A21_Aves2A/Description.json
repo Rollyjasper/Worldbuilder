@@ -1,0 +1,20 @@
+{
+    "Characteristics": {
+        "Length": [
+            40,
+            "m"
+        ],
+        "Wingspan": [
+            35,
+            "m"
+        ],
+        "Height": [
+            "13.5",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A smaller bomber used by the Avingarde Airforce.",
+        "1": "Named: \"Mallard\""
+    }
+}

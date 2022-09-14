@@ -1,0 +1,36 @@
+{
+    "Characteristics": {
+        "Length": [
+            6775,
+            "m"
+        ],
+        "Main Hull Width": [
+            794,
+            "m"
+        ],
+        "Pylon Length": [
+            3742,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ],
+        "Decks": [
+            200
+        ],
+        "Height": [
+            800,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Designed in much the same way the Solaris Star class with it being refered to as its sister class.",
+        "1": "Due to their origins as a redisign of the Silver Star Class, they have a key support and command role.",
+        "2": "The pylons extend to their full perpendicular position when firing, rather than their 4 radii normal position, this is unique amoungst ships of its design liniage."
+    }
+}

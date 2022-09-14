@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Starburst",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "Intel",
+        "Generation": "1",
+        "Core Type": "SX",
+        "Order": "4",
+        "Range": [
+            765.0,
+            "MPc"
+        ]
+    }
+}

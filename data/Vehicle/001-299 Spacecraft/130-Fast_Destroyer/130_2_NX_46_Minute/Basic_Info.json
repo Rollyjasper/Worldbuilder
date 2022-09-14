@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Minute",
+        "Class Type": "130",
+        "Class Type Name": "Fast_Destroyer",
+        "Class Sub-Type": "Interceptor",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "46",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

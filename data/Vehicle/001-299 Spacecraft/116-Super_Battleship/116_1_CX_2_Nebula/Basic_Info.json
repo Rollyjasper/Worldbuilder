@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Nebula",
+        "Class Type": "116",
+        "Class Type Name": "Super_Battleship",
+        "Class Sub-Type": "Heavy",
+        "Generation": "1",
+        "Core Type": "CX",
+        "Order": "2",
+        "Range": [
+            950.0,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPM",
+        "Primary_Version": 56,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light Drive": "Impulse",
+        "Sub-Light Count": 8,
+        "Sub-Light Mod": null,
+        "FTL Drive": null,
+        "FTL Count": 0,
+        "FTL Mod": null,
+        "Atmospheric Drive": null,
+        "Atmospheric Count": 0,
+        "Atmospheric Mod": null,
+        "Aquatic Drive": null,
+        "Aquatic Count": 0,
+        "Aquatic Mod": null,
+        "Terrestrial Drive": null,
+        "Terrestrial Count": 0,
+        "Terrestrial Mod": null,
+        "Temporal Drive": null,
+        "Temporal Count": 0,
+        "Temporal Mod": null
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 145,
+        "AI": "Low Level AI",
+        "A.S.T.R": "None"
+    },
+    "Other": {},
+    "Notes": {}
+}

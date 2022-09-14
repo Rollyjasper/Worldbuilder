@@ -1,0 +1,64 @@
+{
+    "Primary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            12,
+            "External"
+        ],
+        " Broadside Projectile Laser Cannon": [
+            12,
+            "Internal"
+        ],
+        " Turret Projectile Laser Cannon": [
+            10,
+            "External"
+        ],
+        "HLS Photonic Warhead Missile": [
+            6,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Twin Battleship Particle Cannon": [
+            4,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            16,
+            "External"
+        ],
+        " Thunderbird Railgun": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Pylon Config": [
+            1,
+            "External"
+        ],
+        "Energy Based Lightning Cannon Dual Mode Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 6 Grid": [
+            200,
+            "External"
+        ],
+        "Level 7 Grid": [
+            56,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {
+        "0": "Upon launch, the ship also carried Cocytus missiles."
+    }
+}

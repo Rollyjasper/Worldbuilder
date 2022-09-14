@@ -1,0 +1,58 @@
+{
+    "Primary": {
+        "Penta Band Multi Frequency Violet Phaser Strip": [
+            15,
+            "External"
+        ],
+        "Quad Band Multi Frequency Violet Phaser Coil Turret": [
+            25,
+            "External"
+        ],
+        "Quad Band Multi Frequency Cyan Phaser Split-Beam": [
+            10,
+            "External"
+        ],
+        " Photon Bolt Cannon": [
+            6,
+            "External"
+        ]
+    },
+    "Secondary": {
+        "Fore Bi-Shot Quantum Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        "Aft Bi-Shot Quantum Warhead Torpedo": [
+            2,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            4,
+            "External"
+        ],
+        "Bi Band Phased Frequency Yellow Phaser Cruiser Turret": [
+            12,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            25,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

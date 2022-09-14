@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            1500,
+            "m"
+        ],
+        "Neck Width": [
+            280,
+            "m"
+        ],
+        "Main Hull Width": [
+            1100,
+            "m"
+        ],
+        "Decks": [
+            16
+        ],
+        "Height": [
+            64,
+            "m"
+        ],
+        "Hanger Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "Hanger bays are paired.",
+        "1": "A Powerful light cruiser that focused in its carrying capabilities.",
+        "2": "Looking like its sister class and being just as imposing as it was on the larger side of contempry cruisers.",
+        "3": "Its appearance fooled many people to mistacanly type them as heavy cruisers."
+    }
+}

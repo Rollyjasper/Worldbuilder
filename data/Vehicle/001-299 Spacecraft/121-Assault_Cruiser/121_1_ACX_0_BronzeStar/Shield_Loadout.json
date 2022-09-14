@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Reflective",
+        "Version": 9
+    },
+    "Secondary": {
+        "Type": "Negative",
+        "Sub-Type": "Absobitive",
+        "Version": 1
+    },
+    "Tertiary": {
+        "Type": "Assault",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "M",
+        "Bay Count": 3
+    },
+    "Navigational": {
+        "Mount": "Intergrated",
+        "Version": 11
+    },
+    "Hull": {
+        "Type": "Star Type"
+    },
+    "Notes": {}
+}

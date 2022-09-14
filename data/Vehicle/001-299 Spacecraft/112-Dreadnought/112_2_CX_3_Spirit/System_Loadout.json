@@ -1,0 +1,84 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPE",
+        "Primary_Version": 4,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Mag Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 19,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Grav",
+                28,
+                "Large"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Long-range Grav Based"
+            ],
+            [
+                "Dimentional Accelerant",
+                1,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 18,
+        "AI": "Zennith",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 200,
+        "Long Range Probe Launcher": 4,
+        "Cargo Transporter": 5,
+        "Personnel Transporter": 5,
+        "Command Relay Module": 5,
+        "High Gain Comm Relay Module": 16,
+        "Drone Foundry": 4,
+        "Ever-Shield Pylon Foundry": 3,
+        "Stellar Gate Other": 1,
+        "Phantom Gate Projector Other": 1
+    },
+    "Notes": {}
+}

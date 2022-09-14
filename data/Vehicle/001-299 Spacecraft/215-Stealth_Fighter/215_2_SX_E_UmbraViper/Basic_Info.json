@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "UmbraViper",
+        "Class Type": "215",
+        "Class Type Name": "Stealth_Fighter",
+        "Class Sub-Type": "Exo-Atmospheric",
+        "Generation": "2",
+        "Core Type": "SX",
+        "Order": "E",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

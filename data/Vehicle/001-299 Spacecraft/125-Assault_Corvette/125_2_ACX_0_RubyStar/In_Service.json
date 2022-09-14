@@ -1,0 +1,41 @@
+{
+    "List": {
+        "125-2-ACX-001": "Ruby",
+        "125-2-ACX-002": "Cardiff",
+        "125-2-ACX-003": "Vergo",
+        "125-2-ACX-004": "Hatsuume",
+        "125-2-ACX-005": "Alnitak",
+        "125-2-ACX-006": "Poliostola",
+        "125-2-ACX-007": "Yashima",
+        "125-2-ACX-008": "Argus",
+        "125-2-ACX-009": "Ire Of The Gods",
+        "125-2-ACX-010": "Lahore",
+        "125-2-ACX-011": "Zeva",
+        "125-2-ACX-012": "Dart",
+        "125-2-ACX-013": "Firebrand",
+        "125-2-ACX-014": "Providence",
+        "125-2-ACX-015": "Shimane Maru",
+        "125-2-ACX-016": "Elysian Inferna",
+        "125-2-ACX-017": "Wezen",
+        "125-2-ACX-018": "Prometheus",
+        "125-2-ACX-019": "Acheron",
+        "125-2-ACX-020": "Shaula",
+        "125-2-ACX-021": "Tremendous",
+        "125-2-ACX-022": "Canberra",
+        "125-2-ACX-023": "Kuzu",
+        "125-2-ACX-024": "Akitsu Maru",
+        "125-2-ACX-025": "Fawn",
+        "125-2-ACX-026": "Excelsior",
+        "125-2-ACX-027": "Shannon",
+        "125-2-ACX-028": "Betelgeuse",
+        "125-2-ACX-029": "Edinburgh",
+        "125-2-ACX-030": "Yashima",
+        "125-2-ACX-031": "Amaterasu"
+    },
+    "Totals": {
+        "Commissioned": 31,
+        "Active": 31,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

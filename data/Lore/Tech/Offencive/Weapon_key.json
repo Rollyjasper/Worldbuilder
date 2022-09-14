@@ -1,0 +1,38 @@
+{
+    "U1":{
+        "Range":[[1,799]],
+        "Desc":"Universal. Can be mounted to any type of vehicle or instilation."
+    },
+    "S1":{
+        "Range":[[1,299],[501,699]],
+        "Desc":"Ships. This type can only be mounted on starships and naval ships."
+    },
+    "S2":{
+        "Range":[[1,299]],
+        "Desc":"Ships. This type can only be mounted on starships."
+    },
+    "S3":{
+        "Range":[[1,3]],
+        "Desc":"Ships. Weapons of this type can only be used from World, Universe and Atlantis Class ships."
+    },
+    "S4":{
+        "Range":[[501,699]],
+        "Desc":"Ships. Only used on Naval Vessels."
+    },
+    "S5":{
+        "Range":[[201,299]],
+        "Desc":"Ships. Only used on Auxillary craft."
+    },
+    "L1":{
+        "Range":[[301,399],[701,799]],
+        "Desc":"Land. This can only be mounted on land baced vehicles and instilations."
+    },
+    "L2":{
+        "Range":[[0,0]],
+        "Desc":"Land. This can only be equiped on infantry units."
+    },
+    "A1":{
+        "Range":[[401,499]],
+        "Desc":"Air. This can only be mounted on air based vehicles."
+    }
+}

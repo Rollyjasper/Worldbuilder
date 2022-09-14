@@ -1,0 +1,15 @@
+{
+    "List": {
+        "111-2-NX-5001": "Radiance",
+        "111-2-NX-5002": "Ascension",
+        "111-2-NX-5003": "Canopus",
+        "111-2-NX-5004": "Fomalhaut",
+        "111-2-NX-5005": "Mitsu"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

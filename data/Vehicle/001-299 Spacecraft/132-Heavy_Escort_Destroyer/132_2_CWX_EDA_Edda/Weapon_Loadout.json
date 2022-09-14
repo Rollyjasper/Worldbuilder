@@ -1,0 +1,46 @@
+{
+    "Primary": {
+        " Worldship Defence Semi-Hardlight Beam Weapon": [
+            5,
+            "External"
+        ],
+        "Heavy Tri-Bar Railgun": [
+            1000,
+            "External"
+        ],
+        "Dual Turret Projectile Laser Cannon": [
+            750,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Freezing Thunderbolt Railgun": [
+            52,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Micro Lightning Cannon Turret": [
+            2,
+            "Retractable"
+        ],
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 8 Grid": [
+            5000,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Small Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

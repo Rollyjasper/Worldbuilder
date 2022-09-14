@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            3500,
+            "m"
+        ],
+        "Main Hull Width": [
+            410,
+            "m"
+        ],
+        "Pylon Length": [
+            1933,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "Often deplyed as a support craft to the Eclipse Star class, these ships were really a redesign of the gold star class ships.",
+        "1": "Due to their heiritage they often command fleets."
+    }
+}

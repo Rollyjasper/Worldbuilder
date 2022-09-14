@@ -1,0 +1,92 @@
+{
+    "Primary": {
+        "Heavy Tri-Bar Railgun": [
+            25000,
+            "External"
+        ],
+        "Heavy Turret Projectile Laser Cannon": [
+            40000,
+            "External"
+        ],
+        "VLS Photonic Warhead Missile": [
+            10000,
+            "Internal"
+        ],
+        "Fore Septa-Shot Photonic Warhead Torpedo": [
+            3000,
+            "Internal"
+        ],
+        "Aft Septa-Shot Photonic Warhead Torpedo": [
+            3000,
+            "Internal"
+        ],
+        " Worldship Defence Semi-Hardlight Beam Weapon": [
+            200,
+            "External"
+        ]
+    },
+    "Secondary": {
+        "Fore Septa-Shot Quantum Warhead Torpedo": [
+            1000,
+            "Internal"
+        ],
+        "Aft Septa-Shot Quantum Warhead Torpedo": [
+            1000,
+            "Internal"
+        ],
+        "Fore Mono-Shot Super Heavy Photonic Warhead Torpedo": [
+            1000,
+            "Internal"
+        ],
+        "Aft Mono-Shot Super Heavy Photonic Warhead Torpedo": [
+            1000,
+            "Internal"
+        ],
+        " Freezing Thunderbolt Railgun": [
+            520,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Micro Lightning Cannon Turret": [
+            300,
+            "Retractable"
+        ],
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            2,
+            "Internal"
+        ],
+        "Planet Based Lightning Cannon Ring Config": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Refractive Flac": [
+            500000,
+            "External"
+        ],
+        "Level 5 Grid": [
+            250000,
+            "External"
+        ],
+        "Level 6 Grid": [
+            250000,
+            "External"
+        ],
+        "Level 7 Grid": [
+            500000,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {
+        "0": "The Ring Config Lightning cannon takes time to deploy and can leave the ship vunrable whilst doing so."
+    }
+}

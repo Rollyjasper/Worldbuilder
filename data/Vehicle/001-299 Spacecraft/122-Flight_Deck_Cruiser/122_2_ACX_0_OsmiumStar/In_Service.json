@@ -1,0 +1,15 @@
+{
+    "List": {
+        "122-2-ACX-001": "Fen'Ta",
+        "122-2-ACX-002": "Fen'Ra",
+        "122-2-ACX-003": "Fen'Me",
+        "122-2-ACX-004": "Fen'Ka",
+        "122-2-ACX-005": "Fen'Ri"
+    },
+    "Totals": {
+        "Commissioned": 5,
+        "Active": 5,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

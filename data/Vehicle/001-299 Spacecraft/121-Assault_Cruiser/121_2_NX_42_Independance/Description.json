@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            1845,
+            "m"
+        ],
+        "Saucer Width": [
+            1200,
+            "m"
+        ],
+        "Main Hull Width": [
+            800,
+            "m"
+        ],
+        "Decks": [
+            25
+        ],
+        "Height": [
+            100,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "The ship feature a large flat saucer.",
+        "1": "The seconary hull is a perfect circle an hangs below the centure of the saucer.",
+        "2": "the nacelles are placed above the saucer and are attached to semi-minor axis."
+    }
+}

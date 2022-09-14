@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Venture",
+        "Class Type": "111",
+        "Class Type Name": "Super_Carrier",
+        "Class Sub-Type": "Assault",
+        "Generation": "2",
+        "Core Type": "SX",
+        "Order": "8",
+        "Range": [
+            855.0,
+            "MPc"
+        ]
+    }
+}

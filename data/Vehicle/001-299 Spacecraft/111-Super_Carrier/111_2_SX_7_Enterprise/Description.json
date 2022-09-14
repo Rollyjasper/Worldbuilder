@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            "24.9",
+            "Km"
+        ],
+        "Width": [
+            "15.4",
+            "Km"
+        ],
+        "Width with Pod": [
+            "32.2",
+            "Km"
+        ],
+        "Decks": [
+            2569
+        ],
+        "Pod Count": [
+            6
+        ],
+        "Pod Type": [
+            "Hanger"
+        ]
+    },
+    "Description": {
+        "0": "3.5Km (Front), 44Km (Mid),3.5Km (Back) Struts for pods.",
+        "1": "Simmiler to in proprtions to the Galactica class these massive supercarriers dominate all battle feilds they enter.",
+        "2": "As the largest super carrier they are classified as \"Flag\" Supercarriers, meaning they are designed to lead the fleets in combat.",
+        "3": "The six pods extend in a triangular formation with the front and back pods being almost not extending."
+    }
+}

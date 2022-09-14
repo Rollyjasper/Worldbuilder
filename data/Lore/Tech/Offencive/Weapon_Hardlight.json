@@ -1,0 +1,156 @@
+{
+    "Phaser":{
+        "Strip":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"Fires a single beam of phased semi-hardlight from points along a single line accross the ships hull, can fire multipule beams at once."
+        },
+        "Coil Turret":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"Fires a single powerful beam of phased semi-hardlight from a fixed mount on the ships hull, can only fire one beam at a time."
+        },
+        "Atmospheric":{
+        "Style":[],
+        "Limits":["S1","A1"],
+        "Desc":"Fires a single beam of phased semi-hardlight in much the same way a the strip type however inorder to function within a atmosphere they are in a constant state of overload and are desigen to function as such.\nThey are differnt from PHAS(Phased Hardlight Atmospheric weapons System)."
+        },
+        "Cannons":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"Fires a single powerful bolt of phased semi-hardlight. high fire-rate and high power in the shots makes them very powerful, the only negative is that the power of these weapons forces them to have a fixed mount."
+        },
+        "Split-Beam":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"A variation on the coil turret type, these posses the mutli beam fire capability of phaser strips."
+        },
+        "Battleship Turret":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"A variation on the cannon, where three cannons are mounted to a large articulated base. Developed during the 2nd generation."
+        },
+        "Cruiser Turret":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"A variation on the battleship turrets, smaller in size and fire power, they featured 1 larger cannon on an articulated base."
+        },
+        "Covert":{
+        "Style":[],
+        "Limits":["A1"],
+        "Desc":"A variation on the cannon that uses thermal control systems and no-photonic matter to create a bolt that is near immpossible to detect."
+        }
+    },
+    "PHAS":{
+        "AP":{
+        "Style":[],
+        "Limits":["L1"],
+        "Desc":"Designed to deal with personel near the unit."
+        },
+        "Strip":{
+        "Style":["Heavy",null],
+        "Limits":["L1","S5"],
+        "Desc":"Simmiler in appearance and function to the phaser strip."
+        },
+        "Heavy":{
+        "Style":[],
+        "Limits":["L1"],
+        "Desc":"A more pwerful version of the AP type designed to destroy armoured targets."
+        }
+    },
+    "Hazer":{
+        "Strips":{
+        "Style":[],
+        "Limits":["S4"],
+        "Desc":"Fires a single powerful beam of hydrodynamic semi-hardlight. Designed for use underwater."
+        }
+    },
+    "Particle Cannon":{
+        "Battleship":{
+        "Style":["Twin","Twin Heavy"],
+        "Limits":["S1"],
+        "Desc":"A configeration where a number of cannons are fixed to a single movable mount."
+        },
+        "Fixed":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"A single cannon fixed to a ships hull and is locked in facing a set direction."
+        }
+    },
+    "Projectile Laser Cannon":{
+        "Turret":{
+        "Style":["Dual Heavy","Dual","Heavy",null],
+        "Limits":["U1"],
+        "Desc":"A form of the weapon that has a turretable mount."
+        },
+        "Deckgun":{
+        "Style":["Dual Heavy","Dual","Quad Heavy","Quad"],
+        "Limits":["S1"],
+        "Desc":"A form of the weapon that consists of 2-4 cannons on a single mount, turretable."
+        },
+        "Broadside":{
+        "Style":["Heavy",null],
+        "Limits":["S2"],
+        "Desc":"A form of the weapon were the cannons are fixed to the side of the vessel and can only shoot at tagets on the side of the ship."
+        },
+        "Light":{
+        "Style":[],
+        "Limits":["L1"],
+        "Desc":"A form of the weapon that is approximatly 1/3 of the size of the ship side weapons, mounted as a secondary weapon on most large vehicles."
+        },
+        "Fixed":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"A form of the weapon that is fixed to face in one direction, simmiler in size to the turret version."
+        },
+        "Rotary":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"A form of the weapon that has 10 smaller cannons mounted in a circle on a single hard-point.\nThe cannons fire in a cycle that allows for a faster rate of fire with a slower rate of charge, designed for compact frames and smaller power-plants."
+        }
+    },
+    "Ground":{
+        "P-Type":{
+        "Style":[],
+        "Limits":["L2"],
+        "Desc":"Fires a bolt of dense, super-heated plasma at a target, has a slower firing rate than other simmiler weapons but is more vesitle. There exists a modification to allow a constant jet of plasma to be produced."
+        },
+        "L-Type":{
+        "Style":[],
+        "Limits":["L2"],
+        "Desc":"Fires a short bolt of compresed and shaped hardlight at high speeds, can be modified to fire a sustained beam."
+        }
+    },
+    "Miscellaneous":{
+        "Photon Bolt Cannon":{
+        "Style":["Heavy",null],
+        "Limits":["U1"],
+        "Desc":"Fires a short beam of powerful photonic energy focused and modified by exotic crystal lenses and matrices."
+        },
+        "Ocilating Type":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"Fires a powerful sustained beam of semi-hardlight, this beam can peirce some of the strongest shield and toughest hulls in mere seconds."
+        },
+        "Hardlight Cannon":{
+        "Style":["Nose Mounted","Heavy Nose Mounted",null],
+        "Limits":["U1"],
+        "Desc":"Fires a powerful bolt of semi-hardlight, this bolt can penertrate shields with ease and bury itself deep in a targets hull."
+        },
+        "Plasmatic Hardlight Cannon":{
+        "Style":[],
+        "Limits":["S1"],
+        "Desc":"Fires a bolt of hardlight in a state simmilar to that of plasma.\nThese weapons not only penertrate most hulls but also will remain increadbly hot for a prolonged time, making repairs harder."
+        },
+        "Worldship Defence":{
+        "Style":[],
+        "Limits":["S3"],
+        "Desc":"Fires a powerful sustained beam of semi-hardlight, the beam is wider than most ships."
+        },
+        "ML-33 Mounted":{
+            "Style":[],
+            "Limits":["S5"],
+            "Desc":""
+        }
+    }
+}

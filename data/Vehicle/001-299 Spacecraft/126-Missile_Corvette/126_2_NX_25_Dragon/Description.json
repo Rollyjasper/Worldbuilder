@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            282,
+            "m"
+        ],
+        "Saucer Width": [
+            180,
+            "m"
+        ],
+        "Main Hull Width": [
+            100,
+            "m"
+        ],
+        "Decks": [
+            3
+        ],
+        "Height": [
+            12,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "The circular saucer is bisected by a beveled box that runs down the middle of the ship.",
+        "1": "the nacelles are the length of the saucer and are mounted above and below the main hull."
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            33,
+            "m"
+        ],
+        "Width": [
+            "4.5",
+            "m"
+        ],
+        "Height": [
+            "3.3",
+            "m"
+        ],
+        "Pylon Length": [
+            3,
+            "m "
+        ],
+        "Pylon Count": [
+            4
+        ],
+        "Pylon Breakdown": [
+            4,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "One largest fighters in service.",
+        "1": "Incredably powerful and versitile in the roles that they occupy.",
+        "2": "These fighters rapidly grew in popularity after their introduction."
+    }
+}

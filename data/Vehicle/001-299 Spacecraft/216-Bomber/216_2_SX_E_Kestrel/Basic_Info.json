@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Kestrel",
+        "Class Type": "216",
+        "Class Type Name": "Bomber",
+        "Class Sub-Type": "Exo-Atmospheric",
+        "Generation": "2",
+        "Core Type": "SX",
+        "Order": "E",
+        "Range": [
+            675.0,
+            "MPc"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Violet Phaser Strip": [
+            6,
+            "External"
+        ],
+        "Quad Band Multi Frequency Blue Phaser Split-Beam": [
+            12,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Firebird Railgun": [
+            4,
+            "Retractable"
+        ],
+        " Hardlight Cannon": [
+            2,
+            "External"
+        ],
+        " Photon Bolt Cannon": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            16,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Small Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

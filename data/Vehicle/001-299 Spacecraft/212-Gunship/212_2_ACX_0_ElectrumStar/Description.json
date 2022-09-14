@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            32,
+            "m"
+        ],
+        "Width": [
+            7,
+            "m"
+        ],
+        "Height": [
+            5,
+            "m"
+        ],
+        "Pylon Length": [
+            22,
+            "m"
+        ],
+        "Pylon Count": [
+            4
+        ],
+        "Pylon Breakdown": [
+            4,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "A versitile Gunship that is used inplace of shuttles on many of the larger ships.",
+        "1": "Their size and firepower make them capable of air-to-ground and air-to-air combat making them a very powerful asset."
+    }
+}

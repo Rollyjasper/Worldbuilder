@@ -1,0 +1,41 @@
+{
+    "Primary": {
+        " Tri-Bar Railgun": [
+            188,
+            "External"
+        ],
+        " Turret Projectile Laser Cannon": [
+            60,
+            "External"
+        ],
+        "Heavy Turret Projectile Laser Cannon": [
+            120,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            50,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Neutreno Based Lightning Cannon Hull Mount": [
+            1,
+            "Retractable"
+        ],
+        "Heavy Helical Massdriver": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Mega Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

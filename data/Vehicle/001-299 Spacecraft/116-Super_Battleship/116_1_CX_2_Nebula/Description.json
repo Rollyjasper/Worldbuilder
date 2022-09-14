@@ -1,0 +1,34 @@
+{
+    "Characteristics": {
+        "Length": [
+            5520,
+            "m"
+        ],
+        "Width": [
+            3174,
+            "m"
+        ],
+        "Width with Pod": [
+            3256,
+            "m"
+        ],
+        "Pylon Length": [
+            2,
+            "m"
+        ],
+        "Pod Count": [
+            1
+        ],
+        "Pod Type": [
+            "Sensor"
+        ],
+        "Wingspan": [
+            3984,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "These powerful warships were the largest of their kind for the 1st generation.",
+        "1": "520m longer than the equally massive Silver Star class they could always be seen across the battle field."
+    }
+}

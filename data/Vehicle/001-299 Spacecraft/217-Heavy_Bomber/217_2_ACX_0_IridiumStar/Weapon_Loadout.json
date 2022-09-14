@@ -1,0 +1,54 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Magenta Phaser Strip": [
+            4,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            3,
+            "External"
+        ],
+        "Rack Photonic Warhead Bomb": [
+            25,
+            "Internal"
+        ],
+        " Photonic Warhead Mine": [
+            4,
+            "Internal"
+        ],
+        "Pod Photonic Warhead Missile": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Shocking Firebird Railgun": [
+            2,
+            "External"
+        ],
+        "Bi Band Multi Frequency Magenta Phaser Strip": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            2,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

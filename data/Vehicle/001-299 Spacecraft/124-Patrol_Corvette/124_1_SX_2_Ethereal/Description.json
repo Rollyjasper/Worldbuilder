@@ -1,0 +1,37 @@
+{
+    "Characteristics": {
+        "Length": [
+            794,
+            "m"
+        ],
+        "Width": [
+            270,
+            "m"
+        ],
+        "Width with Pod": [
+            320,
+            "m"
+        ],
+        "Pylon Length": [
+            7,
+            "m"
+        ],
+        "Decks": [
+            6
+        ],
+        "Height": [
+            24,
+            "m"
+        ],
+        "Pod Count": [
+            2
+        ],
+        "Pod Type": [
+            "Weapon"
+        ]
+    },
+    "Description": {
+        "0": "A rather standout design, with a very organic shapes.",
+        "1": "They keep the same basic shape of their sister classes, but the destinct hull design and visuals along with their incredible agility could give many a fleet captain chills"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Singularity",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "NX",
+        "Order": "12",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

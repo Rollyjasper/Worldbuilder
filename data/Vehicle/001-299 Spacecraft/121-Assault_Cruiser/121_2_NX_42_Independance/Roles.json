@@ -1,0 +1,17 @@
+{
+    "Primary": {
+        "Roles": [
+            "Warship",
+            "Fleet Assault",
+            "System Assault"
+        ]
+    },
+    "Secondary": {
+        "Roles": [
+            "Fleet Defence",
+            "Fleet Escort",
+            "Station Defence",
+            "Station Assault"
+        ]
+    }
+}

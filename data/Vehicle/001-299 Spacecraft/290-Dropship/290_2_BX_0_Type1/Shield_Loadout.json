@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Blackout",
+        "Sub-Type": "Standard",
+        "Version": 2
+    },
+    "Secondary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Tertiary": {
+        "Type": null,
+        "Sub-Type": null,
+        "Version": 0
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "N",
+        "Bay Count": 1
+    },
+    "Navigational": {
+        "Mount": "Hull",
+        "Version": "S"
+    },
+    "Hull": {
+        "Type": null
+    },
+    "Notes": {}
+}

@@ -1,0 +1,42 @@
+{
+    "Primary": {
+        "Fixed Thunderbolt Railgun": [
+            9,
+            "External"
+        ],
+        "Heavy Photon Bolt Cannon": [
+            42,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            25,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Type-001": [
+            2,
+            "External"
+        ],
+        "Chroniton Based Lightning Cannon Crystal Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            150,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

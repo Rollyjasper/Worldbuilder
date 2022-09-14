@@ -1,0 +1,12 @@
+{
+    "Main": {
+        "215_2_SX_E_UmbraViper": 70,
+        "213_1_SX_T_Viper": 50,
+        "223_2_ACX_0_IridiumStar": 14
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "Can carry two Mobius class frigates, insted of its normal loadout, should the mission dictate.",
+        "1": "Or any ship under 300m long, 125m wide and 40m tall."
+    }
+}

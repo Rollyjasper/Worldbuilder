@@ -1,0 +1,62 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": [
+            10,
+            "External"
+        ],
+        "Bi Band Multi Frequency Blue Phaser Coil Turret": [
+            16,
+            "External"
+        ],
+        "Fore Tri-Shot Fusion Warhead Torpedo": [
+            4,
+            "Internal"
+        ],
+        "Aft Tri-Shot Fusion Warhead Torpedo": [
+            2,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Bi-Shot Quantum Warhead Torpedo": [
+            1,
+            "Internal"
+        ],
+        "Aft Bi-Shot Quantum Warhead Torpedo": [
+            1,
+            "Internal"
+        ],
+        "Quad Band Multi Frequency Magenta Phaser Atmospheric": [
+            4,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Helical Massdriver": [
+            1,
+            "External"
+        ],
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 5 Grid": [
+            45,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

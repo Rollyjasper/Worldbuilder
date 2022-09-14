@@ -1,0 +1,33 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Planetry",
+        "Version": 3
+    },
+    "Secondary": {
+        "Type": "Blackout",
+        "Sub-Type": "Standard",
+        "Version": 5
+    },
+    "Tertiary": {
+        "Type": "Sentinal",
+        "Sub-Type": "Adaptive",
+        "Version": 14
+    },
+    "Ever-Shield": {
+        "Generation": 8,
+        "Bay Size": "XL",
+        "Bay Count": 2
+    },
+    "Navigational": {
+        "Mount": "Planetry",
+        "Version": 13
+    },
+    "Hull": {
+        "Type": "Composite"
+    },
+    "Notes": {
+        "0": "The Composite hull of these ships is modified to withstand solar temperatures.",
+        "1": "These ships also have a Type 12 Array Mount Navigational Shield."
+    }
+}

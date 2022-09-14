@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Swiftlet",
+        "Class Type": "218",
+        "Class Type Name": "Light_Fighter",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "MX",
+        "Order": "0",
+        "Range": [
+            630.0,
+            "MPc"
+        ]
+    }
+}

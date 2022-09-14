@@ -1,0 +1,22 @@
+{
+    "AAX":"Aircraft",
+    "ACS":"City",
+    "ACX":"Lightning Core",
+    "ASX":"Science",
+    "AWS":"World",
+    "BX":"Dropship",
+    "BBX":"Super Dropship",
+    "CX":"Grav Type & ZPE,Crystal Style",
+    "CWX":"World Defender",
+    "DX":"Grav Type & ZPE,Singularity Style",
+    "EX":"Ion Propultion & ZPE,Discharge Style",
+    "LX":"Solar Core",
+    "MX":"Photon FTL with ZPM or ZPE",
+    "NX":"Photon Type",
+    "RX":"Void-68 Implosion",
+    "SX":"Decay Type",
+    "TX":"Temporal",
+    "XCN":"Watercraft",
+    "XCV":"Landcraft",
+    "Base":"Instillations"
+}

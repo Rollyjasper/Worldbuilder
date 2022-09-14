@@ -1,0 +1,16 @@
+{
+    "List": {
+        "118-1-SX-401": "Starburst",
+        "118-1-SX-402": "Supernova",
+        "118-1-SX-403": "Cataclysm",
+        "118-1-SX-404": "Cloudburst",
+        "118-1-SX-405": "Flare",
+        "118-1-SX-406": "Flash"
+    },
+    "Totals": {
+        "Commissioned": 6,
+        "Active": 6,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

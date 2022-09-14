@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Ethereal",
+        "Class Type": "124",
+        "Class Type Name": "Patrol_Corvette",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "SX",
+        "Order": "2",
+        "Range": [
+            720.0,
+            "MPc"
+        ]
+    }
+}

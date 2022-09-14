@@ -1,0 +1,54 @@
+{
+    "Primary": {
+        "Dual Heavy Turret Projectile Laser Cannon": [
+            48,
+            "External"
+        ],
+        " Tri-Bar Railgun": [
+            102,
+            "External"
+        ],
+        "VLS Photonic Warhead Missile": [
+            12,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Fore Tri-Shot Quantum Warhead Torpedo": [
+            4,
+            "Internal"
+        ],
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            26,
+            "External"
+        ],
+        "Twin Battleship Particle Cannon": [
+            6,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Neutreno Based Lightning Cannon Hull Mount": [
+            1,
+            "Retractable"
+        ],
+        "Micro Lightning Cannon Turret": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Refractive Flac": [
+            300,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            6,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

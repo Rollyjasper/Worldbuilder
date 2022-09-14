@@ -1,0 +1,22 @@
+{
+    "Characteristics": {
+        "Length": [
+            20,
+            "m"
+        ],
+        "Wingspan": [
+            15,
+            "m"
+        ],
+        "Height": [
+            6,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "Wings can be folded back when at high-speeds, reducing the wingspan to 8m.",
+        "1": "The base interceptor for the Avingarde Airforce.",
+        "2": "Agile and nimble, these craft can takedown any hostile aircraft, shuttle or missile.",
+        "3": "Named: \"Dragonfly\""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Characteristics": {
+        "Length": [
+            970,
+            "m"
+        ],
+        "Neck Width": [
+            225,
+            "m"
+        ],
+        "Main Hull Width": [
+            350,
+            "m"
+        ],
+        "Wingspan": [
+            492,
+            "m"
+        ],
+        "Decks": [
+            71
+        ],
+        "Height": [
+            284,
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "The Deucalion class is thin for its configeration with most of the ships width coming from its large wings.",
+        "1": "Normaly these ships use their eight medium grav drives, mounted along the wings, to propel the ship.",
+        "2": "The ships heavy grav drives are mounted in sets of three on back of the main hull.",
+        "3": "This placment gives the ship a massave aft section making the ship seem sumwhat unbalanced.",
+        "4": "These heavy engines are used to provide the ship with a massive increase to its linnier speed for periods of time as well as increase its mauverablity in open combat."
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Power Core": {
+        "Primary_Type": null,
+        "Primary_Version": 0,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion":{
+        "Sub-Light":[
+            ["",0,""]
+        ],
+        "FTL":[
+            ["",0,""]
+        ],
+        "Atmospheric":[
+            ["",0,""]
+        ],
+        "Aquatic":[
+            ["",0,""]
+        ],
+        "Terrestrial":[
+            ["",0,""]
+        ],
+        "Temporal":[
+            ["",0,""]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": null,
+        "Main Core Count": 0,
+        "AI": null,
+        "A.S.T.R": null
+    },
+    "Other": {},
+    "Notes": {}
+}

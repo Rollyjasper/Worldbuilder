@@ -1,0 +1,41 @@
+{
+    "1":{
+        "desc":"The first version of the evershield. Found in the vault. Cannot be deactivated."
+    },
+    "2":{
+        "desc":"An upgraded 1st gen shield that improved its strength and could now be deactivated."
+    },
+    "3":{
+        "desc":"A early version of massive evershield pylons. These also had the ability to absorb and redirect energy."
+    },
+    "3a":{
+        "desc":"These evershield pylons were designed to defend the core. They are massive pylons and only 11 were made."
+    },
+    "3b":{
+        "desc":"These were an upgrade on the 3a."
+    },
+    "3c":{
+        "desc":"The 3c pylons made further improvements and are the largest of all pylons."
+    },
+    "4":{
+        "desc":"An experimental hybrid of the 1st & 2nd gen pylons. Proved to be ineffective."
+    },
+    "5":{
+        "desc":"The first experiment of miniturizing the evershield tech. Flaws infromed changes for the 9th gen shield."
+    },
+    "6":{
+        "desc":"A prototype of the 7th gen shield. Informed many improvements for the wide-scale production of pylons."
+    },
+    "7":{
+        "desc":"The modern base evershield."
+    },
+    "8":{
+        "desc":"A larger pylon version of the 7th gen pylon"
+    },
+    "9":{
+        "desc":"The smallest type of evershield pylon used on smaller vehicles."
+    },
+    "10":{
+        "desc":"These massive pylons bring 8th gen and 3rd gen pylons together to defend planets."
+    }
+}

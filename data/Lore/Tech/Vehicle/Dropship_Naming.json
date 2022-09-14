@@ -1,0 +1,17 @@
+{
+    "Branch":{
+        "Avingarde":"Stella",
+        "Intel":"Umbra",
+        "Air Force":"Caeli",
+        "Army":"Terra",
+        "Navy":"Aqua",
+        "Science":"scient",
+        "Admiralty":"Praefet"
+    },
+    "Suffix":{
+        "Standard":"us",
+        "Heavy":"et",
+        "Stealth":"'la",
+        "Super":"in"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": 7,
+        "Mono Band Multi Frequency Blue Phaser Coil Turret": 10,
+        "Fore Tri-Shot Fusion Warhead Torpedo": 4,
+        "Aft Tri-Shot Fusion Warhead Torpedo": 2
+    },
+    "Secondary": {
+        " Thunderbolt Railgun": 2
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": 1
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": 30
+    },
+    "Drone": {
+        "Large Drone Bay": 1
+    }
+}

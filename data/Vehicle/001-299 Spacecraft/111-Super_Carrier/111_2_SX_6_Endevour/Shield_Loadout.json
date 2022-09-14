@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 13
+    },
+    "Secondary": {
+        "Type": "Guardian",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Tertiary": {
+        "Type": "Assault",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "XL",
+        "Bay Count": 1
+    },
+    "Navigational": {
+        "Mount": "Internal",
+        "Version": 12
+    },
+    "Hull": {
+        "Type": "Stealth"
+    },
+    "Notes": {}
+}

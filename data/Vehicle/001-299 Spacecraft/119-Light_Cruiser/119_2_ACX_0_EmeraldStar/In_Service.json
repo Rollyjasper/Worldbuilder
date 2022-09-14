@@ -1,0 +1,19 @@
+{
+    "List": {
+        "119-2-ACX-001": "Emerald",
+        "119-2-ACX-002": "Quorum",
+        "119-2-ACX-003": "Iki",
+        "119-2-ACX-004": "Iris",
+        "119-2-ACX-005": "Kuzu",
+        "119-2-ACX-006": "Lahore",
+        "119-2-ACX-007": "Nara",
+        "119-2-ACX-008": "Nashi",
+        "119-2-ACX-009": "Natori"
+    },
+    "Totals": {
+        "Commissioned": 9,
+        "Active": 9,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

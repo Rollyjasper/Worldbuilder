@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Rose",
+        "Class Type": "119",
+        "Class Type Name": "Light_Cruiser",
+        "Class Sub-Type": "Support",
+        "Generation": "1",
+        "Core Type": "DX",
+        "Order": "1",
+        "Range": [
+            850.0,
+            "MPc"
+        ]
+    }
+}

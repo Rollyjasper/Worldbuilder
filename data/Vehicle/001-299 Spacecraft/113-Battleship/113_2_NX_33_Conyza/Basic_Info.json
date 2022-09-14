@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Conyza",
+        "Class Type": "113",
+        "Class Type Name": "Battleship",
+        "Class Sub-Type": "Post-Dreadnought",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "33",
+        "Range": [
+            832.5,
+            "MPc"
+        ]
+    }
+}

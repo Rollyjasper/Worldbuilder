@@ -1,0 +1,29 @@
+{
+    "Characteristics": {
+        "Length": [
+            652,
+            "m"
+        ],
+        "Saucer Width": [
+            260,
+            "m"
+        ],
+        "Main Hull Width": [
+            150,
+            "m"
+        ],
+        "Decks": [
+            36
+        ],
+        "Height": [
+            144,
+            "m"
+        ],
+        "Nacelle Count": [
+            4
+        ]
+    },
+    "Description": {
+        "0": "The defult non-intel config for STO's Eclipse class"
+    }
+}

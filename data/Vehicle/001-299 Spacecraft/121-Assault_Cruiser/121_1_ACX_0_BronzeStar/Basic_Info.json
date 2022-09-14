@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "BronzeStar",
+        "Class Type": "121",
+        "Class Type Name": "Assault_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "1",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            850.0,
+            "MPc"
+        ]
+    }
+}

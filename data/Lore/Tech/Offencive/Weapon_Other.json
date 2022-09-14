@@ -1,0 +1,19 @@
+{
+    "Miscellaneous":{
+        "EMP Cannon":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"An EMP generator using the ship's shields to prevent the pulse effect the firing ship."
+        },
+        "MRC":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"The Magnetic Resonance Cannon projects a magnetic field through the target that resonates and amplifies the magnetic fields of its power systems causing a chain overload."
+        },
+        "Avrora Cannon":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"Combines the effects of the EMP cannon and the MRC, has wide range that damages whole fleets."
+        }
+    }
+}

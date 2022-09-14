@@ -1,0 +1,31 @@
+{
+    "Characteristics": {
+        "Length": [
+            1978,
+            "m"
+        ],
+        "Saucer Width": [
+            300,
+            "m"
+        ],
+        "Main Hull Width": [
+            250,
+            "m"
+        ],
+        "Decks": [
+            30
+        ],
+        "Height": [
+            120,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "20 decks in the saucer, 10 in the main hull.",
+        "1": "The Bellis is primaraly a long oval saucer section with smaller, bulbous secondary hull merged with the underside of the primary hull.",
+        "2": "The two nacelles are enbedded into the edge of saucer section."
+    }
+}

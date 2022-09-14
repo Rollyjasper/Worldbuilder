@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            2997,
+            "m"
+        ],
+        "Saucer Width": [
+            1,
+            "Km"
+        ],
+        "Main Hull Width": [
+            600,
+            "m"
+        ],
+        "Decks": [
+            42
+        ],
+        "Height": [
+            168,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Single hull peice and nacelles merged with hull.",
+        "1": "These ships form a large arrow head shape with the FTL engines running down the sides of the main hull and through the saucer."
+    }
+}

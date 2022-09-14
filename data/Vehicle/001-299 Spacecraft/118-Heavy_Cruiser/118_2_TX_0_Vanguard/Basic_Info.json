@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Vanguard",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "Temporal",
+        "Generation": "2",
+        "Core Type": "TX",
+        "Order": "0",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

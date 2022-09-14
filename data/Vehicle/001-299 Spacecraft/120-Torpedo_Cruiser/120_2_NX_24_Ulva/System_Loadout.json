@@ -1,0 +1,81 @@
+{
+    "Power Core": {
+        "Primary_Type": "Warp",
+        "Primary_Version": 7,
+        "Primary_Style": null,
+        "Primary_Variation": null,
+        "Secondary_Type": "Lightning",
+        "Secondary_Version": 2,
+        "Secondary_Style": "Grav Arc",
+        "Secondary_Variation": null,
+        "Tertiary_Type": "Fusion",
+        "Tertiary_Version": 18,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Impulse",
+                4,
+                ""
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Displacment",
+                1,
+                "Long-range Photon Based"
+            ],
+            [
+                "Dimentional Accelerant",
+                1,
+                "Short-range"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 16,
+        "AI": "Cessation",
+        "A.S.T.R": "Type-2(Restricted),Caster"
+    },
+    "Other": {
+        "Probe Launcher": 14,
+        "Long Range Probe Launcher": 4,
+        "Dimentional Probe Launcher": 2,
+        "Personnel Transporter": 3,
+        "Long-Range Cargo Transporter": 2,
+        "Comm Amp Module": 1,
+        "Multi-use Labs": 4
+    },
+    "Notes": {}
+}

@@ -1,0 +1,50 @@
+{
+    "Primary": {
+        " Quad-Bar Railgun": [
+            44,
+            "External"
+        ],
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            16,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            14,
+            "External"
+        ]
+    },
+    "Secondary": {
+        "Heavy Tri-Bar Railgun": [
+            6,
+            "External"
+        ],
+        "Twin Heavy Battleship Particle Cannon": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Quantum Based Lightning Cannon Spinal Mount": [
+            1,
+            "Retractable"
+        ],
+        "Helical Massdriver": [
+            2,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 7 Grid": [
+            64,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

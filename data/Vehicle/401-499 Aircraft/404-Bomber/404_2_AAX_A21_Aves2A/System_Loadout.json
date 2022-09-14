@@ -1,0 +1,74 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPM",
+        "Primary_Version": 56,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "FTL": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "Ion",
+                8,
+                "LE30"
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 26,
+        "AI": "Magnanimity",
+        "A.S.T.R": "Type-2(Limited),Vaster"
+    },
+    "Other": {
+        "Sensor Cloak": 1,
+        "Sensor Drone": 2,
+        "Targeting Drone": 4,
+        "Atmoshperic Stabilization Module": 2,
+        "Thrust Reclimation Module": 8
+    },
+    "Notes": {}
+}

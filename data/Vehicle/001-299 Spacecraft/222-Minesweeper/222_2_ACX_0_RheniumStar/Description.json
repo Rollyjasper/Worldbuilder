@@ -1,0 +1,32 @@
+{
+    "Characteristics": {
+        "Length": [
+            75,
+            "m"
+        ],
+        "Width": [
+            14,
+            "m"
+        ],
+        "Height": [
+            "6.5",
+            "m"
+        ],
+        "Pylon Length": [
+            16,
+            "m"
+        ],
+        "Pylon Count": [
+            8
+        ],
+        "Pylon Breakdown": [
+            8,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "One of the largest aux craft designed.",
+        "1": "These ships have a very accurate lightning cannon thanks to the octagonal pylon configeration."
+    }
+}

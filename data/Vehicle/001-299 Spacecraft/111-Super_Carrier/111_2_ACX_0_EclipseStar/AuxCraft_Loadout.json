@@ -1,0 +1,23 @@
+{
+    "Main": {
+        "215_2_SX_E_UmbraViper": 500,
+        "220_2_ACX_0_IridiumStar": 150,
+        "219_2_ACX_0_ElectrumStar": 150,
+        "211_1_ACX_0_PlatniumStar": 200
+    },
+    "Dropships": {
+        "Umbrain": [
+            [
+                "Mobile Base",
+                3
+            ],
+            [
+                "Pre-Fab",
+                3
+            ]
+        ]
+    },
+    "Notes": {
+        "0": "Loadout Can be replace with two solaris star classes or only halved with one added."
+    }
+}

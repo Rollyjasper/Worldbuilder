@@ -1,0 +1,29 @@
+{
+    "Characteristics": {
+        "Length": [
+            714,
+            "m"
+        ],
+        "Saucer Width": [
+            650,
+            "m"
+        ],
+        "Main Hull Width": [
+            25,
+            "m"
+        ],
+        "Decks": [
+            4
+        ],
+        "Height": [
+            16,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Think the kelvin from star trek 09 with a second nacelle insted of a secondary hull."
+    }
+}

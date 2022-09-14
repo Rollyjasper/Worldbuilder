@@ -1,0 +1,19 @@
+{
+    "Primary": {
+        "Bi Band Dual Frequency Orange Phaser Covert": [
+            1,
+            "In-Nose"
+        ]
+    },
+    "Secondary": {},
+    "Heavy": {},
+    "Pod": {},
+    "Point Defence Grid": {},
+    "Drone": {
+        "Nano Drone Bay": [
+            1,
+            "Dorsal"
+        ]
+    },
+    "Notes": {}
+}

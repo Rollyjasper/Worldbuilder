@@ -1,0 +1,20 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 10000,
+        "212_2_ACX_0_ElectrumStar": 2000,
+        "217_2_ACX_0_IridiumStar": 2000,
+        "214_2_ACX_0_RhodiumStar": 4500,
+        "213_1_ACX_0_PlatniumStar": 15000,
+        "125_2_ACX_0_RubyStar": 25,
+        "121_2_NX_42_Independance": 15,
+        "118_2_NX_36_Nirvana": 15,
+        "132_2_CWX_EDA_Edda": 10
+    },
+    "Dropships": {},
+    "Notes": {
+        "0": "These ships also carry 100 of all dropship mounts.",
+        "1": "In addition to the ships standard compliment they can carry what ever ships can fit in the main hangar.",
+        "2": "If a ship cannon fit in the hangar or the hangar is full, there are umbilicals along the ship's edge.",
+        "3": "they also carry as many second gen ships as they have launch tubes (in that ratio)"
+    }
+}

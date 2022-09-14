@@ -1,0 +1,26 @@
+{
+    "Characteristics": {
+        "Length": [
+            812,
+            "m"
+        ],
+        "Saucer Width": [
+            238,
+            "m"
+        ],
+        "Decks": [
+            28
+        ],
+        "Height": [
+            112,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "The ship is a long, flat, cylindrical hull with the nacelles retracted within the hull.",
+        "1": "The impulse engines are mounted inmodules on the side of the hull."
+    }
+}

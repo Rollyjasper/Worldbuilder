@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Azalea",
+        "Class Type": "134",
+        "Class Type Name": "Frigate",
+        "Class Sub-Type": "Lander",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "18",
+        "Range": [
+            740.0,
+            "MPc"
+        ]
+    }
+}

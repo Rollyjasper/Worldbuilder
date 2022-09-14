@@ -1,0 +1,54 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Red Phaser Strip": [
+            10,
+            "External"
+        ],
+        "Bi Band Multi Frequency Red Phaser Coil Turret": [
+            26,
+            "External"
+        ],
+        "Mono Band Multi Frequency Red Phaser Cannons": [
+            3,
+            "External"
+        ],
+        "Fore Quad-Shot Quantum Warhead Torpedo": [
+            5,
+            "Internal"
+        ],
+        "Aft Quad-Shot Quantum Warhead Torpedo": [
+            3,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "VLS Photonic Warhead Missile": [
+            4,
+            "Internal"
+        ],
+        " Thunderbolt Railgun": [
+            25,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            164,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            6,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

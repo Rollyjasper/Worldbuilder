@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "ElectrumStar",
+        "Class Type": "219",
+        "Class Type Name": "Stealth_Gunship",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            0.0,
+            "MPc"
+        ]
+    }
+}

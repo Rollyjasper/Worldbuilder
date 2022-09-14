@@ -1,0 +1,33 @@
+{
+    "Primary": {
+        "Rack Photonic Warhead Bomb": [
+            20,
+            "Internal"
+        ],
+        " Quantum Warhead Torpedo": [
+            5,
+            "Internal"
+        ]
+    },
+    "Secondary": {
+        "Mono Band Multi Frequency Cyan PHAS Strip": [
+            4,
+            "External"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {
+        "Composite Photonic Warhead Missile": [
+            8,
+            "Internal"
+        ]
+    },
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            4,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

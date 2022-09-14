@@ -1,0 +1,34 @@
+{
+    "Primary": {
+        "Tri Band Multi Frequency Blue Phaser Strip": [
+            2,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Firebird Railgun": [
+            2,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Tachyon Based Lightning Cannon Deflector Mount": [
+            1,
+            "Internal"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            10,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Tiny Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

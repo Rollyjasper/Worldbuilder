@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Shuttle",
+        "Version": 4
+    },
+    "Secondary": {
+        "Type": "Defence",
+        "Sub-Type": "Shuttle",
+        "Version": 5
+    },
+    "Tertiary": {
+        "Type": "Mask",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "XXS",
+        "Bay Count": 3
+    },
+    "Navigational": {
+        "Mount": "Array",
+        "Version": "S"
+    },
+    "Hull": {
+        "Type": "Hybrid"
+    },
+    "Notes": {}
+}

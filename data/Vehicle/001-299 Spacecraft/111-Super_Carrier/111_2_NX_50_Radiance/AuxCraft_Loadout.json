@@ -1,0 +1,67 @@
+{
+    "Main": {
+        "210_1_ACX_0_PlatniumStar": 400,
+        "211_1_ACX_0_PlatniumStar": 50,
+        "213_1_SX_E_Viper": 1200,
+        "213_1_SX_I_Viper": 600,
+        "213_1_ACS_0_PlatniumStar": 1200,
+        "217_2_ACX_0_IridiumStar": 275,
+        "212_2_ACX_0_ElectrumStar": 275,
+        "215_2_SX_E_UmbraViper": 100
+    },
+    "Dropships": {
+        "Aquaus": [
+            [
+                "Corvette",
+                30
+            ],
+            [
+                "Crusier",
+                10
+            ]
+        ],
+        "Terraus": [
+            [
+                "Tank",
+                40
+            ],
+            [
+                "Personel Transport",
+                40
+            ]
+        ],
+        "Caelius": [
+            [
+                "Interceptor",
+                30
+            ]
+        ],
+        "Caeliet": [
+            [
+                "Runway",
+                3
+            ]
+        ],
+        "Aquaet": [
+            [
+                "Deapsea",
+                4
+            ]
+        ],
+        "Umbraet": [
+            [
+                "Shade",
+                2
+            ]
+        ],
+        "Stellaus": [
+            [
+                "Border Station",
+                1
+            ]
+        ]
+    },
+    "Notes": {
+        "0": "Can also carry upto 5 Hydra Class Heavy Escort Destroyers."
+    }
+}

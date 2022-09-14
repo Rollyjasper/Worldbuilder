@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "OpalStar",
+        "Class Type": "132",
+        "Class Type Name": "Heavy_Escort_Destroyer",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            800.0,
+            "MPc"
+        ]
+    }
+}

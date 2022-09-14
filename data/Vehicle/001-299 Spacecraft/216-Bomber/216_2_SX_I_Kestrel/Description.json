@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            45,
+            "m"
+        ],
+        "Width": [
+            15,
+            "m"
+        ],
+        "Height": [
+            5,
+            "m"
+        ],
+        "Wingspan": [
+            40,
+            "m"
+        ],
+        "Pod Count": [
+            4
+        ],
+        "Pod Type": [
+            "Weapon"
+        ]
+    },
+    "Description": {
+        "0": "A rather bulbous ship that is nicnamed the flying plate by various bomber crews.",
+        "1": "Reliable although rather rare due to being out classed by the Iridium Star Class Heavy Bombers."
+    }
+}

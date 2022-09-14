@@ -1,0 +1,36 @@
+{
+    "List": {
+        "114-1-CX-101": "Aurora",
+        "114-1-CX-102": "Enos",
+        "114-1-CX-103": "Discovery",
+        "114-1-CX-104": "Challanger",
+        "114-1-CX-105": "Casper",
+        "114-1-CX-106": "Falcon",
+        "114-1-CX-107": "Endeavour",
+        "114-1-CX-108": "Antares",
+        "114-1-CX-109": "Shenzou",
+        "114-1-CX-110": "Aquarius",
+        "114-1-CX-111": "Opus",
+        "114-1-CX-112": "Chernushka",
+        "114-1-CX-113": "Interepid",
+        "114-1-CX-114": "Eagle",
+        "114-1-CX-115": "Columbia",
+        "114-1-CX-116": "Redstone",
+        "114-1-CX-117": "Mercury",
+        "114-1-CX-118": "Titan",
+        "114-1-CX-119": "Laika",
+        "114-1-CX-120": "Belka",
+        "114-1-CX-121": "Mir",
+        "114-1-CX-122": "Solylut",
+        "114-1-CX-123": "Atlas",
+        "114-1-CX-124": "Bismark",
+        "114-1-CX-125": "Venitor",
+        "114-1-CX-126": "Faraday"
+    },
+    "Totals": {
+        "Commissioned": 26,
+        "Active": 26,
+        "Lost": 0,
+        "Retired": 0
+    }
+}

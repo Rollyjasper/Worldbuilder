@@ -1,0 +1,33 @@
+{
+    "Characteristics": {
+        "Length": [
+            25,
+            "m"
+        ],
+        "Width": [
+            "3.25",
+            "m"
+        ],
+        "Height": [
+            "4.5",
+            "m"
+        ],
+        "Pylon Length": [
+            4,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            6,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The main workhorse shuttle of the Avingarde.",
+        "1": "Reliable and capable these shuttles could carry 12 people with full gear and have a small amount of room of other cargo.",
+        "2": "The main door was between the engines at the rear although, there were larger side doors that could be used."
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Primary": {
+        " Tri-Bar Railgun": [
+            53,
+            "External"
+        ],
+        " Thunderbolt Railgun": [
+            90,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            12,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Helical Massdriver": [
+            2,
+            "External"
+        ],
+        "Neutreno Based Lightning Cannon Hull Mount": [
+            1,
+            "Retractable"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 6 Grid": [
+            55,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Large Drone Bay": [
+            2,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

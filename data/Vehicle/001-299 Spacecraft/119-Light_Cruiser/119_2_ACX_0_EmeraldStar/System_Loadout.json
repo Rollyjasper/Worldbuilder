@@ -1,0 +1,77 @@
+{
+    "Power Core": {
+        "Primary_Type": "Lightning",
+        "Primary_Version": 4,
+        "Primary_Style": "Enhanced Grav Arc",
+        "Primary_Variation": null,
+        "Secondary_Type": "Fusion",
+        "Secondary_Version": 19,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Dampened Gravitational",
+                12,
+                ""
+            ]
+        ],
+        "FTL": [
+            [
+                "Dimentional Accelerant",
+                1,
+                ""
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Super-Computer",
+        "Main Core Count": 25,
+        "AI": "Zennith",
+        "A.S.T.R": "Type-2(Open),Aster"
+    },
+    "Other": {
+        "Probe Launcher": 28,
+        "Cargo Transporter": 6,
+        "Personnel Transporter": 10,
+        "Comm Relay Module": 10,
+        "Fighter Command Relay Module": 4,
+        "Command Relay Module": 4,
+        "Sensor Cloak": 1,
+        "Dimentional Cloak": 1
+    },
+    "Notes": {}
+}

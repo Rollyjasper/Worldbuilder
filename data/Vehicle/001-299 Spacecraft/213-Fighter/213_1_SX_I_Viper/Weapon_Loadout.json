@@ -1,0 +1,33 @@
+{
+    "Primary": {
+        " Shocking Firebird Railgun": [
+            3,
+            "External"
+        ],
+        " Burning Thunderbolt Railgun": [
+            3,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Thunderchild Railgun": [
+            3,
+            "External"
+        ]
+    },
+    "Heavy": {},
+    "Pod": {
+        "HLS Photonic Warhead Missile": [
+            2,
+            "External"
+        ]
+    },
+    "Point Defence Grid": {},
+    "Drone": {
+        "Micro Drone Bay": [
+            1,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Independance",
+        "Class Type": "121",
+        "Class Type Name": "Assault_Cruiser",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "NX",
+        "Order": "42",
+        "Range": [
+            786.25,
+            "MPc"
+        ]
+    }
+}

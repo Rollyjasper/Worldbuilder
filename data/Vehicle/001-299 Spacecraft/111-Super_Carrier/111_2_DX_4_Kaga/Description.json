@@ -1,0 +1,27 @@
+{
+    "Characteristics": {
+        "Length": [
+            "21.3",
+            "Km"
+        ],
+        "Neck Width": [
+            "4.3",
+            "Km"
+        ],
+        "Main Hull Width": [
+            13,
+            "Km"
+        ],
+        "Decks": [
+            304
+        ],
+        "Hanger Count": [
+            7
+        ]
+    },
+    "Description": {
+        "0": "A double and single hanger on each side and a seventh at base of neck.",
+        "1": "The Second Largest Class of Supercarrier and one of the largest ships in the Avingarde.",
+        "2": "The massive hulls of these ships have a commanding presence and the powerful sheilds, hull and weapons provide defence for whole fleets."
+    }
+}

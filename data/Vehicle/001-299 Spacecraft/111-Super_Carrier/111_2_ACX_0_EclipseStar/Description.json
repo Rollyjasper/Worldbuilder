@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            15,
+            "Km"
+        ],
+        "Width": [
+            "2.4",
+            "Km"
+        ],
+        "Saucer Width": [
+            "10.5",
+            "Km"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The smallest super carrier at 15Km long, however despite its size it packed quite a punch.",
+        "1": "Its small size was to increase the effectivness of the optical and sensor cloaks as well as the starfeild generator."
+    }
+}

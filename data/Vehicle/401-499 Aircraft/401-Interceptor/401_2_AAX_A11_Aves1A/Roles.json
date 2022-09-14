@@ -1,0 +1,10 @@
+{
+    "Primary": {
+        "Roles": [
+            "Interceptor"
+        ]
+    },
+    "Secondary": {
+        "Roles": []
+    }
+}

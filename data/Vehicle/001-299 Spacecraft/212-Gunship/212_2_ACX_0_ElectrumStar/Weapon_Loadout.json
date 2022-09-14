@@ -1,0 +1,50 @@
+{
+    "Primary": {
+        "Bi Band Multi Frequency Blue Phaser Atmospheric": [
+            2,
+            "External"
+        ],
+        "Tri Band Multi Frequency Cyan PHAS Strip": [
+            4,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Shocking Firebird Railgun": [
+            2,
+            "Retractable"
+        ],
+        "Pod Photonic Warhead Missile": [
+            2,
+            "Internal"
+        ],
+        " ML-33 Mounted Semi-Hardlight Beam Weapon": [
+            4,
+            "Internal"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Micro Pylon Config": [
+            1,
+            "External"
+        ],
+        "Energy Based Lightning Cannon Atmospheric Pylon Config": [
+            2,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 2 Grid": [
+            4,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Micro Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

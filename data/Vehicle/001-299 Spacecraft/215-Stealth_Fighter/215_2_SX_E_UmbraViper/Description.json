@@ -1,0 +1,26 @@
+{
+    "Characteristics": {
+        "Length": [
+            12,
+            "m"
+        ],
+        "Width": [
+            "1.18",
+            "m"
+        ],
+        "Height": [
+            2,
+            "m"
+        ],
+        "Wingspan": [
+            "3.5",
+            "m"
+        ]
+    },
+    "Description": {
+        "0": "A reliable fighter designed for space combat.",
+        "1": "Advanced RCS and Inertial Dampening systems enable high-G turns with no risk to the pilot.",
+        "2": "All personnel have basic combat training with these ships.",
+        "3": "This variant has been out fited with stealth systems."
+    }
+}

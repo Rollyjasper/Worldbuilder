@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "Vampire",
+        "Class Type": "118",
+        "Class Type Name": "Heavy_Cruiser",
+        "Class Sub-Type": "Assault",
+        "Generation": "2",
+        "Core Type": "LX",
+        "Order": "2",
+        "Range": [
+            0,
+            "MPc"
+        ]
+    }
+}

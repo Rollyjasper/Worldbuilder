@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Standard",
+        "Version": 12
+    },
+    "Secondary": {
+        "Type": "Mask",
+        "Sub-Type": "Standard",
+        "Version": 5
+    },
+    "Tertiary": {
+        "Type": "Blackout",
+        "Sub-Type": "Standard",
+        "Version": 3
+    },
+    "Ever-Shield": {
+        "Generation": 9,
+        "Bay Size": "XS",
+        "Bay Count": 1
+    },
+    "Navigational": {
+        "Mount": "Intergrated",
+        "Version": "HBS"
+    },
+    "Hull": {
+        "Type": "Star Type"
+    },
+    "Notes": {}
+}

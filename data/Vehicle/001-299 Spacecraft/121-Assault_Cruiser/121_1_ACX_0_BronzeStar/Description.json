@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            1500,
+            "m"
+        ],
+        "Width": [
+            350,
+            "m"
+        ],
+        "Pylon Length": [
+            1050,
+            "m"
+        ],
+        "Pylon Count": [
+            3
+        ],
+        "Pylon Breakdown": [
+            3,
+            0,
+            0
+        ]
+    },
+    "Description": {
+        "0": "The Bronze star class is rarly talked about, deemed ineffective as a ship type it was promptly discontinued.",
+        "1": "This class was to be mass produced like the NX type ships however that idea was abandoned partway through construction."
+    }
+}

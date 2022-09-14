@@ -1,0 +1,73 @@
+{
+    "Power Core": {
+        "Primary_Type": "ZPM",
+        "Primary_Version": 56,
+        "Primary_Style": "Crystal",
+        "Primary_Variation": null,
+        "Secondary_Type": null,
+        "Secondary_Version": 0,
+        "Secondary_Style": null,
+        "Secondary_Variation": null,
+        "Tertiary_Type": null,
+        "Tertiary_Version": 0,
+        "Tertiary_Style": null,
+        "Tertiary_Variation": null
+    },
+    "Propultion": {
+        "Sub-Light": [
+            [
+                "Impulse",
+                2,
+                "Hyper Accelerant"
+            ]
+        ],
+        "FTL": [
+            [
+                "Spatial Accelerant",
+                1,
+                "Short-range"
+            ]
+        ],
+        "Atmospheric": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Aquatic": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Terrestrial": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ],
+        "Temporal": [
+            [
+                "",
+                0,
+                ""
+            ]
+        ]
+    },
+    "Computer Core": {
+        "Main Type": "Quantum Computer",
+        "Main Core Count": 25,
+        "AI": "Xanadu",
+        "A.S.T.R": "None"
+    },
+    "Other": {
+        "Impulse After Burner": 2,
+        "Missile Targeting Module": 1,
+        "RCS Support System": 10,
+        "Gravity Nulification Module": 1
+    },
+    "Notes": {}
+}

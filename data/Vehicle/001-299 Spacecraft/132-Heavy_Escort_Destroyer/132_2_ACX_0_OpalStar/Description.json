@@ -1,0 +1,28 @@
+{
+    "Characteristics": {
+        "Length": [
+            1677,
+            "m"
+        ],
+        "Width": [
+            400,
+            "m"
+        ],
+        "Pylon Length": [
+            1139,
+            "m"
+        ],
+        "Pylon Count": [
+            6
+        ],
+        "Pylon Breakdown": [
+            3,
+            3,
+            0
+        ]
+    },
+    "Description": {
+        "0": "A larger Supporting Craft to the Topaz Star Class.",
+        "1": "The design came about from the development of the Aquatic Opal Star Class."
+    }
+}

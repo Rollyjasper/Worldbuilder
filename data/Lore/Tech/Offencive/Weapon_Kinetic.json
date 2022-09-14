@@ -1,0 +1,227 @@
+{
+    "Bar Type Railgun": {
+        "Dual-Bar": {
+            "Style": [
+                "Heavy",
+                null
+            ],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "The smallest type of rail gun. Used as the foundation of kenetic point defence cannons.\nThe dual bar is, due to its small size, the main type of railgun that is used on the ground."
+        },
+        "Twin Dual-Bar": {
+            "Style": [
+                "Heavy",
+                null
+            ],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A vesion of the Dual bar that is two railguns with a single reload system."
+        },
+        "Tri-Bar": {
+            "Style": [
+                "Heavy",
+                null
+            ],
+            "Limits": [
+                "S1"
+            ],
+            "Desc": "A smaller, lighter railgun that fires small semi-magnetic balls at a target, although each shot does little damage, the fire rate of these weapons enables them to overwhelm shields and damage hull in a short space of time."
+        },
+        "Quad-Bar": {
+            "Style": [
+                "Heavy",
+                null
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "A smaller railgun with four parrallel bars. It fires semi-magnetic particle beams and projectiles at a supprizingly fast fire rate, however this is slow when compaired to the Tri-Bar."
+        }
+    },
+    "Thunder Type Railgun": {
+        "Thunderbolt": {
+            "Style": [
+                "Fixed",
+                null
+            ],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "The projectile is accelerated to near the speed of light.\nUpon impact the decceleration of the rod causes spactial shockwaves in the vicinity of the impact."
+        },
+        "Thunderbird": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A modified version of the thunderbolt railgun and is often used on planetside vehicles due to the slower weapon speed."
+        },
+        "Thunderchild": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A modified version of the thunderbolt railgun, it is slower like the thunderbird however it has a faster fire rate and is designed to be less disruptive to nearby persons."
+        }
+    },
+    "Fire Type Railgun": {
+        "Firebird": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "Like the thunderbolt, the projectlie is accelerated to near the speed of light.\nThe difference between them is that the firebird is fixed, unlike the thunderbolts turretable nature,  this enables the weapon to fire faster. It is often used on fighters and aircraft although some corvettes do use it."
+        },
+        "Firebolt": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A modified version of the firebird with an incresed firerate but a reduced weapon power."
+        },
+        "Firechild": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A fixed version of the thunderchild railgun, often used in a pair system on the wings of aircraft and fighters."
+        }
+    },
+    "Ice Type Railgun": {
+        "Icebolt": {
+            "Style": [],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Much like the vaiants before, the projectile is accelerated near to the speed of light.\nThese weapons are differencated from others by two features, the first is their dual modes, both fixed and turret modes, the second is the unique cooling system. This system cools the projectile and the rails to near absolute zero reducing power requierments."
+        },
+        "IceBird": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "Brings the Icebolt's unique features to more common objects by warming the weapon slightly and reducing the weapon's fire speed."
+        },
+        "Icechild": {
+            "Style": [],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "The largest railgun ever with designed and firing projectiles larger than some corvettes."
+        }
+    },
+    "Composite Type Railgun": {
+        "Burning Thunderbolt": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A version of the thunderbolt railgun used on the viper line of attack craft.\nModified to be fixed as well as being able to utilze particle beams if nessisary.\nThe design is simmiler to the firechild railgun, such as how all of the weapons use the same reload system."
+        },
+        "Shocking Firebird": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A version of the firebird railgun that combines the firerate of a tri-bar with the power and capiblities of a thunderbolt railgun all in the stronger frame of a firebird railgun.\nOnly ever used on star class shuttles and gunships as well as all types of dropship and the Ruby Star Class."
+        },
+        "Freezing Thunderbolt": {
+            "Style": [],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "A Version of the Thunderbolt railgun that puts the cooling system of the Icechild with the power of a massdriver.\nOnly used on the Sapphire Star Class and Yggdrasil Class ships."
+        },
+        "Freezing Firebird": {
+            "Style": [],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "A Version of the Firebird railgun the marries the icebolts cooling system and mount with the power of the firebird.\nOnly used on the Succsesor classes to the Dreadnought Class."
+        }
+    },
+    "Massdrivers": {
+        "Helical Massdriver": {
+            "Style": [],
+            "Limits": [
+                "S2",
+                "L1"
+            ],
+            "Desc": "A large cannon that fires a single projectile with very low frequency.\nThe speed of the round enables it to slip through many point defence grids. The projectile is made of a metal that conducts shield forms thus, the weapon can fire through a targets shields."
+        },
+        "Mega Helical Massdriver": {
+            "Style": [],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "A larger varient of the standard helical massdriver.\nThis powerful weapon was used on the Galatella and had to be mounted spinaly due to its large infratructure."
+        },
+        "Heavy Helical Massdriver": {
+            "Style": [],
+            "Limits": [
+                "S2",
+                "L1"
+            ],
+            "Desc": "A Massive version of the standard helical massdriver cannon.\nSimmiler to the version mounted on the Neptune and Saturn Class Ships these weapons were so massive that it was deemed impratical to mount them on ships and thus the weapons were left to static ground instilations."
+        },
+        "Massdriver": {
+            "Style": [],
+            "Limits": [
+                "S1"
+            ],
+            "Desc": "A Smaller version of the helical massdriver.\nLess powerful but can adjust the trejectory slightly."
+        },
+        "Light Helical Massdriver": {
+            "Style": [],
+            "Limits": [
+                "S2",
+                "L1"
+            ],
+            "Desc": "A lighter, stripped down version of the normal helical massdriver."
+        }
+    },
+    "Ballistic Shell Launcher": {
+        "Light": {
+            "Style": [],
+            "Limits": [
+                "L1"
+            ],
+            "Desc": "Small launcher that fires a small Photonic explosive 50-500 meters away."
+        },
+        "Seige": {
+            "Style": [],
+            "Limits": [
+                "L1"
+            ],
+            "Desc": "A medium sized launch that fires Photonic and Penertative shell 350m-470,000km away."
+        },
+        "Intercontinental": {
+            "Style": [],
+            "Limits": [
+                "L1"
+            ],
+            "Desc": "A Large launcher that can fire fission, fusion, large photonic and Penertative shells 250,000-1,000,000km away."
+        }
+    },
+    "Ground": {
+        "R-Type": {
+            "Style": [],
+            "Limits": [
+                "L2"
+            ],
+            "Desc": "Also known as Dragobolt Railguns.\nThese are hand-held railguns of various sizes and configerations that all shoot a rod of charged material at a target at near super-sonic speeds."
+        }
+    },
+    "Miscellaneous": {
+        "MR-33 Mounted": {
+            "Style": [],
+            "Limits": [
+                "S5"
+            ],
+            "Desc": ""
+        }
+    }
+}

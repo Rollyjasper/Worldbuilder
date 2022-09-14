@@ -1,0 +1,41 @@
+{
+    "Space": [
+        "External",
+        "Internal",
+        "Retractable"
+    ],
+    "Land": [
+        "Turret",
+        "Body",
+        "Roof"
+    ],
+    "Air": [
+        "Wing",
+        "Verteral",
+        "Dorsal",
+        "Port",
+        "Starbord",
+        "Fore",
+        "Aft",
+        "In-Wing",
+        "In-Nose",
+        "On-Tailplane",
+        "Dorsal Wing",
+        "Ventral Wing",
+        "Door",
+        "Bay"
+    ],
+    "Water": [
+        "Deck",
+        "Retractable",
+        "Bow",
+        "Internal",
+        "Submerged"
+    ],
+    "Static": [
+        "Building",
+        "Fortified",
+        "Mobile",
+        "Underground"
+    ]
+}

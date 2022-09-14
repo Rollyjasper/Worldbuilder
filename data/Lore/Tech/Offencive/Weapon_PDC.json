@@ -1,0 +1,51 @@
+{
+    "Flac":{
+        "Refractive":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"A type of flac that disperses energy weapons as well as intersepting projectiles."
+        }
+    },
+    "Grid":{
+        "Level 1":{
+        "Style":[],
+        "Limits":["L1"],
+        "Desc":"Pure kenetic weapons, level 1 point defence is designed to deal with aircraft, surface-to-surface and orbit-to-surface ordinance."
+        },
+        "Level 2":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"Specilized phaser/PHAS beam turrets. These match the spectrum of the energy weapons used on the ship.\nOften used by corvettes due to the compact and versitile nature of the weapons."
+        },
+        "Level 3":{
+        "Style":[],
+        "Limits":["U1"],
+        "Desc":"A combination of rapid fire coilguns and semi-hardlight projectile barreries."
+        },
+        "Level 4":{
+        "Style":[],
+        "Limits":["S1"],
+        "Desc":"A mixture of kenetic, energy and semi-hardlight batteries are used."
+        },
+        "Level 5":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"An assortment of interceptor missiles is added to the Level 3 configeration of batteries."
+        },
+        "Level 6":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"Known as the 'Ray-cast'. This type of point defence grid uses precision tachyon beams.\nThese beams can not only hit projectiles near the speed of light but they can also destroy said projectile almost instantly."
+        },
+        "Level 7":{
+        "Style":[],
+        "Limits":["S2"],
+        "Desc":"Uses a mixture of kenetic battries and small photonic projectile launchers."
+        },
+        "Level 8":{
+        "Style":[],
+        "Limits":["S3"],
+        "Desc":"A simple PD grid made from miniture phaser coil turrets.\nClusters of these can combine their beams to act like normal weapons although this can damage the turrets. Also used on the Edda Class ship."
+        }
+    }
+}

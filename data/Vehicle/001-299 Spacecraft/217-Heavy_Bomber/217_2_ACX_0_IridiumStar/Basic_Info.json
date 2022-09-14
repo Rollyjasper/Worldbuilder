@@ -1,0 +1,15 @@
+{
+    "Info": {
+        "Class Name": "IridiumStar",
+        "Class Type": "217",
+        "Class Type Name": "Heavy_Bomber",
+        "Class Sub-Type": "None",
+        "Generation": "2",
+        "Core Type": "ACX",
+        "Order": "0",
+        "Range": [
+            800.0,
+            "MPc"
+        ]
+    }
+}

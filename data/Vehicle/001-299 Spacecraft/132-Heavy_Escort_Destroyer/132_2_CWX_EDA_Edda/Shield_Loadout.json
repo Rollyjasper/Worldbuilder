@@ -1,0 +1,30 @@
+{
+    "Primary": {
+        "Type": "Combat",
+        "Sub-Type": "Adaptive",
+        "Version": 14
+    },
+    "Secondary": {
+        "Type": "Sentinal",
+        "Sub-Type": "Adaptive",
+        "Version": 14
+    },
+    "Tertiary": {
+        "Type": "Assist",
+        "Sub-Type": "Standard",
+        "Version": 1
+    },
+    "Ever-Shield": {
+        "Generation": 7,
+        "Bay Size": "L",
+        "Bay Count": 4
+    },
+    "Navigational": {
+        "Mount": "Array",
+        "Version": 14
+    },
+    "Hull": {
+        "Type": "Composite"
+    },
+    "Notes": {}
+}

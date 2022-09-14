@@ -1,0 +1,42 @@
+{
+    "Primary": {
+        " Turret Projectile Laser Cannon": [
+            21,
+            "External"
+        ],
+        "Heavy Broadside Projectile Laser Cannon": [
+            16,
+            "Internal"
+        ],
+        " Ocilating Type Semi-Hardlight Beam Weapon": [
+            20,
+            "External"
+        ]
+    },
+    "Secondary": {
+        " Thunderbolt Railgun": [
+            6,
+            "External"
+        ]
+    },
+    "Heavy": {
+        "Energy Based Lightning Cannon Heavy Pylon Config": [
+            1,
+            "External"
+        ]
+    },
+    "Pod": {},
+    "Point Defence Grid": {
+        "Level 4 Grid": [
+            120,
+            "External"
+        ]
+    },
+    "Drone": {
+        "Drone Bay": [
+            3,
+            "Internal"
+        ]
+    },
+    "Notes": {}
+}

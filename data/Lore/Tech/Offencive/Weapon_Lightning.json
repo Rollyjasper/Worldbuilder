@@ -1,0 +1,92 @@
+{
+    "Miscellaneous": {
+        "Micro Lightning Cannon Turret": {
+            "Style": [],
+            "Limits": [
+                "U1"
+            ],
+            "Desc": "A smaller variation of the lightning cannon that is placed on a turretable mount.\nUses augmented lightning cannons that have the propities of their core with a pylon configeration."
+        },
+        "Tachyon Based": {
+            "Style": [
+                "Deflector Mount"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requires grav arc lightning core.\nThe front of this beam travels faster than the speed of light enabling the weapon to hit before a ship can regiter the impact."
+        },
+        "Quantum Based": {
+            "Style": [
+                "Spinal Mount",
+                "Heavy Spinal Mount"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers plasma arc lightning core.\nThis beam is assembled within the spine of the ship before being fired like a projectile shot. This gives a powerful bolt the length of the ship that can blast many holes in the target."
+        },
+        "Neutreno Based": {
+            "Style": [
+                "Hull Mount",
+                "Inline Hull Mount"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers mag arc lightning core.\nThis beam is thin allowing it to slip between shields and hull, disrupting internal workings of ships."
+        },
+        "Energy Based": {
+            "Style": [
+                "Pylon Config",
+                "Atmospheric Pylon Config",
+                "Micro Pylon Config",
+                "Heavy Pylon Config",
+                "Long-Range Heavy Pylon Config",
+                "Long-Range Pylon Config",
+                "Dual Mode Pylon Config"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers enhanced grav arc lightning core.\nThe most powerful beam type. This type of lightning cannon draws directly from the core and cuts through hull,shields and space like nothing."
+        },
+        "Planet Based": {
+            "Style": [
+                "Ring Config"
+            ],
+            "Limits": [
+                "L1",
+                "S3"
+            ],
+            "Desc": "Requiers planetside enchanced grav arc lightning core or supersize enhanced plasma arc lightning core.\nThis beam is fired from planets as well as planet sized ships and arrays. The advantage of this type is the beams diamiter and instiblity."
+        },
+        "Solar Based": {
+            "Style": [
+                "Drone Config"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers enhanced stellar grav arc lightning core.\nThe beam carries intence thermal energy with it melting hulls and overloading shields."
+        },
+        "Cryo Based": {
+            "Style": [
+                "Lance Config"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers enhanced 'Cold Star' grav arc lighting core.\nThe beam absorbs all surrounding thermal energy making it seem incredibly cold. Ships hit by the weapon are hard to repear as the now brittle hull must be removed before new structure can be added."
+        },
+        "Chroniton Based": {
+            "Style": [
+                "Crystal Config"
+            ],
+            "Limits": [
+                "S2"
+            ],
+            "Desc": "Requiers a chronoton enhanced grav arc lightning core.\\nUses temporal energies to extract additional power by consuming possible futures however, this will reduce the lifespan of the core's arcs."
+        }
+    }
+}

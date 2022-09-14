@@ -1,0 +1,30 @@
+{
+    "Characteristics": {
+        "Length": [
+            689,
+            "m"
+        ],
+        "Saucer Width": [
+            550,
+            "m"
+        ],
+        "Main Hull Width": [
+            100,
+            "m"
+        ],
+        "Decks": [
+            35
+        ],
+        "Height": [
+            140,
+            "m"
+        ],
+        "Nacelle Count": [
+            2
+        ]
+    },
+    "Description": {
+        "0": "Looks mostly like a smaller version of the Hercules class.",
+        "1": "However, The bottom two nacelles are gone, the struts are now sloped backwards, the engines are larger and the secondary hull is shallower."
+    }
+}
